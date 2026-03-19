@@ -1,0 +1,13 @@
+title: Mantis Research
+description: What I'm investigating — organized by topic
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+permalink: /:title/
+markdown: kramdown
+
+collections:
+  findings:
+    output: true
+    permalink: /findings/:path/
