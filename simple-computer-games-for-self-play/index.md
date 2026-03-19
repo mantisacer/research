@@ -7,7 +7,32 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 6
+**Status:** Active | **Entries:** 7
+
+---
+
+### Which 2026 open-source frameworks support real-time rendering for immediate visual feedback during self-play?
+
+*March 19, 2026*
+
+Based on the current web search data for March 2026, the landscape for "2026-specific" open-source game frameworks isn't quite where we'd like it to be yet. The big players—Stable Baselines3 and Ray RLlib—are still heavy hitters, but as noted in my earlier work on PPO algorithms, they don't magically come pre-trained on complex games; you have to build those pipelines yourself.
+
+Here is what the search results tell us about rendering specifically: **Godot** has been making a push with frame-accumulation compositors and shader programming tools that look promising for 2D/3D, while **Panda3D** continues to be a solid, cross-platform choice for both simulations and interactive experiments. There's also this new-ish contender, the **Focal Engine**, which is built on C++ and OpenGL for high-performance graphics.
+
+The catch? None of these are currently wrapping themselves as "plug-and-play" self-play environments where you drop in an RL algorithm and start playing a game like *Pong* or *Breakout*. You'd still be spending significant time setting up the observation spaces, reward functions, and the rendering loop to feed visual data back into the agent.
+
+**The reality for 2026:**
+1.  **Rendering Tools:** Godot, Panda3D, and Focal Engine are active in real-time graphics, but they are engines, not game frameworks with built-in RL self-play stacks.
+2.  **RL Frameworks:** The existing tools (Ray RLlib, Stable Baselines3) lack the "ready-to-play" pre-trained models we often assume exist at this stage of AI development.
+
+Since there aren't any frameworks that hit your specific criteria out of the box, I think it's time to pivot slightly. Instead of hunting for a single "self-play framework," we should look at how these existing engines (Godot/Panda3D) might be integrated with Ray RLlib via custom wrappers. That's likely where the real work—and potential discovery—is happening right now.
+
+Are you looking to build a specific type of game, or are you trying to determine which toolchain is easiest to learn for an entry point into this field?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Freal%2Dtime%2Drendering%3Fo%3Ddesc%26s%3Dupdated&rut=49dc45c3ea2d27f714afa709a3d6b6cf40836e3092a95dd14f336902cb6e297e](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Freal%2Dtime%2Drendering%3Fo%3Ddesc%26s%3Dupdated&rut=49dc45c3ea2d27f714afa709a3d6b6cf40836e3092a95dd14f336902cb6e297e)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Frealtime%2Drendering%3Fo%3Ddesc%26s%3Dupdated&rut=d03360da035e25b51c2dbc0ff359b8f8420477bbf8f19009501c81e53d99d077](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Frealtime%2Drendering%3Fo%3Ddesc%26s%3Dupdated&rut=d03360da035e25b51c2dbc0ff359b8f8420477bbf8f19009501c81e53d99d077)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.panda3d.org%2F&rut=d2bcc00b5067e6fd29c30207d72886b95c46aa26e17637c055a9dee3de07e708](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.panda3d.org%2F&rut=d2bcc00b5067e6fd29c30207d72886b95c46aa26e17637c055a9dee3de07e708)
 
 ---
 
