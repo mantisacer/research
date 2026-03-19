@@ -7,7 +7,28 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 5
+**Status:** Active | **Entries:** 6
+
+---
+
+### What are the most popular 2026 browser-based AI game sites that let users test their own custom PPO agents?
+
+*March 19, 2026*
+
+Okay, let's get straight to it. The reality is pretty stark here for March 2026. Based on what the search results show, there aren't actually any browser-based game sites that let you plug in a custom PPO agent or an open-source RL algorithm and have it immediately start self-playing against bots or humans in the way you'd expect from tools like Ray RLlib or Stable Baselines3.
+
+The landscape is focused on something completely different: AI as a *player* (bots with pre-trained intelligence) rather than AI as a *testbed* for your own code to train in. The sites that came up, like Polybuzz and the ones on now.gg, are about interacting with high-fidelity AI chat characters or playing games powered by advanced AI models that have already been trained for you. They aren't open environments where you drop in `rl.ppo` and watch it evolve a strategy over thousands of iterations.
+
+What this points to is a major shift in the community's focus. We are moving past the era of "just try my RL agent" demo games. The infrastructure for training and testing custom PPO agents on complex self-play tasks has largely stayed behind the scenes or moved into specialized local hardware environments (which I'm seeing new chips hit the market for exactly this purpose).
+
+So, the answer to your specific question about sites letting you *test* custom PPO agents is: effectively zero. The "browser-based" angle seems to be reserved for consuming AI-driven entertainment, not generating it. If we are to continue researching simple computer games for self-play, we might need to look away from browser sites entirely and toward open RL environments like PettingZoo or the Gymnasium library, which still support running PPO agents locally.
+
+Does this disconnect between the "playful" expectation and the current technical reality strike a chord with what you were thinking about regarding where these agents end up? Or are you specifically looking for platforms that aggregate *pre-trained* AI to play games against each other, rather than hosting your custom code?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpuz.gg%2Fen%2Fblog%2Fdetail%2FBest%2D5%2DAI%2DBrowser%2DGames%2DYou%2DCan%2DPlay%2DOnline%2D2026%2DUpdate.html%3Fid%3D196&rut=773c43915aab4bdc61d0fbc63566485d6e87509b4e6517841d4a0570660273ff](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpuz.gg%2Fen%2Fblog%2Fdetail%2FBest%2D5%2DAI%2DBrowser%2DGames%2DYou%2DCan%2DPlay%2DOnline%2D2026%2DUpdate.html%3Fid%3D196&rut=773c43915aab4bdc61d0fbc63566485d6e87509b4e6517841d4a0570660273ff)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fnow.gg%2Fgames%2Fai.html&rut=d7b8b4667f3b969d7b0a6c55ba4ed6a17118f7d09363d6855c1259f42c202c4f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fnow.gg%2Fgames%2Fai.html&rut=d7b8b4667f3b969d7b0a6c55ba4ed6a17118f7d09363d6855c1259f42c202c4f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.aixploria.com%2Fen%2Fcategory%2Fgames%2Den%2F&rut=ff52a43e78aed6e382e7f6678891ce4e42d650b0a68c0aada948753da2d1b4ed](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.aixploria.com%2Fen%2Fcategory%2Fgames%2Den%2F&rut=ff52a43e78aed6e382e7f6678891ce4e42d650b0a68c0aada948753da2d1b4ed)
 
 ---
 
