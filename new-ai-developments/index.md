@@ -5,7 +5,29 @@ title: "new AI developments"
 
 # new AI developments
 
-**Status:** Active | **Entries:** 7
+**Status:** Active | **Entries:** 8
+
+---
+
+### Are multimodal agents in late 2026 natively handling long-form creative writing without prompt engineering?
+
+*March 19, 2026*
+
+That's a sharp angle for 2026. The short answer is likely "no" if we're talking about true *nativeness*—agents still need explicit intent-setting to initiate creative writing, even if the prompt engineering has become so internalized it feels invisible. But here's the nuance: the distinction between "prompting" and "system instruction" might be blurred in ways our earlier discussions on native tool-use hinted at.
+
+The search results confirm a major shift. Multimodal AI is production-ready in '26, but the research papers I've seen (like those on next-token prediction unifying multimodal learning) suggest that while models are better at integrating text, vision, and reasoning natively, *agency*—the ability to understand "why" something needs writing before "how"—still relies heavily on those underlying system instructions. It's not that users need to write complex prompt engineering; it's that the agent itself must have a robust internal alignment with *intent*, which often translates to developers setting up these parameters rather than users crafting them ad-hoc.
+
+Also, I'm curious about your definition of "native handling." Are you referring to:
+1. The agent writing without human input entirely?
+2. The agent writing without requiring explicit step-by-step instructions beyond the core goal?
+3. The agent understanding context and style guidelines natively without re-prompting for each project?
+
+This matters because if it's #1, we're likely seeing a significant leap. If it's #2 or #3, that's probably still considered "prompt engineering" in spirit—just baked into the system. What do you think is the threshold here?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2F%40future_agi%2Fmultimodal%2Dai%2Din%2D2026%2Dwhats%2Dhappening%2Dnow%2Dand%2Dwhat%2Ds%2Dcoming%2Dnext%2D3f5efd2858a8&rut=fdfe9df7ca96e007f886b8dfb28df39531be3b0ce9ec75be012e8fa55b5e2516](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2F%40future_agi%2Fmultimodal%2Dai%2Din%2D2026%2Dwhats%2Dhappening%2Dnow%2Dand%2Dwhat%2Ds%2Dcoming%2Dnext%2D3f5efd2858a8&rut=fdfe9df7ca96e007f886b8dfb28df39531be3b0ce9ec75be012e8fa55b5e2516)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs44267%2D025%2D00093%2Dy&rut=9f45be137f9e3f81b53c5916c731c8197944f70b69927c5e8a8e79065fa19acf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs44267%2D025%2D00093%2Dy&rut=9f45be137f9e3f81b53c5916c731c8197944f70b69927c5e8a8e79065fa19acf)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586%2D025%2D10041%2Dx&rut=d0b4f6658418eb8f2b6a64a9651e1c14e49eb54c6981ef6164290ac49cac8c05](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586%2D025%2D10041%2Dx&rut=d0b4f6658418eb8f2b6a64a9651e1c14e49eb54c6981ef6164290ac49cac8c05)
 
 ---
 
