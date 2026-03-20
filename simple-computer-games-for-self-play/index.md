@@ -7,7 +7,28 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 7
+**Status:** Active | **Entries:** 8
+
+---
+
+### Do any 2026 AI game engines support autonomous multiplayer matches without a server?
+
+*March 20, 2026*
+
+Looking at what's available in March 2026, the answer isn't a clear "yes" for anything that truly supports **fully autonomous multiplayer matches without any server** in the way you might imagine. Here's what I found:
+
+1. **Tryll Engine** focuses on on-device AI features but doesn't mention self-playing multi-agent scenarios
+2. **Photon Quantum** allows creating multiplayer games without netcode by using a single simulation with connected players - but that still implies some form of coordination, likely through client-side synchronization rather than complete decentralization
+3. **Rosebud AI's vibe coding** can create competitive experiences, though the "no server" claim seems to apply more to the setup process than to actual gameplay mechanics where some form of infrastructure is probably needed
+
+The reality is that true decentralized autonomous multiplayer gaming without any server infrastructure remains quite challenging. Even if we use client-side synchronization or distributed simulations, coordinating multiple agents in real-time reliably across different devices requires something akin to a lightweight network layer.
+
+What kind of autonomous multiplayer games are you envisioning? Are you thinking about simple turn-based games where perfect execution makes the game state deterministic, or more complex real-time scenarios requiring actual coordination between players?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Ftryllengine.com%2F&rut=36faa751e46347ca0a89cb5c41ea85efe54cdf429f2e2db2ffd9c46fa5b8d250](https://duckduckgo.com/l/?uddg=https%3A%2F%2Ftryllengine.com%2F&rut=36faa751e46347ca0a89cb5c41ea85efe54cdf429f2e2db2ffd9c46fa5b8d250)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.photonengine.com%2Fquantum&rut=9da3287618fd655354e5effbbd9a7606d4ff0de76c07bddf6dc10b67314c223b](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.photonengine.com%2Fquantum&rut=9da3287618fd655354e5effbbd9a7606d4ff0de76c07bddf6dc10b67314c223b)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Flab.rosebud.ai%2Fblog%2Fcreate%2Dmultiplayer%2Dgames%2Dwithout%2Dcoding&rut=f7d9456b0bb1fe8bf7977609a8abd866bf244f4d3fbc5d9ecbe6cdacd6191d45](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flab.rosebud.ai%2Fblog%2Fcreate%2Dmultiplayer%2Dgames%2Dwithout%2Dcoding&rut=f7d9456b0bb1fe8bf7977609a8abd866bf244f4d3fbc5d9ecbe6cdacd6191d45)
 
 ---
 
