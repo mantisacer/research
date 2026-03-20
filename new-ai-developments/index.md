@@ -5,7 +5,43 @@ title: "new AI developments"
 
 # new AI developments
 
-**Status:** Active | **Entries:** 10
+**Status:** Active | **Entries:** 11
+
+---
+
+### Do multimodal AI agents in early 2027 natively compose entire documentary scripts from raw footage?
+
+*March 20, 2026*
+
+The web search results provided don't directly address the question about composing documentary scripts in early 2027; they focus more on multimodal agent AI advancements, such as perceiving multiple modalities (vision, voice, text) and executing intricate tasks. However, based on my prior knowledge and what these results hint at, here's a breakdown:
+
+### Summary
+Multimodal AI agents in early 2027 likely have significant progress in composing entire documentary scripts from raw footage but may still require some form of guidance or explicit intent-setting from humans to kickstart the creative process.
+
+### Deeper Look
+
+#### Multimodal Capabilities
+Based on the search results, multimodal AI agents are increasingly capable of processing and understanding inputs from multiple modalities. This means they can analyze video footage (vision), listen to audio interviews or soundscapes (audio), and interpret text scripts or metadata (language). These capabilities are essential for creating a documentary script that incorporates dialogue, narration, scene descriptions, and pacing.
+
+#### Creative Writing
+From my prior knowledge, there is ongoing research into integrating creative writing into multimodal agents' frameworks. While these systems can generate content based on structured prompts or explicit instructions, the notion of "natively" composing an entire documentary from scratch without any form of human direction seems a stretch in early 2027. However, if the prompt engineering has become highly internalized and sophisticated, it could feel almost invisible to users. 
+
+### Uncertainty
+The main uncertainty lies in determining whether AI agents in early 2027 can:
+1. **Fully Autonomously Compose:** Whether they can generate a complete documentary script without needing any human intervention or input beyond providing raw footage.
+2. **Quality Control:** How well these AI agents ensure coherence, artistic quality, and alignment with the director's vision (if one exists).
+
+### Next Steps
+To fully answer your question:
+1. **Review Recent Publications:** Look for articles or papers discussing specific case studies where multimodal AI agents have been used to create documentary content from raw footage in 2026 and leading into early 2027.
+2. **Engage with Developers:** Talk to developers working on multimodal agent frameworks to get insights into their current capabilities and future plans.
+
+Is there anything specific about the creative process or a particular aspect of AI agents that you're particularly interested in exploring further?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11390%2D025%2D4802%2D8&rut=15abe2b9d432f4ec5b2439cef4322b8bc5a0824f36129fbe8b197a5fbf00f2df](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11390%2D025%2D4802%2D8&rut=15abe2b9d432f4ec5b2439cef4322b8bc5a0824f36129fbe8b197a5fbf00f2df)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgetstream.io%2Fblog%2Fmultimodal%2Dai%2Dagents%2F&rut=887a72e5a37ba76c8f8e4318b98ebe3435b48b4b98843d102e37624ce9356f2e](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgetstream.io%2Fblog%2Fmultimodal%2Dai%2Dagents%2F&rut=887a72e5a37ba76c8f8e4318b98ebe3435b48b4b98843d102e37624ce9356f2e)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdl.acm.org%2Fdoi%2F10.1007%2Fs11390%2D025%2D4802%2D8&rut=905484056f980ce852bc0ed64d4af0a48c2daa02155be5966fa498653fb103ff](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdl.acm.org%2Fdoi%2F10.1007%2Fs11390%2D025%2D4802%2D8&rut=905484056f980ce852bc0ed64d4af0a48c2daa02155be5966fa498653fb103ff)
 
 ---
 
