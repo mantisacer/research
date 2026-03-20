@@ -7,7 +7,31 @@ title: "Garden tips for Zone 5"
 
 *Gardening tips for people living in Zone 5, focused on smaller gardens with 6-7 beds.*
 
-**Status:** Active | **Entries:** 4
+**Status:** Active | **Entries:** 5
+
+---
+
+### Are there new 2026 planting calendars for early spring small gardens in Zone 5?
+
+*March 20, 2026*
+
+The web results don't give me a single PDF for "early spring small garden" calendars right now, but they do point directly to two solid resources for Zone 5: **Old Farmer's Almanac** and the **2026 Zone-by-Zone Garden Planning Calendar from Elm Dirt**. Since both are customized by zone (and likely by zip code within that zone), they should handle your specific location in Zone 5.
+
+I know I found earlier that the late winter window is finally opening up for Zone 5 this year, which shifts things compared to previous years where we were strictly waiting it out. The Almanac usually gives you start dates for vegetables and herbs, while Elm Dirt seems to break it down nicely into "start seeds," "transplant," and "harvest" phases.
+
+For a small garden with only 6-7 beds, I suspect these calendars will list crops optimized for tight spaces, though I'm not sure if they explicitly factor in your bed size constraint—that's something I'll need to filter for manually. Are you aiming to start cold-hardy crops this month or looking more at late winter starts?
+
+**What I found:**
+1.  **Old Farmer's Almanac Planting Calendar and Guide 2026**: Customized by zip code, covering vegetables, herbs, and fruit start dates.
+2.  **Elm Dirt 2026 Zone-by-Zone Garden Planning Calendar**: Comprehensive guide for starting seeds, transplanting, and harvesting based on hardiness zone.
+
+**Next steps:**
+I can't click those links directly to open the actual calendars here, but I can help you interpret what they say once you have them or summarize specific entries if you paste text from the results. Do you know your specific zip code for Zone 5? That might be the key variable in finding the earliest dates for a small garden.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Damazon.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DYmsIIZxmZGCSDGVwSihCnpmWhM7tEVKnfLf3QIsOzsrDTi6g6m9baXevdHgptBkMGX6YfXomln%252DlnwOEPiLET5YZH9uBhjIvILhRvzh9JhhFSN_gjMTLU6ERT8y9y93V7VlL_cFGZZgtsqBVoXLGAFW8BiFLbgvDrA3i4xnFx7c.qz6JH_tSdWM6UFnjXUEpnA%26rut%3D3d2c840c82231916ac7d88ec7742cef3e0d6832f91885d15e02445125a8a000d%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8r4jAQcel1IY8hOe91i3iWjVUCUzxleAmVqv7fWxBGJMFFy5%252DFNPH8ptem0Y5ef_HtLjCv1hA7%252DOxXWjy%252DDV9OrOE1yI76M07h%252D6KuWHqpQOdk59OPnR5ZqKQy0joekQaaswOi8HSWJjMjM950kJzw%252DvAAWg28erE2c3t2KzRxbVL0crr3TT%252DbTFoGD%252D0ryn3yGmWN4BCBQfacLqOKzmxt3yENQU%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGFsbWFuYWMlMmJnYXJkZW5pbmclMmJjYWxlbmRhciUyYjIwMjYlMjZpbmRleCUzZGFwcyUyNnRhZyUzZHR4dHN0ZGJnZHQtMjAlMjZyZWYlM2RwZF9zbF9yOTByZGgxM3lfcCUyNmFkZ3JwaWQlM2QxMjQwMjUwMzg3NTk0NDYyJTI2aHZhZGlkJTNkNzc1MTU3ODk2MTg1MjElMjZodm5ldHclM2RzJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QxMDY0NTMlMjZodnRhcmdpZCUzZGt3ZC03NzUxNjA4NTAwNDAwOCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTgzNTJfMTM1NzU5MTYlMjZtY2lkJTNkYTliYjhiZGE1MzFjM2E4MGFiOWM2ZjEwOTkxZTIzM2UlMjZsYW5ndWFnZSUzZGVuX1VTJTI2bXNjbGtpZCUzZDc1OTI4MjU2ZDlmOTE0NTRmYmRkZWJlYjE0MTBkOWNi%2526rlid%253D75928256d9f91454fbddebeb1410d9cb%26vqd%3D4%2D307926392642489457459326033552460163888%26iurl%3D%257B1%257DIG%253D78E0830CEA5342AE9215934107543557%2526CID%253D28523612E939631D12122130E8B262B9%2526ID%253DDevEx%252C5038.1&rut=bdf3f89d9451546126b73e699568c0285999f1e5f0a414a59006175e903e974f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Damazon.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DYmsIIZxmZGCSDGVwSihCnpmWhM7tEVKnfLf3QIsOzsrDTi6g6m9baXevdHgptBkMGX6YfXomln%252DlnwOEPiLET5YZH9uBhjIvILhRvzh9JhhFSN_gjMTLU6ERT8y9y93V7VlL_cFGZZgtsqBVoXLGAFW8BiFLbgvDrA3i4xnFx7c.qz6JH_tSdWM6UFnjXUEpnA%26rut%3D3d2c840c82231916ac7d88ec7742cef3e0d6832f91885d15e02445125a8a000d%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8r4jAQcel1IY8hOe91i3iWjVUCUzxleAmVqv7fWxBGJMFFy5%252DFNPH8ptem0Y5ef_HtLjCv1hA7%252DOxXWjy%252DDV9OrOE1yI76M07h%252D6KuWHqpQOdk59OPnR5ZqKQy0joekQaaswOi8HSWJjMjM950kJzw%252DvAAWg28erE2c3t2KzRxbVL0crr3TT%252DbTFoGD%252D0ryn3yGmWN4BCBQfacLqOKzmxt3yENQU%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuYW1hem9uLmNvbSUyZnMlMmYlM2ZpZSUzZFVURjglMjZrZXl3b3JkcyUzZGFsbWFuYWMlMmJnYXJkZW5pbmclMmJjYWxlbmRhciUyYjIwMjYlMjZpbmRleCUzZGFwcyUyNnRhZyUzZHR4dHN0ZGJnZHQtMjAlMjZyZWYlM2RwZF9zbF9yOTByZGgxM3lfcCUyNmFkZ3JwaWQlM2QxMjQwMjUwMzg3NTk0NDYyJTI2aHZhZGlkJTNkNzc1MTU3ODk2MTg1MjElMjZodm5ldHclM2RzJTI2aHZxbXQlM2RwJTI2aHZibXQlM2RicCUyNmh2ZGV2JTNkYyUyNmh2bG9jaW50JTNkJTI2aHZsb2NwaHklM2QxMDY0NTMlMjZodnRhcmdpZCUzZGt3ZC03NzUxNjA4NTAwNDAwOCUzYWxvYy0xOTAlMjZoeWRhZGNyJTNkMTgzNTJfMTM1NzU5MTYlMjZtY2lkJTNkYTliYjhiZGE1MzFjM2E4MGFiOWM2ZjEwOTkxZTIzM2UlMjZsYW5ndWFnZSUzZGVuX1VTJTI2bXNjbGtpZCUzZDc1OTI4MjU2ZDlmOTE0NTRmYmRkZWJlYjE0MTBkOWNi%2526rlid%253D75928256d9f91454fbddebeb1410d9cb%26vqd%3D4%2D307926392642489457459326033552460163888%26iurl%3D%257B1%257DIG%253D78E0830CEA5342AE9215934107543557%2526CID%253D28523612E939631D12122130E8B262B9%2526ID%253DDevEx%252C5038.1&rut=bdf3f89d9451546126b73e699568c0285999f1e5f0a414a59006175e903e974f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.almanac.com%2Fgardening%2Fplanting%2Dcalendar&rut=e157cec54294b6db51957a1d7983f1c4438cd74b0f81e3e06e46057c95308d58](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.almanac.com%2Fgardening%2Fplanting%2Dcalendar&rut=e157cec54294b6db51957a1d7983f1c4438cd74b0f81e3e06e46057c95308d58)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.elmdirt.com%2Fblogs%2Fnews%2F2026%2Dzone%2Dby%2Dzone%2Dgarden%2Dguide&rut=da2164b0381ec57531727ce29915b6de467e0f0c8382c2b3ba73958bc10090f2](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.elmdirt.com%2Fblogs%2Fnews%2F2026%2Dzone%2Dby%2Dzone%2Dgarden%2Dguide&rut=da2164b0381ec57531727ce29915b6de467e0f0c8382c2b3ba73958bc10090f2)
 
 ---
 
