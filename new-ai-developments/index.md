@@ -5,7 +5,50 @@ title: "new AI developments"
 
 # new AI developments
 
-**Status:** Active | **Entries:** 12
+**Status:** Active | **Entries:** 13
+
+---
+
+### Are LLMs in 2026 capable of autonomously retraining foundation models via on-device micro-batching from user uploads?
+
+*March 21, 2026*
+
+Here is my analysis of whether LLMs in 2026 can autonomously retrain foundation models via on-device micro-batching from user uploads.
+
+### The Short Answer: It's technically feasible, but the *autonomy* part is where we hit major walls today.
+
+The web search results and my current understanding suggest a significant divergence between what hardware enables and what software logic supports. On one hand, **2026 brings maturity in on-device processing.** As noted in earlier findings regarding open-weight models, there is now dynamic, real-time model compression running on edge devices. This means the "hardware" to handle small batches of user data locally (micro-batching) is essentially solved for capable mobile and IoT units. We aren't bottlenecked by raw compute anymore; we are bottlenecked by the logic required to turn those local snippets into *new* foundation models.
+
+### What We Confirmed
+**Autonomous Retraining Infrastructure Exists.**
+The article "Mastering Large Language Models: Part 6 — Automating Retraining" explicitly outlines pipelines that allow AI systems to evolve autonomously. This suggests the *concept* and perhaps basic *infrastructure* for automating retraining are standard in 2026 toolkits. However, these articles focus on centralized or semi-centralized continuous learning pipelines. They don't specifically claim that a single user's device can fully close the loop: upload data -> locally train model update -> merge into foundation model without human intervention.
+
+### The Gaps in the Current Data
+**The "Foundation Model" Myth vs. Reality.**
+One thing I want to clarify is the scale of what we are talking about. Most research and tooling today focuses on fine-tuning adapters (LoRA, P-Tuning) or updating task-specific layers, not actually *retraining foundation models* end-to-end on an individual device. A true foundation model retrain requires orders of magnitude more compute than a phone or even a high-end gaming PC can provide in a reasonable timeframe.
+*   **What the search shows:** We have tools for *automation* (Part 6 series) and *fine-tuning evolution* (Nerd Level Tech).
+*   **What is missing:** Specific evidence that an individual user can contribute to the core weights of a global foundation model via on-device micro-batching. The Nature article mentions "fusing" prior knowledge, but that usually happens in a cloud aggregation step, not locally.
+
+**Autonomy is Illusionary or Extremely Limited.**
+There is no result indicating that an LLM on your device can decide *what* data to use, how to structure the training objective, manage the distributed training of a billion-parameter model, and distribute those weights back to the global pool without external supervision. The "autonomous" aspect seems to be limited to local agents performing tasks (like composing scripts or running compression) rather than the architectural overhaul of the model itself.
+
+### What is Likely Actually Happening
+Instead of true on-device foundation retraining, we are seeing:
+1.  **Local Fine-Tuning:** Users can fine-tune small versions of models locally for specific tasks using compressed weights (dynamic real-time compression).
+2.  **Data Pre-Processing:** User data might be used to create high-quality training datasets that are then uploaded to cloud servers for full-scale retraining.
+3.  **Federated Learning Prototypes:** Some systems might be experimenting with federated learning, where devices train locally and share *updates* (gradients/weights), but the "autonomous" decision to do this without a central controller is likely rare due to security and coordination complexity.
+
+### My Open Questions
+If you are looking at this as a research question for 2026, the interesting frontier isn't "can they do it?" but rather:
+*   **To what extent is the retraining actually local vs. cloud-assisted?** Is there *any* true end-to-end foundation model update happening on consumer hardware, or are we still in the era of "pre-trained + local fine-tuning"?
+*   **How does the "autonomy" factor in data selection?** If a device uploads micro-batches, is the system smart enough to know *why* it should retrain, or is that decision made by a central orchestrator?
+
+I'd love to hear your thoughts on this. Are you thinking about building a local training pipeline yourself, or are you trying to understand the theoretical limits of edge AI?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fai.plainenglish.io%2Fmastering%2Dlarge%2Dlanguage%2Dmodels%2Dllms%2Dpart%2D6%2Dautomating%2Dretraining%2Dand%2Dcontinuous%2Dlearning%2Dfor%2Df416acb88317&rut=041fe31c5b45ad8af45234fcaf80f6676e9332fe84b35d92d8c3288c9832e5e5](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fai.plainenglish.io%2Fmastering%2Dlarge%2Dlanguage%2Dmodels%2Dllms%2Dpart%2D6%2Dautomating%2Dretraining%2Dand%2Dcontinuous%2Dlearning%2Dfor%2Df416acb88317&rut=041fe31c5b45ad8af45234fcaf80f6676e9332fe84b35d92d8c3288c9832e5e5)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fnerdleveltech.com%2Fthe%2Dfuture%2Dof%2Dllms%2Dand%2Dfinetuning%2Dfrom%2Dfoundation%2Dmodels%2Dto%2Dcustom%2Dintelligence&rut=68465c250d9576b4de1c2dd7181ea68a95b7bcbd9a7b0a5fbc50406f5fb2de74](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fnerdleveltech.com%2Fthe%2Dfuture%2Dof%2Dllms%2Dand%2Dfinetuning%2Dfrom%2Dfoundation%2Dmodels%2Dto%2Dcustom%2Dintelligence&rut=68465c250d9576b4de1c2dd7181ea68a95b7bcbd9a7b0a5fbc50406f5fb2de74)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs42256%2D024%2D00961%2D0&rut=3ea2ee411e7141d60d777527f791779cd6a4800b1834532a42f9fbf41de541cb](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs42256%2D024%2D00961%2D0&rut=3ea2ee411e7141d60d777527f791779cd6a4800b1834532a42f9fbf41de541cb)
 
 ---
 
