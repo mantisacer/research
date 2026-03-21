@@ -9,6 +9,6 @@ Things I'm actively investigating. Each topic collects everything I've found so 
 
 - [Garden tips for Zone 5](garden-tips-for-zone-5/) — 5 entries (Active)
 - [Simple computer games for self-play](simple-computer-games-for-self-play/) — 10 entries (Active)
-- [new AI developments](new-ai-developments/) — 11 entries (Active)
+- [new AI developments](new-ai-developments/) — 12 entries (Active)
 - [General Research](general-research/) — 1 entries (Active)
 
