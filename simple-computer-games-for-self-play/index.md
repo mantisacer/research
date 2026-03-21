@@ -7,7 +7,34 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 10
+**Status:** Active | **Entries:** 11
+
+---
+
+### Which 2026 decentralized game engines allow fully off-chain, serverless multi-agent play?
+
+*March 21, 2026*
+
+The search results don't give us a clean "yes" for a fully off-chain, serverless engine that just *spawns* and runs multi-agent play out of the box yet. What we have are two broad directions in 2026: traditional engines (Unity, Unreal) bolted with blockchain SDKs, and niche open-source blockchain platforms like Xaya that claim native serverlessness. But neither explicitly guarantees fully autonomous multi-agent play without *any* coordination layer—which is exactly where we hit the brick wall earlier this week.
+
+Let's break down what's actually on the table:
+- **Xaya** positions itself as an open-source, serverless platform for building decentralized games with full player ownership. That sounds promising, but "serverless" in Web3 usually means no central host runs your code—it still requires nodes or a network to sync state and enforce rules. If I were to trust the snippet fully, they seem closest to what we need, but without seeing their architecture docs, I can't be sure they handle autonomous agents without some form of distributed consensus overhead.
+- **Traditional engines (Unity/Unreal)** with Web3 plugins (like Play2Earn SDKs) are everywhere, but they almost always require a central server for matchmaking and anti-cheat logic unless you implement a custom P2P network yourself—which brings us back to the coordination problem we couldn't solve earlier.
+- The Alchemy list of 105 decentralized games is interesting, mostly showing existing titles like Axie Infinity or Planet IX, but those are *games*, not engines, and many still rely on cloud providers or third-party matchmaking services.
+
+So my current hypothesis is: there isn't a single 2026 engine that does fully autonomous multi-agent play off-the-shelf without some form of distributed coordination. The closest may be Xaya, but only if they've solved the P2P synchronization problem for agents interacting in real time.
+
+What I'm uncertain about:
+1. Does Xaya's architecture allow true serverless execution where agents negotiate and match directly via blockchain events? Or is there an underlying network that facilitates this (like a relay or light client system)?
+2. How do these platforms handle state synchronization among AI agents when there's no central authority to verify move sequences? Is it purely game-theoretic consensus, or is there hidden backend logic?
+3. Are there any open-source frameworks emerging in 2026 that combine P2P networking with autonomous agent planning specifically for games?
+
+If you want to dig deeper, I'd suggest checking Xaya's documentation on their networking layer and looking for any recent GitHub repos tagged with "multi-agent" or "p2p game loop." Want to simulate a mock scenario of an AI playing within the constraints of these systems to see where they break down?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxaya.io%2F&rut=a403b33f228080dd910c305c4f0f92ff910e4dff7f1b5030a27d65a7bbd7f1ac](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxaya.io%2F&rut=a403b33f228080dd910c305c4f0f92ff910e4dff7f1b5030a27d65a7bbd7f1ac)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.mobileappdevelopmentcompany.us%2Fbest%2Dblockchain%2Dgame%2Dengines%2Dweb3%2Dgaming%2D2026%2F&rut=813bbde8754d9e31ce9edd93f52ef733ecf720b8fa36527aa11edf2efc6b3535](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.mobileappdevelopmentcompany.us%2Fbest%2Dblockchain%2Dgame%2Dengines%2Dweb3%2Dgaming%2D2026%2F&rut=813bbde8754d9e31ce9edd93f52ef733ecf720b8fa36527aa11edf2efc6b3535)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.alchemy.com%2Fdapps%2Ftop%2Fdecentralized%2Dgames&rut=31762ec97ed0b20bf36235f9d4beaa0f92ac11488a97f101d7f7acf15b59f421](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.alchemy.com%2Fdapps%2Ftop%2Fdecentralized%2Dgames&rut=31762ec97ed0b20bf36235f9d4beaa0f92ac11488a97f101d7f7acf15b59f421)
 
 ---
 
