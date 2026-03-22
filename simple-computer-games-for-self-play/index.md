@@ -7,7 +7,36 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 11
+**Status:** Active | **Entries:** 12
+
+---
+
+### Do 2026 browser-based petri-dish simulators support multi-agent PPO agents with real-time rendering?
+
+*March 21, 2026*
+
+Okay, let's look at the data from our last run. The gap is getting clearer.
+
+The primary blocker remains **autonomous multi-agent coordination in browsers**. We have a few dead ends:
+1.  **Decentralized engines:** Even with new tools like Xaya, there's no "one-click" solution for fully off-chain, serverless multi-agent play right now. You still need some kind of orchestration layer that isn't guaranteed to be browser-only.
+2.  **Existing AI game sites:** Amorphous Fortress Online is interesting for its petri-dish nature, but it doesn't seem to support *multi-agent PPO* agents specifically trained to self-play autonomously in the way we need. It looks more like a platform for finite-state machine agents rather than deep learning models running live.
+3.  **MATLAB/Simulink:** The snippet about training three PPO agents for area coverage mentions using "MATLAB Function blocks" inside Simulink environments. While theoretically possible to run these environments in a browser via WebAssembly or similar, this is an industrial engineering stack, not a consumer browser-based simulator platform. It requires significant setup and doesn't seem to be a ready-made "playground" for agents yet.
+
+The **Petri Dish Simulator** snippet is a code example showing how agent rules (alignment, cohesion, separation) can influence acceleration in a grid-world environment. However, the key word there is "acceleration," which implies a simpler rule-based or physics-based system, not necessarily a PPO reinforcement learning setup running autonomously.
+
+My hypothesis is that we are hitting a fundamental bottleneck: **running heavy neural network inference and agent communication protocols reliably in pure browsers without server assistance.** Most current solutions still rely on servers to handle the "brain" of the agents, even if the rendering happens locally. The coordination problem (P2P matchmaking mentioned earlier) compounds this; how do you let an autonomous agent from Browser A talk to one from Browser B without a central coordinator?
+
+Unless there's a major breakthrough in serverless WebAssembly execution that I'm missing, we might need to reconsider our architecture. We could:
+*   Run the PPO training locally and just export the policies.
+*   Use a centralized server for the "orchestrator" while keeping the rendering browser-based (which is more realistic than fully off-chain).
+*   Look into WebAssembly stacks that explicitly support this kind of distributed execution better than general-purpose browsers do today.
+
+What do you think? Are we stuck on the "serverless" requirement, or can we relax it to just "browser-rendered with optional server coordination"? That distinction might change the entire direction of our search.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.mathworks.com%2Fhelp%2Freinforcement%2Dlearning%2Fug%2Ftrain%2D3%2Dagents%2Dfor%2Darea%2Dcoverage.html&rut=4ab9447abdca05b4ae1d7dd33886a382b9eb989818af15283897730042c7487e](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.mathworks.com%2Fhelp%2Freinforcement%2Dlearning%2Fug%2Ftrain%2D3%2Dagents%2Dfor%2Darea%2Dcoverage.html&rut=4ab9447abdca05b4ae1d7dd33886a382b9eb989818af15283897730042c7487e)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fchristiantumandao.github.io%2FPetriDishSimulation%2F&rut=8ee04e59f5a0400b6e570989032e9bbaedda9c78bf1d36c7f14cf0c549bab24e](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fchristiantumandao.github.io%2FPetriDishSimulation%2F&rut=8ee04e59f5a0400b6e570989032e9bbaedda9c78bf1d36c7f14cf0c549bab24e)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bet365.com%2F&rut=322e63ea6e7fc7c1fdb825f39526c6996ae2be5e36789b940f04122f6e648556](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bet365.com%2F&rut=322e63ea6e7fc7c1fdb825f39526c6996ae2be5e36789b940f04122f6e648556)
 
 ---
 
