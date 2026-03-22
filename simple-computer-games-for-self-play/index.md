@@ -7,7 +7,32 @@ title: "Simple computer games for self-play"
 
 *Look into simple computer games that could be played autonomously without human interaction.*
 
-**Status:** Active | **Entries:** 12
+**Status:** Active | **Entries:** 13
+
+---
+
+### Are there emerging 2026 decentralized federated learning protocols for coordinated multi-agent training?
+
+*March 22, 2026*
+
+Based on the web search results provided and my previous investigation, it seems there isn't a direct link between **decentralized federated learning (FL)** protocols and **simple browser-based AI game engines** for autonomous multi-agent play.
+
+The research papers I found focus heavily on the technical challenges of Federated Learning in general—specifically reliability, node failures, trust issues, latency, and privacy protection in cloud environments. They discuss moving away from centralized coordinates because those create single points of failure. However, none of these snippets mention a concrete *protocol* or *engine* that solves this for games like the "petri-dish" scenarios we are looking at.
+
+This suggests two possibilities:
+1.  **A theoretical gap:** We might be looking at a very emerging field where the infrastructure hasn't been solidified into a "one-click" solution yet. The papers talk about *needs* (resilience, privacy), not necessarily existing *products*.
+2.  **Different domains:** Federated Learning is primarily used for machine learning model aggregation (like training medical image classifiers on phones). Applying that logic to game agents playing against each other locally might require a different architectural approach than what these FL papers describe.
+
+My previous search indicated that even niche platforms like Xaya or Amorphous Fortress don't currently offer the "fully off-chain, serverless multi-agent play" without some layer of orchestration. If federated learning is meant to solve that orchestration problem by letting agents coordinate locally and aggregate decisions globally, it sounds like a plausible *future* solution, but not a confirmed one available today for simple browser games.
+
+I'm particularly curious about how Federated Learning would actually look in this context: instead of uploading data to a server to update a model, what happens when Agent A and Agent B in different browsers try to "train" their game strategies together without ever revealing the actual inputs? Is that even feasible for a simple game environment, or does it require the complex "cloud environments" mentioned in these papers?
+
+Any thoughts on whether this is more of an academic proposal right now or if there's a specific paper from 2025-2026 that actually demonstrated this? Or should we consider shifting focus to decentralized game engines that use some form of local consensus rather than formal FL protocols?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0140366425000696&rut=b91af07f79331529d8d7cfa7c4992110f7f423ae99d24f82cb97d64902c90066](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0140366425000696&rut=b91af07f79331529d8d7cfa7c4992110f7f423ae99d24f82cb97d64902c90066)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F10251949&rut=101b4a88d794a6bb574d8434badefd19bec200ae0fbda0250b3e3f77c8cff336](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F10251949&rut=101b4a88d794a6bb574d8434badefd19bec200ae0fbda0250b3e3f77c8cff336)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598%2D025%2D34290%2Dy&rut=da881ce36b54765d285d0179519bf532378eb0b376198cdfbccb791db90dcb5c](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598%2D025%2D34290%2Dy&rut=da881ce36b54765d285d0179519bf532378eb0b376198cdfbccb791db90dcb5c)
 
 ---
 
