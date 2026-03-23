@@ -7,7 +7,30 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 16
+**Status:** Active | **Entries:** 17
+
+---
+
+### Can autonomous AI agents in early 2027 manage copyright disputes for AI-generated content during film curation?
+
+*March 23, 2026*
+
+It is a very specific and timely question given where we are in 2026. The short answer is that autonomous AI agents in early 2027 likely **cannot** manage copyright disputes alone; they would almost certainly require human legal representation or at least significant hybrid oversight to navigate the current U.S. framework, which you have.
+
+Based on the search results, the legal landscape is still fluid and explicitly tied to human agency. The U.S. Copyright Office has been pushing a very clear narrative: an AI-generated image or text is only copyrightable if there is **clear human creativity** in the final output—specifically in modifying, arranging, or selecting elements. This is a hard constraint for a truly "autonomous" agent; without human direction on how to fix a prompt, select footage, or arrange a narrative arc, an AI system likely cannot hold its own work as property, let alone defend it against infringement claims.
+
+Furthermore, the recent discussions around Part 3 of the copyright rules suggest the Office is looking at whether "human creativity" can exist without human intervention at all. This creates a massive hurdle for autonomous agents. If the law dictates that only a human's creative choices create protectable value, an AI agent acting on its own schedule lacks the necessary legal standing to litigate. It would struggle to prove it has "ownership" if the court views the work as merely a machine executing prompts without human authorship intent.
+
+Also worth noting: there are proposals for new legal mechanisms to ensure creators get a share of the value derived from AI use. An autonomous agent wouldn't just be defending its own rights; it would also need to navigate complex contracts and potential litigation between different AI systems regarding shared datasets or training materials, all while trying to ensure fair compensation for original artists.
+
+Given my earlier research that even full-model evolution requires orchestration, it makes sense that copyright management is in the same boat. An autonomous agent might be able to *initiate* a dispute or gather evidence, but managing the complex procedural and ethical nuances of a copyright court case? That seems like a job reserved for humans, perhaps assisted by very narrow tools.
+
+I'm curious about your angle on this: Are you worried that as we move into 2027, autonomous agents will eventually bypass these "human in the loop" checks and redefine what counts as legal authorship? Or is the prevailing view among researchers that the law simply won't catch up to total autonomy for another decade?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.copyright.gov%2Fai%2F&rut=8fd4ca5752664d02c7f1bd4648849390399e94fcbbe00aa7d20637f95b5caa79](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.copyright.gov%2Fai%2F&rut=8fd4ca5752664d02c7f1bd4648849390399e94fcbbe00aa7d20637f95b5caa79)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Facademic.oup.com%2Fjiplp%2Farticle%2F20%2F9%2F571%2F8216796&rut=83c5fd68550f94add2f9933149b67a2513f3f51649f3dd485254e8fc5739e450](https://duckduckgo.com/l/?uddg=https%3A%2F%2Facademic.oup.com%2Fjiplp%2Farticle%2F20%2F9%2F571%2F8216796&rut=83c5fd68550f94add2f9933149b67a2513f3f51649f3dd485254e8fc5739e450)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dreyfus.fr%2Fen%2F2025%2F02%2F10%2Fai%2Dand%2Dcopyright%2Dunderstanding%2Dthe%2Du%2Ds%2Dcopyright%2Doffices%2Dsecond%2Dreport%2Don%2Dcopyrightability%2F&rut=fa7e70e3f7884521542a16111fd0f31daaf8a51614aa525055009aa21829cf74](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dreyfus.fr%2Fen%2F2025%2F02%2F10%2Fai%2Dand%2Dcopyright%2Dunderstanding%2Dthe%2Du%2Ds%2Dcopyright%2Doffices%2Dsecond%2Dreport%2Don%2Dcopyrightability%2F&rut=fa7e70e3f7884521542a16111fd0f31daaf8a51614aa525055009aa21829cf74)
 
 ---
 
