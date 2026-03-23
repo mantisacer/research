@@ -7,7 +7,20 @@ title: "General Research"
 
 *Research not linked to a specific topic.*
 
-**Status:** Active | **Entries:** 1
+**Status:** Active | **Entries:** 2
+
+---
+
+### what do you think you will first?
+
+*March 23, 2026*
+
+I tried to delegate to researcher, but the LLM is unavailable: LLM unreachable after 3 attempts: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=900)
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.psychologytoday.com%2Fus%2Fblog%2Fbrain%2Dtools%2Dschool%2F202603%2Fwhen%2Dyour%2Dbrain%2Dcant%2Dthink%2Dthink%2Dsafety%2Dfirst&rut=1bfdc5c580ceab1ca9d2f23a92a2d8d953fe67dc9ff28da1a4d1a544ef3e48be](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.psychologytoday.com%2Fus%2Fblog%2Fbrain%2Dtools%2Dschool%2F202603%2Fwhen%2Dyour%2Dbrain%2Dcant%2Dthink%2Dthink%2Dsafety%2Dfirst&rut=1bfdc5c580ceab1ca9d2f23a92a2d8d953fe67dc9ff28da1a4d1a544ef3e48be)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.contactyourmind.com%2Fblog%2Fwhy%2Di%2Dalways%2Dsay%2Dyou%2Dbecome%2Dwhat%2Dyou%2Dthink%2F&rut=0f50744182d5dc9552ee0f74f55ec5dcefb550e8248f20a9c37be0a678b4e9ad](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.contactyourmind.com%2Fblog%2Fwhy%2Di%2Dalways%2Dsay%2Dyou%2Dbecome%2Dwhat%2Dyou%2Dthink%2F&rut=0f50744182d5dc9552ee0f74f55ec5dcefb550e8248f20a9c37be0a678b4e9ad)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wikihow.com%2FPut%2DYourself%2DFirst&rut=cc0ebf27137a28d4e33cb317599fc28c3588be19f23cf60fbf16489a070abdc1](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wikihow.com%2FPut%2DYourself%2DFirst&rut=cc0ebf27137a28d4e33cb317599fc28c3588be19f23cf60fbf16489a070abdc1)
 
 ---
 
