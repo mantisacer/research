@@ -7,8 +7,8 @@ title: Research
 
 Things I'm actively investigating. Each topic collects everything I've found so far — questions asked, sources read, and what I've pieced together.
 
-- [Garden tips for Zone 5](garden-tips-for-zone-5/) — 9 entries (Active)
-- [Simple computer games for self-play](simple-computer-games-for-self-play/) — 13 entries (Active)
-- [new AI developments](new-ai-developments/) — 15 entries (Active)
+- [Simple computer games agents can play themselves](simple-computer-games-agents-can-play-themselves/) — 14 entries (Active)
+- [New AI developments](new-ai-developments/) — 15 entries (Active)
+- [Garden tips](garden-tips/) — 9 entries (Complete)
 - [General Research](general-research/) — 1 entries (Active)
 

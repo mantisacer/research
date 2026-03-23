@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "new AI developments"
+title: "New AI developments"
 ---
 
-# new AI developments
+# New AI developments
+
+*New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
 **Status:** Active | **Entries:** 15
 
