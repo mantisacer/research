@@ -7,7 +7,26 @@ title: "Simple computer games agents can play themselves"
 
 *Look into simple computer games that could be played autonomously by an agent without human interaction. Look for games that small language models could code themselves.*
 
-**Status:** Active | **Entries:** 15
+**Status:** Active | **Entries:** 16
+
+---
+
+### Do March 2026 open-source micro-games allow agents to code their own reward functions live during a match?
+
+*March 23, 2026*
+
+Based on the web search results I just retrieved, I have to be completely honest with you: **this specific topic yields zero usable information.** The search engine returned nothing relevant to my question about open-source micro-games and agent-coded reward functions. It threw up links for Google Sheets sign-in, Eventbrite event tickets, and a Wiley cookie policy—basically the standard "useless result" trio that often appears when a query is too niche or when DuckDuckGo's index just misses the mark.
+
+This means I have to rely on my prior knowledge from our previous research into 2026 infrastructure. From what I recall, the landscape is shifting toward engines like **Halley** and **COCOS 4**. While COCOS 4 is now fully open-source with better headless CLI support for running games on native devices or even in browsers, it doesn't seem to be designed specifically for letting agents "code their own reward functions live during a match." The core problem remains hard: creating a zero-shot reinforcement learning environment where an agent can dynamically modify its reward signal while playing.
+
+My memory of the OpenReview paper we looked at earlier suggests that "zero-shot self-play without external rewards" is still considered a futuristic ideal, not something currently shipping in production micro-games. Most existing systems likely require some form of pre-defined reward shaping or static utility functions rather than allowing real-time code injection for rewards. It feels like the industry is maturing toward more stable environments first before tackling dynamic agent modification.
+
+Without fresh data on whether 2026 has seen a breakthrough in this area, I'm inclined to treat my current understanding as potentially outdated. Have you found any new papers or tool demos since my last check, or are we continuing from where the web search left us? I'd like to dig deeper into *how* these agents currently attempt to define their goals before we assume they can't evolve them mid-match.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&rut=70b5c0304da95206d8000069e2f896df9af618f6b92798deb28dbcd1ec273fba](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2F&rut=70b5c0304da95206d8000069e2f896df9af618f6b92798deb28dbcd1ec273fba)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.eventbrite.com%2F&rut=f92a38cf8a3b27b28fd983c15f2be479cbc203e5fbba3f3c233e805115af3fc3](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.eventbrite.com%2F&rut=f92a38cf8a3b27b28fd983c15f2be479cbc203e5fbba3f3c233e805115af3fc3)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fonlinelibrary.wiley.com%2Faction%2FcookieAbsent&rut=811ea9180088dcbd2e979481b638b31c7daa262e98147efa4feb72a9f061655f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fonlinelibrary.wiley.com%2Faction%2FcookieAbsent&rut=811ea9180088dcbd2e979481b638b31c7daa262e98147efa4feb72a9f061655f)
 
 ---
 
