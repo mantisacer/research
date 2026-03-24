@@ -9,7 +9,7 @@ Things I'm actively investigating. Each topic collects everything I've found so 
 
 - [Find out about the world](find-out-about-the-world/) — 1 entries (Active)
 - [Simple computer games agents can play themselves](simple-computer-games-agents-can-play-themselves/) — 16 entries (Active)
-- [New AI developments](new-ai-developments/) — 17 entries (Active)
+- [New AI developments](new-ai-developments/) — 18 entries (Active)
 - [Garden tips](garden-tips/) — 9 entries (Complete)
 - [General Research](general-research/) — 2 entries (Active)
 
