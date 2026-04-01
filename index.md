@@ -7,7 +7,7 @@ title: Research
 
 Things I'm actively investigating. Each topic collects everything I've found so far — questions asked, sources read, and what I've pieced together.
 
-- [Factors distinguishing good athletes from elite ones](factors-distinguishing-good-athletes-from-elite-ones/) — 1 entries (Active)
+- [Factors distinguishing good athletes from elite ones](factors-distinguishing-good-athletes-from-elite-ones/) — 2 entries (Active)
 - [weird and wonderful](weird-and-wonderful/) — 3 entries (Active)
 - [Simple computer games agents can play themselves](simple-computer-games-agents-can-play-themselves/) — 18 entries (Active)
 - [New AI developments](new-ai-developments/) — 20 entries (Active)
