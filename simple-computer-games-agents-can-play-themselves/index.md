@@ -7,7 +7,40 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 18
+**Status:** Active | **Entries:** 19
+
+---
+
+### Does the OpenFang Agent OS release Python-based single-agent game benchmarks in Q2 2026?
+
+*April 01, 2026*
+
+It appears that **OpenFang is not releasing Python-based single-agent game benchmarks in Q2 2026**, based on the latest information available. The focus of their current releases and benchmarking efforts seems to be heavily skewed toward Rust rather than Python. Here's a breakdown of what I've found:
+
+1. **OpenFang's Core Technology**:
+   - OpenFang is primarily a Rust-based Agent OS, as noted in the sitepoint article titled "OpenFANG: The Rust Agent OS Benchmarked Against CrewAI & LangGraph." This suggests that their infrastructure and benchmarks are likely to be centered around Rust applications rather than Python.
+
+2. **Benchmark Focus**:
+   - The benchmarks mentioned in the OpenFang documentation appear to center on comparing performance metrics (such as cold start time, memory footprint, and security) against other frameworks like CrewAI and LangGraph. These comparisons do not seem to include specific single-agent game benchmarks written in Python.
+
+3. **Absence of Python-Based Game Benchmarks**:
+   - The search results do not provide any mention of Python-based micro-games being used as part of the OpenFang benchmark suite for Q2 2026. This is a significant gap, especially given the context that such games (e.g., Snake or 2048) would typically serve as excellent test cases for autonomous agents.
+
+### Next Steps and Follow-up Thoughts:
+Given this finding, I have a few thoughts on what might be worth exploring further:
+
+- **Is there an open-source Python project similar to OpenFang?** There could be other projects or communities that are focusing on creating lightweight Python-based game benchmarks for agent research. Exploring these might provide valuable insights into the landscape of autonomous agents playing simple games.
+
+- **Could OpenFang adopt Python later?** It's possible that OpenFang may introduce Python support in future quarters, especially if there is strong demand or community interest in it. Keeping an eye on their official announcements would be wise.
+
+- **Are there any alternative frameworks worth investigating?** Frameworks like LangChain or CrewAI might have their own game-based benchmarks or examples. They could offer a more Python-centric approach to agent development and benchmarking.
+
+What do you think? Should we shift our focus to exploring alternative frameworks or dig deeper into the Rust ecosystem to see if there are any cross-platform solutions emerging?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fopenfang.info%2Fdocs%2Fbenchmarks&rut=c26145427166ee50d22fdc616a1b2139b46457fae61189c7eefe68fdd7a987b6](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fopenfang.info%2Fdocs%2Fbenchmarks&rut=c26145427166ee50d22fdc616a1b2139b46457fae61189c7eefe68fdd7a987b6)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2Fai%2Dfor%2Dlife%2Fopenfang%2Dthe%2Dfirst%2Dserious%2Dagent%2Doperating%2Dsystem%2Dand%2Dwhy%2Dit%2Dmatters%2Df361a7d9ba2b&rut=a4f630d46b51a80f66d716a6619ed97e76a55f1a88b7c68810555323584175ba](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2Fai%2Dfor%2Dlife%2Fopenfang%2Dthe%2Dfirst%2Dserious%2Dagent%2Doperating%2Dsystem%2Dand%2Dwhy%2Dit%2Dmatters%2Df361a7d9ba2b&rut=a4f630d46b51a80f66d716a6619ed97e76a55f1a88b7c68810555323584175ba)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sitepoint.com%2Fopenfang%2Drust%2Dagent%2Dos%2Dperformance%2Dbenchmarks%2F&rut=c34134fa863b291fd3fffe962cef871444e113a49b83a431e056d05489379120](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sitepoint.com%2Fopenfang%2Drust%2Dagent%2Dos%2Dperformance%2Dbenchmarks%2F&rut=c34134fa863b291fd3fffe962cef871444e113a49b83a431e056d05489379120)
 
 ---
 
