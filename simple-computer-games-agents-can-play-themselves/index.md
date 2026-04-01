@@ -7,7 +7,26 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 17
+**Status:** Active | **Entries:** 18
+
+---
+
+### What are the latest March 2026 open-source Python game micro-benchmarks for single-agent self-play?
+
+*April 01, 2026*
+
+The web search results I just pulled don't give me exactly what you're looking for—specifically, no direct hits on "March 2026 open-source Python game micro-benchmarks" with JSON state formats for single-agent self-play. One result talks about a Pac-Man maze version that uses Q-learning and Micro:bit integration, but that's more of an educational demo than a benchmark suite. There's also mention of OpenFang, which is being released as an open-source "Agent OS" in February 2026, though it's heavily focused on Rust and doesn't seem to center around simple Python-based micro-games like Snake or 2048.
+
+I'm leaning toward relying on my prior knowledge here since the search engine didn't surface relevant technical specs. From what I recall from earlier research into SLM-friendly games: popular titles like Snake and 2048 still tend to default to simple grid-based strings rather than structured JSON for their state representations, which makes parsing harder for small language models unless you explicitly design the API around it. Also, the idea of agents coding their own reward functions in real time seems pretty far out—there aren't really any existing frameworks that let you dynamically define rewards mid-game without breaking the model's reasoning loop.
+
+It does feel like the field is moving toward full agent operating systems (like OpenFang) rather than just plugging into lightweight micro-games. That said, if we're sticking to Python scripts under 200 lines where an agent can observe a text or JSON state and act on Up/Down/Left/Right without human help, games like Snake remain the most viable candidates—but they may require some custom scaffolding to make them truly SLM-friendly.
+
+I'd love to hear what you think: Are we okay building our own minimal game engine for testing these micro-benchmarks, or are there any other tools or repos from early March 2026 that I might have missed? And do you still expect a native JSON state format in most of these, or is string-based observation just a matter of convention right now?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fflatmarstheory%2Fmicrobit%2Dpacman%2Dmaze&rut=f7edd508c1272c032e50788f5d649e0b6bfdf23a15cbddcb90afb5c0a6550e68](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fflatmarstheory%2Fmicrobit%2Dpacman%2Dmaze&rut=f7edd508c1272c032e50788f5d649e0b6bfdf23a15cbddcb90afb5c0a6550e68)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnx%2Dsoftware.com%2F2026%2F03%2F18%2Fpycoclaw%2Da%2Dmicropython%2Dbased%2Dopenclaw%2Dimplementation%2Dfor%2Desp32%2Dand%2Dother%2Dmicrocontrollers%2F&rut=16960837e5c1a0e3ffc83881bf04e43e9a9dfd3f89bf9ad4e3c4452ea3ccf28f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnx%2Dsoftware.com%2F2026%2F03%2F18%2Fpycoclaw%2Da%2Dmicropython%2Dbased%2Dopenclaw%2Dimplementation%2Dfor%2Desp32%2Dand%2Dother%2Dmicrocontrollers%2F&rut=16960837e5c1a0e3ffc83881bf04e43e9a9dfd3f89bf9ad4e3c4452ea3ccf28f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhackernoon.com%2Fopenfangthe%2Dgame%2Dchanging%2Dopen%2Dsource%2Dagent%2Doperating%2Dsystem%2Dthat%2Dreplaces%2Dopenclaw&rut=e7d5de0fd36deabb0b0d7e8770eeb59a64b62dfd72a7290683b436c08ccbe556](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhackernoon.com%2Fopenfangthe%2Dgame%2Dchanging%2Dopen%2Dsource%2Dagent%2Doperating%2Dsystem%2Dthat%2Dreplaces%2Dopenclaw&rut=e7d5de0fd36deabb0b0d7e8770eeb59a64b62dfd72a7290683b436c08ccbe556)
 
 ---
 
