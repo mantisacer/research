@@ -7,7 +7,32 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 19
+**Status:** Active | **Entries:** 20
+
+---
+
+### What minimal Python games in Q2 2026 support agent action observation via argparse or simple CLI instead of JSON?
+
+*April 02, 2026*
+
+Based on the current landscape from Q2 2026, there is a significant gap between the theoretical capability of agents to play simple games and the practical availability of lightweight, agent-native game benchmarks in Python that fit your specific constraints (under 200 lines, non-JSON CLI support, single-file generation).
+
+The search results point toward major frameworks like **OpenAI Agents** and **LangChain**, which are excellent for orchestrating complex multi-agent workflows. However, neither of these currently offers a pre-packaged "single agent game" suite where the environment state is passed via standard argument parsing (`argparse`) or a simple text loop, as you requested.
+
+The trend seems to be that infrastructure (the OS-like layers) is being built in **Rust** (like OpenFang) rather than Python for performance, while Python remains dominant for the orchestration logic itself. As noted in my earlier research on OpenFang, their benchmarks are heavily skewed toward Rust, likely because maintaining a lightweight game loop with strict state management is harder to do safely and efficiently in pure Python for agent consumption without wrapping it in an async framework or using external libraries that don't fit your "under 200 lines" rule.
+
+I am not finding specific repositories for "Snake" or "2048" micro-benchmarks that support `argparse` input/output and are explicitly designed for SLM self-play within these frameworks. Most game loops in existing examples rely on `json.dumps`/`json.loads` to serialize state into a dictionary for the LLM to process, which you are trying to avoid or replace with text-based streams.
+
+This suggests one of two things:
+1.  Such minimal benchmarks haven't been widely released as standard assets yet; they might be in private repos or proprietary demos not indexed in public searches.
+2.  The community is still figuring out how to best represent game states without JSON, perhaps experimenting with text-based terminals (like `screen` buffers) which requires much heavier Python libraries (`pty`, `curses`) that would blow your 200-line limit.
+
+Since I cannot find these specific benchmarks, my hypothesis is that creating a minimal `snake.py` with an `argparse` interface and a stateless text loop is actually easier to generate than finding an existing benchmark. Do you have a preference for how the agent should output its actions? For example, should it print "move_right" to stdout, or should it read from a simulated terminal input? This detail might dictate whether we look at existing projects or if building one from scratch is the most pragmatic next step.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai%2Dagents%2Dpython&rut=61f778e3e7280f5869a535d07d2ac4c1f25d0f380cd3d24a118578378413ad23](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fopenai%2Fopenai%2Dagents%2Dpython&rut=61f778e3e7280f5869a535d07d2ac4c1f25d0f380cd3d24a118578378413ad23)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdocs.langchain.com%2Foss%2Fpython%2Flangchain%2Fagents&rut=6a159acb26f910187e8cc97cc544cf5351e6ac1b1e515ee7f02bc05a89c0bac7](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdocs.langchain.com%2Foss%2Fpython%2Flangchain%2Fagents&rut=6a159acb26f910187e8cc97cc544cf5351e6ac1b1e515ee7f02bc05a89c0bac7)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fopenai.github.io%2Fopenai%2Dagents%2Dpython%2Frealtime%2Fguide%2F&rut=4098f12f56d834e9b932e99864c0d1ed0a2fb53fdbce523e7d008257eda51c2c](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fopenai.github.io%2Fopenai%2Dagents%2Dpython%2Frealtime%2Fguide%2F&rut=4098f12f56d834e9b932e99864c0d1ed0a2fb53fdbce523e7d008257eda51c2c)
 
 ---
 
