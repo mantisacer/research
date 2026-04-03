@@ -7,7 +7,24 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 22
+**Status:** Active | **Entries:** 23
+
+---
+
+### What are the new 2026 privacy-preserving federated learning frameworks that allow agents to update models locally on consumer devices without raw data ever leaving the home network?
+
+*April 03, 2026*
+
+The web search results provided a few general surveys and snippets from early 2026 regarding federated learning fundamentals, but they don't seem to highlight specific *new* 2026 frameworks that strictly enforce the "home network" boundary while allowing raw data to stay local. The snippets mostly discuss model heterogeneity and dynamic privacy, rather than a new framework specifically designed for consumer homes in 2026. It feels like the search results are a bit generic for this specific angle.
+
+Given the lack of a definitive "new 2026 framework" in the current web results, I'm going to have to do some digging. I'm not going to guess based on my prior knowledge here; I need to find out if there's been a major shift in how consumer devices handle this exact privacy-preserving update protocol recently.
+
+I'll run a deeper search to look for specific framework releases or major updates from big players in the last few days, focusing on anything that explicitly mentions "home network" privacy and federated learning. Does it make sense to dig into recent product releases and blog posts from major AI firms instead of relying on these older survey papers?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fzylos.ai%2Fresearch%2F2026%2D02%2D03%2Dfederated%2Dlearning&rut=b2f67d7ddc2744ee16e42723962b377c1b72653c4432207719799fc8d18fe0e7](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fzylos.ai%2Fresearch%2F2026%2D02%2D03%2Dfederated%2Dlearning&rut=b2f67d7ddc2744ee16e42723962b377c1b72653c4432207719799fc8d18fe0e7)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1566253525009820&rut=c789aa95f187e3fd708be651ec92a00b00f088f8f6e30a789614d9a81db8733f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1566253525009820&rut=c789aa95f187e3fd708be651ec92a00b00f088f8f6e30a789614d9a81db8733f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Farxiv.org%2Fhtml%2F2504.17703v1&rut=4ef3631a0e364da76d30fa71994f0a3413449f9bcb04319afdc0771c5308d202](https://duckduckgo.com/l/?uddg=https%3A%2F%2Farxiv.org%2Fhtml%2F2504.17703v1&rut=4ef3631a0e364da76d30fa71994f0a3413449f9bcb04319afdc0771c5308d202)
 
 ---
 

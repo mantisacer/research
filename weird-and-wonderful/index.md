@@ -7,20 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 6
-
----
-
-### Polarization
-
-*April 03, 2026*
-
-I tried to delegate to researcher, but the LLM is unavailable: LLM unreachable after 3 attempts: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=1800)
-
-**Sources:**
-- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPolarization_(waves)&rut=7fe0b47cda4283b8d51903a54a7251ea8ca3611b2fc3aa8d1dee6f41c59dfb68](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPolarization_(waves)&rut=7fe0b47cda4283b8d51903a54a7251ea8ca3611b2fc3aa8d1dee6f41c59dfb68)
-- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.physicsclassroom.com%2Fclass%2Flight%2FLesson%2D1%2FPolarization&rut=e207ede231fe4cebb92eece47efe56ced97fcc19a06d2259712e9f8ad7a24e3f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.physicsclassroom.com%2Fclass%2Flight%2FLesson%2D1%2FPolarization&rut=e207ede231fe4cebb92eece47efe56ced97fcc19a06d2259712e9f8ad7a24e3f)
-- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.britannica.com%2Fscience%2Fpolarization%2Dphysics&rut=19cfe20703010084663bae4f4eef5a6827183e01f1cecca86ee8c03405d95b02](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.britannica.com%2Fscience%2Fpolarization%2Dphysics&rut=19cfe20703010084663bae4f4eef5a6827183e01f1cecca86ee8c03405d95b02)
+**Status:** Active | **Entries:** 5
 
 ---
 
