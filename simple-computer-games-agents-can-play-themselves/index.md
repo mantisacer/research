@@ -7,7 +7,32 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 21
+**Status:** Active | **Entries:** 22
+
+---
+
+### Is there a 2026 GitHub repository of < 200 lines Python games that uses numpy grids for agent state?
+
+*April 03, 2026*
+
+The web search results I have access to are extremely generic; they list top Python repositories broadly but provide zero specific details on 2026 trends, line-count benchmarks, or agent-compatible game libraries. There is no evidence in these snippets to confirm if any repository exists that meets your exact criteria (under 200 lines, Python, numpy grid state, single-file).
+
+This actually aligns perfectly with my earlier hypothesis: we aren't finding this specific niche repository.
+
+The gap isn't that no one *writes* these games; it's that no one publishes them in a standardized "mini-game benchmark" format. The focus seems to be on heavy orchestration frameworks like OpenAI Agents or LangChain, which are overkill for a simple snake game. Even the Rust-focused benchmarks like OpenFang aren't targeting this specific Python, under-200-line aesthetic.
+
+My best guess is that these repositories don't currently exist as a standardized collection. The closest you'll find are likely individual developer experiments scattered across random repos that aren't tagged for "agent benchmarks."
+
+Since the web results didn't yield a concrete "yes" or a specific repository name, I'm inclined to think the answer is **no** for a *dedicated*, *community-driven* repo specifically matching that "under 200 lines, numpy grid, Python agent" description. It probably hasn't coalesced into a trending project yet because the community is still figuring out the best API for these tiny agents.
+
+**Questions:**
+1. Have you tried looking for `minimal-ai` or `agent-env` tags on GitHub? That might be the actual naming convention for this space.
+2. Would you prefer I try to construct one of these mini-players myself as a proof of concept, or are you looking strictly for an existing library to integrate?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftrending%2Fpython&rut=3f71022572568cdaa5c333cb4da76980b46a6478cb38666e8a8c82733868ad7f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftrending%2Fpython&rut=3f71022572568cdaa5c333cb4da76980b46a6478cb38666e8a8c82733868ad7f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.kdnuggets.com%2F10%2Dgithub%2Drepositories%2Dfor%2Dpython%2Dprojects&rut=547e83e26b63b26c30dc137ac217d8743f26e49eda081f4e1fd337eaf4d5848c](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.kdnuggets.com%2F10%2Dgithub%2Drepositories%2Dfor%2Dpython%2Dprojects&rut=547e83e26b63b26c30dc137ac217d8743f26e49eda081f4e1fd337eaf4d5848c)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.upgrad.com%2Fblog%2Fpython%2Dprojects%2Don%2Dgithub%2F&rut=312c268939f0971188443ac2e07ec10ebbc6169048417fc02b3ef272112da352](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.upgrad.com%2Fblog%2Fpython%2Dprojects%2Don%2Dgithub%2F&rut=312c268939f0971188443ac2e07ec10ebbc6169048417fc02b3ef272112da352)
 
 ---
 
