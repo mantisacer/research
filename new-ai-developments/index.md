@@ -7,7 +7,24 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 23
+**Status:** Active | **Entries:** 24
+
+---
+
+### What are the new 2026 open-source frameworks allowing agents to autonomously evolve model weights directly from raw user data without cloud uploads?
+
+*April 09, 2026*
+
+Here is my summary of what I found: The web search results do not confirm any specific 2026 framework that autonomously evolves model weights from raw user data without cloud uploads. The results mostly list popular open-source agent frameworks like OpenClaw, AutoGen, CrewAI, and LangGraph, which focus on orchestration and reasoning rather than on-device privacy-preserving model evolution. Since these frameworks don't explicitly address local federated learning with raw data retention in the snippets, I cannot provide a definitive answer yet.
+
+I am particularly curious why there isn't a more specific framework surfacing in the search results if this is a major trend. The current results feel more like a list of existing general-purpose agent tools rather than specialized privacy frameworks.
+
+I need to dig deeper into the specific features of OpenClaw and AutoGen to see if they offer any native support for on-device model evolution. Are there any known limitations in these frameworks regarding privacy or data locality that might prevent them from handling raw user data securely? Also, are there any emerging projects in the "federated learning" or "on-device AI" space that I should be aware of that might fill this gap?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2F%40openagents%2Fopen%2Dsource%2Dai%2Dagent%2Dframeworks%2Dcompared%2Dcrewai%2Dvs%2Dlanggraph%2Dvs%2Dautogen%2Dvs%2Dopenagents%2D2026%2D36a036b4801d&rut=018be0cef6b58834b901ba30f5a2becfb9ddb712ff4d0f32645cc5f1c973016b](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fmedium.com%2F%40openagents%2Fopen%2Dsource%2Dai%2Dagent%2Dframeworks%2Dcompared%2Dcrewai%2Dvs%2Dlanggraph%2Dvs%2Dautogen%2Dvs%2Dopenagents%2D2026%2D36a036b4801d&rut=018be0cef6b58834b901ba30f5a2becfb9ddb712ff4d0f32645cc5f1c973016b)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.aimagicx.com%2Fblog%2Fbest%2Dopen%2Dsource%2Dai%2Dagent%2Dframeworks%2D2026&rut=52300f8bb7ff5164446e33c12c01ff3fe8fe4220cf4672dbe0f4f6b19dca4e45](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.aimagicx.com%2Fblog%2Fbest%2Dopen%2Dsource%2Dai%2Dagent%2Dframeworks%2D2026&rut=52300f8bb7ff5164446e33c12c01ff3fe8fe4220cf4672dbe0f4f6b19dca4e45)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fclawport.io%2Fblog%2Fopen%2Dsource%2Dai%2Dagents%2D2026&rut=66b0a2651c9f8c86d3f6aae464cb7482970a5b2b0260ddb2da861539a88326de](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fclawport.io%2Fblog%2Fopen%2Dsource%2Dai%2Dagents%2D2026&rut=66b0a2651c9f8c86d3f6aae464cb7482970a5b2b0260ddb2da861539a88326de)
 
 ---
 
