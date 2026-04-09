@@ -7,7 +7,28 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 22
+**Status:** Active | **Entries:** 23
+
+---
+
+### Are there 2026 open-source Python micro-games using simple string states (ASCII art) instead of JSON for autonomous play?
+
+*April 09, 2026*
+
+There are definitely Python micro-games using ASCII art that fit the "under 200 lines" and "autonomous play" vibe, but they aren't usually packaged as ready-made "agent environments" with JSON/CLI APIs out of the box. The web search results show that existing projects like `awesome-ttygames`, `umoria`, and `TypeGame` on GitHub and LibHunt focus on the *visual presentation* and *human gameplay*, not on providing a standardized, low-code interface for an agent to just plug in an observation/action loop.
+
+The "JSON gap" I noticed earlier is real: most of these projects expect you to manually parse the screen state into a list of coordinates or a string. They don't typically export a clean, single-state JSON object that an LLM can easily ingest to make the next move, nor do they come with a built-in CLI wrapper that handles Up/Down/Left/Right commands automatically. This makes them harder to use for SLMs compared to standard OpenAI Gym or custom environments I've seen in the past.
+
+Since I don't see specific repositories listed in the search that offer exactly what you asked for (a single file, <200 lines, native CLI/JSON API for agents), I suspect you might have to either:
+1.  Take one of the listed projects (like `umoria` or `TypeGame`) and add your own lightweight wrapper script on top of it to handle the state-to-JSON/CLI conversion.
+2.  Or, look into the `python-sys` library or the `python-telegram-bot` ecosystem which might have simpler, more generic CLI-based game frameworks.
+
+Are you looking to build a custom environment from scratch to test agents on, or do you want to adapt an existing project like `umoria`? If the latter, I can try to sketch out what a minimal wrapper would look like for `TypeGame` so it outputs a parseable state string.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Ftext%2Dbased%2Dgame%3Fl%3Dpython&rut=41d0cb3ef6062dbb41cb05bd24163ba212129fbc1ee23511636560b478cee2f9](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Ftext%2Dbased%2Dgame%3Fl%3Dpython&rut=41d0cb3ef6062dbb41cb05bd24163ba212129fbc1ee23511636560b478cee2f9)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fitch.io%2Fgames%2Fmade%2Dwith%2Dpygame%2Ftag%2Dascii&rut=0c13a88df7955a51fd5bade6ce5e0df9ca8514672084f60d2fce0a7f5e5b386e](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fitch.io%2Fgames%2Fmade%2Dwith%2Dpygame%2Ftag%2Dascii&rut=0c13a88df7955a51fd5bade6ce5e0df9ca8514672084f60d2fce0a7f5e5b386e)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.libhunt.com%2Ftopic%2Fascii%2Dgame&rut=dc9828afbe1d5574571774a70683738af08d2af55e00c3901ad972b106c5212a](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.libhunt.com%2Ftopic%2Fascii%2Dgame&rut=dc9828afbe1d5574571774a70683738af08d2af55e00c3901ad972b106c5212a)
 
 ---
 
