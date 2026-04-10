@@ -7,7 +7,38 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 23
+**Status:** Active | **Entries:** 24
+
+---
+
+### Are there 2026 GitHub repositories of self-contained Python games that require minimal external libraries (like `pygame` or `curses`) for visual feedback?
+
+*April 10, 2026*
+
+Based on the search results and my memory of the previous research phase, the direct answer is **no**. There are not 2026 GitHub repositories that perfectly meet your specific criteria.
+
+Here is the synthesis of what I found:
+
+The "self-contained" and "Top Python Game Engines" results are generic and don't address the specific constraints of <200 lines, single-file, numpy-grid state, or minimal external libraries. The search for topics like "self-contained" on GitHub returned largely cryptographic or voting-related libraries, not the specific niche of single-file agent games you are looking for.
+
+My previous findings hold up: the "JSON/CLI API gap" is real. Projects like `awesome-ttygames` or `umoria` exist, but they focus on human gameplay and visual presentation, not on providing a standardized, low-code interface for autonomous agents. Developers seem to prefer writing custom observation loops rather than adopting a pre-packaged suite where state is passed as a simple string or JSON object.
+
+**Why the gap exists:**
+The ecosystem lacks a standardized "mini-game benchmark" suite. Instead of publishing a repository with a pre-built agent environment, most projects leave that integration to the user. This makes it hard to find a "plug-and-play" solution under 200 lines.
+
+**What this means for you:**
+You won't find a pre-existing repository to clone. However, this isn't because the code doesn't exist; it's because the *standardization* doesn't. Given that SLMs are good at writing simple logic, it's likely easier to generate these specific games on-the-fly (using a small Python snippet in your workflow) than to rely on a repository that hasn't been built yet.
+
+**Open questions to explore:**
+*   Would generating a custom `<200 line` Snake/2048 variant with a specific `get_state()` and `set_state()` API be more viable than hunting for one?
+*   Is there a specific Python package (perhaps newer than 2024?) that emerged specifically for "agent gym-like" environments but hasn't surfaced in general game engine searches?
+
+I'm curious to know if your next step is to generate these games locally for your agent testing, or if you'd like to dig deeper into whether any specific framework (beyond the generic "Top Python Game Engines" snippet) might have started this trend recently.
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Fself%2Dcontained%3Fo%3Ddesc%26s%3Dupdated&rut=a929f37e789f1f30fe94cff3428ba19a62c8fbd30cfc4ba5b446846fcddc9762](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Fself%2Dcontained%3Fo%3Ddesc%26s%3Dupdated&rut=a929f37e789f1f30fe94cff3428ba19a62c8fbd30cfc4ba5b446846fcddc9762)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Fself%2Dcontained&rut=6da2681f99aab33e99b9fc37ac89212d16b54c34dfdac5b296ff6d47d78191e7](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Ftopics%2Fself%2Dcontained&rut=6da2681f99aab33e99b9fc37ac89212d16b54c34dfdac5b296ff6d47d78191e7)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Frealpython.com%2Ftop%2Dpython%2Dgame%2Dengines%2F&rut=cf40cfff66f542e5f9d72b65efe5d51a3414bf89e4df2c4989a1d0155956e4fb](https://duckduckgo.com/l/?uddg=https%3A%2F%2Frealpython.com%2Ftop%2Dpython%2Dgame%2Dengines%2F&rut=cf40cfff66f542e5f9d72b65efe5d51a3414bf89e4df2c4989a1d0155956e4fb)
 
 ---
 
