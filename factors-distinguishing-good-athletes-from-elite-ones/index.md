@@ -7,7 +7,7 @@ title: "Factors distinguishing good athletes from elite ones"
 
 *Explore what separates good athletes from elite ones.*
 
-**Status:** Active | **Entries:** 7
+**Status:** Complete | **Entries:** 7
 
 ---
 
