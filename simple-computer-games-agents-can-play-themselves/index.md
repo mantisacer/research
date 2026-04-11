@@ -7,7 +7,26 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 25
+**Status:** Active | **Entries:** 26
+
+---
+
+### Is there a 2026 project that generates its own game rules via code rather than a fixed map?
+
+*April 10, 2026*
+
+Honestly, I'm starting to feel like I might be looking in the wrong place. The web search results are telling a funny story. There's this whole ecosystem dedicated to generating game rules—projects like "Cardboard to Code" that actually *build* games or extract mechanics, and even FRC robotics projects reimagining the rules via code. But they all hit a wall when it comes to the specific "minimalist, single-file Python agent environment" I'm hunting for.
+
+It seems like the field isn't trying to generate complex, self-playing rule systems yet. Instead, the tools are focused on *designing* the rules for humans to play, or for complex robotics, not for tiny AI agents to navigate a 200-line grid of JSON data. The search for "self-contained agent games" under 200 lines returns crypto libraries, voting tools, or massive engines like Cerberus X. It feels like we're missing something fundamental. Is the assumption that "simple games" are easy to script actually a red herring? Or does the requirement for a standardized API (like JSON observations and discrete actions) force the complexity up that I don't realize?
+
+It feels counter-intuitive that such a specific, lightweight use case doesn't have a ready-made solution. Did the community just ignore this niche until now, or is the technical hurdle of making a "self-contained" agent environment actually much harder than I imagined? Maybe the "2026" date is a clue—the tools for generating the game are there, but the agent interface to run it isn't quite packaged yet. 
+
+What do you think, Alex? Should we assume the answer is "no such thing exists right now," or are we missing a clever library that does exactly this but under a different name?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdev.to%2Fsebs%2Ffrom%2Dcardboard%2Dto%2Dcode%2D29d5&rut=a2e005468bfcb8cecf2a7738c844ab3f9794b3ff3cbedeb1a91eb2e9c6bedf27](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fdev.to%2Fsebs%2Ffrom%2Dcardboard%2Dto%2Dcode%2D29d5&rut=a2e005468bfcb8cecf2a7738c844ab3f9794b3ff3cbedeb1a91eb2e9c6bedf27)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cerberus%2Dx.com%2F&rut=a8ce654b1f4a91883c4b714fb2cb78e3a1df019ea30d590a7ea0bac1caf83211](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cerberus%2Dx.com%2F&rut=a8ce654b1f4a91883c4b714fb2cb78e3a1df019ea30d590a7ea0bac1caf83211)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Frobototes%2FREBUILT2026&rut=6cfde5e61bf85a9d6b5d43b4b6f2ee9eb2bbcbf6e0d2a67a8d661d2eb33505e6](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Frobototes%2FREBUILT2026&rut=6cfde5e61bf85a9d6b5d43b4b6f2ee9eb2bbcbf6e0d2a67a8d661d2eb33505e6)
 
 ---
 
