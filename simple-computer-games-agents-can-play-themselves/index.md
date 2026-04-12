@@ -7,7 +7,34 @@ title: "Simple computer games agents can play themselves"
 
 *Research and identify minimalist, logic-based computer games (e.g., Snake, 2048, or Grid-world) that can be fully implemented in a single Python script. The games must support an API or a text-based state representation (JSON/String) to allow an autonomous agent to receive observations and input actions (Up, Down, Left, Right) without human intervention. Prioritize games where the entire codebase is under 200 lines, making them viable for generation by small language models (SLMs) with limited context windows.*
 
-**Status:** Active | **Entries:** 27
+**Status:** Active | **Entries:** 28
+
+---
+
+### Do 2026 GitHub repositories exist where agents build their own game maps during runtime?
+
+*April 11, 2026*
+
+Okay, let's get to the point. Based on what the web results tell us for 2026, the answer to "Do 2026 GitHub repositories exist where agents build their own game maps during runtime?" is a nuanced **yes**, but with a massive caveat regarding the "<200 lines, single Python script" constraint.
+
+The landscape has clearly shifted away from static, fixed maps. The dominant trend isn't just generating *a* map; it's moving toward **procedurally generated environments** specifically designed to be agent-playable. The most relevant project I found, **Snowflake Labs' "Agent World Model,"** represents exactly this shift. It's not about hardcoding a maze; it's about dynamically creating rule sets and environments that an agent interacts with. This means the "game map" is indeed built at runtime, driven by code rather than pre-written data.
+
+However, when I tried to hunt for the specific "minimalist, logic-based, single-file <200 lines" repo you asked for, I hit a wall. The search results don't point to a specific repository matching that tiny, self-contained criteria. Instead, the focus seems to be on frameworks and toolkits (like the **Microsoft Foundry** or **M365 Agents Toolkit** mentioned in the **Agents League Contest**) where the complexity is distributed across larger libraries. The "dry" results about DIY games suggest that the ideal single-file, under-200-line repository might not exist yet, or at least isn't the primary focus of the current 2026 AI developer community.
+
+The irony is that while agents *can* play themselves, the "toy" environments designed for them are often too sophisticated to fit comfortably in a single micro-script. The generation happens at runtime, but the scaffolding is too big.
+
+**Summary:**
+Agents in 2026 do build game maps dynamically, favoring procedural generation over fixed layouts. However, no single GitHub repo currently stands out as a perfectly minimalist, <200-line, self-contained agent game environment that matches your specific criteria. The ecosystem leans toward larger frameworks (Microsoft, Snowflake) rather than tiny, isolated scripts.
+
+**What remains uncertain and worth exploring:**
+1.  Is the "200-line" constraint an artifact of older AI capabilities? As SLMs improve, are we seeing the emergence of these tiny, dense environments soon?
+2.  If those specific repos don't exist, is the research community actively building them right now, or is the focus entirely on large-scale simulation suites?
+3.  Would it be worth reaching out to the **Agents League** community or **Snowflake Labs** to ask if they have any internal prototypes closer to that scale?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fagentsleague&rut=8afb68bc585ac87e78f362618eb5b14b85064508351e29ffc4fbb7825f49e8ce](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fagentsleague&rut=8afb68bc585ac87e78f362618eb5b14b85064508351e29ffc4fbb7825f49e8ce)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fclaudefa.st%2Fblog%2Fguide%2Fmechanics%2Fclaude%2Dcode%2Dsource%2Dleak&rut=debd781f1044629227e82058d493b75198797cd64b3a3950a623b97adf0d0c8f](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fclaudefa.st%2Fblog%2Fguide%2Fmechanics%2Fclaude%2Dcode%2Dsource%2Dleak&rut=debd781f1044629227e82058d493b75198797cd64b3a3950a623b97adf0d0c8f)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Ffungies.io%2Ftop%2Dgithub%2Drepositories%2Dai%2Dagent%2Dframeworks%2D2026%2F&rut=f6c213b21f4d30850d7070ece21288e7d0357402f2998a2f235066b12bc78bb3](https://duckduckgo.com/l/?uddg=https%3A%2F%2Ffungies.io%2Ftop%2Dgithub%2Drepositories%2Dai%2Dagent%2Dframeworks%2D2026%2F&rut=f6c213b21f4d30850d7070ece21288e7d0357402f2998a2f235066b12bc78bb3)
 
 ---
 
