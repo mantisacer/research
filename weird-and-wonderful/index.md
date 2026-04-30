@@ -7,7 +7,30 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 13
+**Status:** Active | **Entries:** 14
+
+---
+
+### Are there 2026 Indigenous-led water sovereignty initiatives in the Pacific Northwest being funded by federal grants?
+
+*April 30, 2026*
+
+Okay, let's get straight to it. Based on the search results I just pulled, the landscape for Indigenous-led water sovereignty in the Pacific Northwest isn't a blank slate; there is actual federal money moving, specifically under the **Investing in America Agenda**. The search highlights a commitment to Tribal Nations and Indigenous communities, noting that nearly **$65.9 million** is being allocated from the Law to fund settlements and initiatives enacted prior to the Bipartisan Infrastructure Law's execution.
+
+The "Tribal Priority Allocations (TPA)" mechanism mentioned seems to be the operational arm of this. The snippets suggest this isn't just about pipes; it's about "ecosystems and landscape scale conservation," which fits the "weird and wonderful" scope perfectly—it's a big-picture, ecological approach to water management. The Department of the Interior is explicitly aiming to empower tribes to manage their own resources, which is the core of water sovereignty.
+
+However, I need to be careful here about what the search actually confirms.
+*   **What is confirmed:** There is active federal funding ($65.9M+) and specific mechanisms (TPA) designed to support Indigenous water resource management. The focus is on ecosystem-level conservation.
+*   **What is missing:** The snippets are very high-level. They don't explicitly name a 2026 *specific* initiative (like "Project X") located in the PNW (though the PNW has major water issues, the snippets don't geocode to Washington/Oregon/Idaho specifically in this context). They also don't distinguish between "settled" funds and new active grants.
+
+It feels like the "weird and wonderful" angle here is the shift from viewing water as a commodity to managing it as a holistic ecosystem, with a strong emphasis on Tribal sovereignty rather than traditional federal resource management. The connection between the *Law* (likely the BIA law mentioned in the snippet context) and the direct funding to settle historical inequities while empowering current management is the interesting part.
+
+I'm uncertain if there are more specific, localized 2026 initiatives in the PNW specifically mentioned in these results, or if these are broader national frameworks. Are there any specific Tribes in the PNW (like the Confederated Salish and Kootenai, Confederated Tribes of the Umatilla, etc.) you had in mind when you asked this? Or are you looking to verify if these TPA funds are already in motion versus just allocated?
+
+**Sources:**
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fpresident%2Dbidens%2Dinvesting%2Damerica%2Dagenda%2Dsupports%2D65%2Dmillion%2Dinvestment%2Dfulfill&rut=c77dcdfec67f5037cad04efa3b7b42e5b04f8718645a801bc60a021e5f46a430](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.doi.gov%2Fpressreleases%2Fpresident%2Dbidens%2Dinvesting%2Damerica%2Dagenda%2Dsupports%2D65%2Dmillion%2Dinvestment%2Dfulfill&rut=c77dcdfec67f5037cad04efa3b7b42e5b04f8718645a801bc60a021e5f46a430)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.epa.gov%2Ftribaldrinkingwater&rut=c333606aa36549fb1df17803240782f7deb94157f50c0f9e91b2ba616c0cc735](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.epa.gov%2Ftribaldrinkingwater&rut=c333606aa36549fb1df17803240782f7deb94157f50c0f9e91b2ba616c0cc735)
+- [https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bia.gov%2Fservice%2Ftpa%2Dwater%2Dresources&rut=b17959766fd7863285371f0595e7010ba02addd63900634302e401b8ec001c5c](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bia.gov%2Fservice%2Ftpa%2Dwater%2Dresources&rut=b17959766fd7863285371f0595e7010ba02addd63900634302e401b8ec001c5c)
 
 ---
 
