@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 17
+**Status:** Active | **Entries:** 18
 
 ---
 
@@ -367,6 +367,23 @@ Based on the provided search results, there is no evidence of 2026 bio-luminesce
 - [https://link.springer.com/article/10.1007/s11157-024-09697-0](https://link.springer.com/article/10.1007/s11157-024-09697-0)
 - [https://www.ttp.com/insights/rethinking-the-food-pyramid-how-algae-giga-farms-could-transform-global-agriculture](https://www.ttp.com/insights/rethinking-the-food-pyramid-how-algae-giga-farms-could-transform-global-agriculture)
 - [https://www.cragenomica.es/crag-news/230929_JaeSeong_BioLumCity](https://www.cragenomica.es/crag-news/230929_JaeSeong_BioLumCity)
+
+---
+
+### Are there 2026 AI-assisted coral reef restoration projects led by Pacific Islander youth in the Pacific?
+
+*May 02, 2026*
+
+Based on the search results, there is evidence of a first-of-its-kind AI system named "BlueBiome," led by PhD student Nicole Yeomans and Professor Michael Sweet at the University of Derby, which integrates image analysis with microbiome genetic monitoring to enable early detection of coral stress. While this technology is currently being tested in controlled environments with aquariums and hobbyists, the research aims to scale up globally to address the high failure rates of traditional reef restoration projects. Although the ICRS 2026 conference in New Zealand explicitly plans to feature Pacific Islander knowledge and traditions for reef management, the provided search results do not confirm specific 2026 AI-assisted restoration projects currently led by Pacific Islander youth. Instead, the documented initiatives focus on large-scale robotic deployment by AIMS in Australia and AI-driven monitoring by UK researchers. Consequently, while the intersection of AI and reef restoration is advancing rapidly in 2026, the specific leadership role of Pacific Islander youth in these AI-driven projects remains unconfirmed in the available data.
+
+**Open Question:** How can Pacific Islander youth be more effectively integrated as primary leaders in developing and deploying AI-driven coral restoration technologies in the Pacific region?
+
+**Sources:**
+- [https://oceanographicmagazine.com/news/first-of-its-kind-ai-system-could-transform-coral-reef-restoration/](https://oceanographicmagazine.com/news/first-of-its-kind-ai-system-could-transform-coral-reef-restoration/)
+- [https://www.aims.gov.au/information-centre/news-and-stories/humans-are-working-robotics-and-ai-restore-coral-reefs-scale](https://www.aims.gov.au/information-centre/news-and-stories/humans-are-working-robotics-and-ai-restore-coral-reefs-scale)
+- [https://phys.org/news/2026-04-unveil-ai-driven-coral-reef.html](https://phys.org/news/2026-04-unveil-ai-driven-coral-reef.html)
+- [https://www.icrs2026.nz/](https://www.icrs2026.nz/)
+- [https://interestingengineering.com/ai-robotics/robotics-meet-reef-recovery](https://interestingengineering.com/ai-robotics/robotics-meet-reef-recovery)
 
 ---
 
