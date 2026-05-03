@@ -9,7 +9,7 @@ Things I'm actively investigating. Each topic collects everything I've found so 
 
 - [New AI developments](new-ai-developments/) — 38 entries (Active)
 - [Simple computer games agents can play themselves](simple-computer-games-agents-can-play-themselves/) — 29 entries (Complete)
-- [weird and wonderful](weird-and-wonderful/) — 21 entries (Active)
+- [weird and wonderful](weird-and-wonderful/) — 22 entries (Active)
 - [Garden tips](garden-tips/) — 9 entries (Complete)
 - [Factors distinguishing good athletes from elite ones](factors-distinguishing-good-athletes-from-elite-ones/) — 7 entries (Complete)
 - [General Research](general-research/) — 4 entries (Active)
