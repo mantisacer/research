@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 18
+**Status:** Active | **Entries:** 19
 
 ---
 
@@ -384,6 +384,22 @@ Based on the search results, there is evidence of a first-of-its-kind AI system 
 - [https://phys.org/news/2026-04-unveil-ai-driven-coral-reef.html](https://phys.org/news/2026-04-unveil-ai-driven-coral-reef.html)
 - [https://www.icrs2026.nz/](https://www.icrs2026.nz/)
 - [https://interestingengineering.com/ai-robotics/robotics-meet-reef-recovery](https://interestingengineering.com/ai-robotics/robotics-meet-reef-recovery)
+
+---
+
+### Are there 2026 mycelium-based urban cooling systems in Southeast Asian megacities managed by community cooperatives?
+
+*May 03, 2026*
+
+Research indicates that mycelium-based composites are being actively investigated as a material to reengineer traditional *jaali* screens and provide insulation for office buildings in Southeast Asian cities like Bangkok, Hanoi, Singapore, and Yangon, though the specific focus of the primary study is on South Asian heat stress rather than Southeast Asia. While the technology itself is emerging and currently lacks a track record of large-scale deployment, there is no evidence in the provided search results of 2026 urban cooling systems already installed or managed by community cooperatives in these regions. The existing literature primarily consists of theoretical simulations and material science studies rather than operational case studies involving community governance models. Consequently, the transition from laboratory prototypes to community-managed infrastructure appears to be in the very early stages of development.
+
+**Open Question:** What specific governance frameworks or cooperative models are currently being piloted to facilitate the transition from mycelium-based material research to community-managed urban cooling installations in Southeast Asia?
+
+**Sources:**
+- [https://www.sciencedirect.com/science/article/pii/S0378778826001647](https://www.sciencedirect.com/science/article/pii/S0378778826001647)
+- [https://www.tandfonline.com/doi/full/10.1080/13467581.2026.2614137](https://www.tandfonline.com/doi/full/10.1080/13467581.2026.2614137)
+- [https://www.nature.com/articles/s44284-025-00349-0](https://www.nature.com/articles/s44284-025-00349-0)
+- [https://opus.lib.uts.edu.au/handle/10453/193421](https://opus.lib.uts.edu.au/handle/10453/193421)
 
 ---
 
