@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 25
+**Status:** Active | **Entries:** 26
 
 ---
 
@@ -501,6 +501,23 @@ Based on the provided search results, there is no evidence of "2026 bio-digital 
 - [https://andysto.com/workation-lenk-swiss-alps/](https://andysto.com/workation-lenk-swiss-alps/)
 - [https://www.hubs.travel/](https://www.hubs.travel/)
 - [https://hubs.travel/swiss-alps/](https://hubs.travel/swiss-alps/)
+
+---
+
+### Are there 2026 bio-luminescent coral nurseries in the Great Barrier Reef co-managed by Indigenous Torres Strait Islanders?
+
+*May 05, 2026*
+
+Based on the provided search results, there is no confirmed evidence of 2026 bio-luminescent coral nurseries in the Great Barrier Reef co-managed by Indigenous Torres Strait Islanders. The available information highlights general coral restoration efforts using photogrammetry, Coral IVF, and the Coral Nurture Program, but none of the sources mention bio-luminescence as a trait being cultivated or detected in these projects. While the Coral Nurture Program does involve partnerships with Traditional Owners, the specific combination of bio-luminescent corals, the 2026 timeframe, and Torres Strait Islander co-management is not supported by the current data. The research appears to focus on standard coral propagation and resilience against climate change rather than genetic selection for light emission.
+
+**Open Question:** Have any recent pilot programs involving the Torres Strait Islands explored the potential of bio-luminescent corals for future reef monitoring or restoration, and if so, are there plans to scale such initiatives by 2026?
+
+**Sources:**
+- [https://www.barrierreef.org/what-we-do/projects/reef-restoration](https://www.barrierreef.org/what-we-do/projects/reef-restoration)
+- [https://www.coralnurtureprogram.org/activity-to-date](https://www.coralnurtureprogram.org/activity-to-date)
+- [https://www.abc.net.au/news/2022-12-11/great-barrier-reef-coral-restoration-broken-coral-nurseries/101749084](https://www.abc.net.au/news/2022-12-11/great-barrier-reef-coral-restoration-broken-coral-nurseries/101749084)
+- [https://www.grandcirclefoundation.org/schools/coral-nursery-nurture-program/](https://www.grandcirclefoundation.org/schools/coral-nursery-nurture-program/)
+- [https://oceanservice.noaa.gov/ocean/corals/hope-for-corals.html](https://oceanservice.noaa.gov/ocean/corals/hope-for-corals.html)
 
 ---
 
