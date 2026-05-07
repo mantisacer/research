@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 30
+**Status:** Active | **Entries:** 31
 
 ---
 
@@ -585,6 +585,23 @@ Based on the provided search results, there is no evidence of 2026 neural-ink we
 - [https://www.techtimes.com/articles/315571/20260331/neuralink-brain-chips-are-powering-next-step-thought-control.htm](https://www.techtimes.com/articles/315571/20260331/neuralink-brain-chips-are-powering-next-step-thought-control.htm)
 - [https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full](https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2025.1553905/full)
 - [https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2498457](https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2498457)
+
+---
+
+### Are there 2026 bio-acoustic navigation aids in the Great Barrier Reef guiding migratory birds via AI?
+
+*May 07, 2026*
+
+Based on the provided search results, there is no evidence of 2026 bio-acoustic navigation aids specifically guiding migratory birds within the Great Barrier Reef; the documented innovations focus on AI-driven visual monitoring of marine life like turtles and starfish, as well as general bioacoustic analysis for endangered species conservation. While AI models like Perch are being updated in late 2025 to improve bird species predictions through bioacoustics, these tools are currently applied to analyze vast datasets for population tracking rather than functioning as active navigation devices for wildlife. The research highlights a shift toward using AI to "make the unseen visible" by processing drone footage and environmental DNA to monitor ecosystem health, but this remains a passive monitoring approach rather than an active guidance system. Consequently, the specific technology of bio-acoustic navigation aids guiding migratory birds in 2026 appears to be a hypothetical scenario not supported by the current scientific advancements described.
+
+**Open Question:** How might researchers adapt the existing AI-powered bioacoustic models currently used for passive species identification to develop an active, real-time navigation system that could assist migratory birds in avoiding threats within the Great Barrier Reef?
+
+**Sources:**
+- [https://www.barrierreef.org/news/news/four-innovations-changing-the-great-barrier-reef](https://www.barrierreef.org/news/news/four-innovations-changing-the-great-barrier-reef)
+- [https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/](https://deepmind.google/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/)
+- [https://7news.com.au/news/scientists-say-ai-could-help-save-struggling-great-barrier-reef--c-17707295](https://7news.com.au/news/scientists-say-ai-could-help-save-struggling-great-barrier-reef--c-17707295)
+- [https://instituteinnovation.com/australian-scientists-unveil-ai-powered-coral-reef-monitoring-system-for-great-barrier-reef/](https://instituteinnovation.com/australian-scientists-unveil-ai-powered-coral-reef-monitoring-system-for-great-barrier-reef/)
+- [https://www.miragenews.com/four-innovations-changing-how-we-see-great-1523484/](https://www.miragenews.com/four-innovations-changing-how-we-see-great-1523484/)
 
 ---
 
