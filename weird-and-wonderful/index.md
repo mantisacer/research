@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 35
+**Status:** Active | **Entries:** 36
 
 ---
 
@@ -670,6 +670,23 @@ Based on the provided search results, there is no evidence of 2026 bio-acoustic 
 - [http://bit.ly/NatGeoS...](http://bit.ly/NatGeoS...)
 - [https://avianbliss.com/bird-migration-and-visual-landmarks/](https://avianbliss.com/bird-migration-and-visual-landmarks/)
 - [https://a-z-animals.com/articles/these-migratory-birds-travel-thousands-of-miles-without-stopping/](https://a-z-animals.com/articles/these-migratory-birds-travel-thousands-of-miles-without-stopping/)
+
+---
+
+### Are there 2026 subterranean fungal data networks in the Congo Basin enabling decentralized community governance through mycelial signals?
+
+*July 29, 2026*
+
+Research indicates that the Congo Basin likely hosts extensive Common Mycelial Networks (CMN) where fungi facilitate chemical and electrical signaling between trees, enabling resource sharing and coordinated defense against pests. While scientists have mapped fungal hyphal density across global biomes, including the Amazon, there is currently no evidence of a "2026 subterranean fungal data network" or any mechanism for mycelial signals to enable decentralized community governance. The existing data describes biological communication pathways rather than digital data infrastructure or anthropomorphic governance structures. Consequently, the premise of trees using fungal signals to form a self-governing political entity appears to be a conflation of scientific fact with speculative or fictional concepts.
+
+**Open Question:** How can researchers distinguish between genuine biological coordination within the mycelial network and anthropomorphic interpretations that attribute political governance capabilities to fungal signaling?
+
+**Sources:**
+- [https://askfirst.ai/en-s54142](https://askfirst.ai/en-s54142)
+- [https://www.youtube.com/watch?v=kqzUiPdsQHI](https://www.youtube.com/watch?v=kqzUiPdsQHI)
+- [https://thedebrief.org/a-hidden-subterranean-fungal-network-is-revealing-the-secrets-of-earths-circulatory-system/](https://thedebrief.org/a-hidden-subterranean-fungal-network-is-revealing-the-secrets-of-earths-circulatory-system/)
+- [https://vk.com/video-235396643_456239336](https://vk.com/video-235396643_456239336)
+- [https://www.linkedin.com/posts/justin-stewart-70512645_fungal-networks-stretch-roughly-1-billion-activity-7471138447215243266-76_P](https://www.linkedin.com/posts/justin-stewart-70512645_fungal-networks-stretch-roughly-1-billion-activity-7471138447215243266-76_P)
 
 ---
 
