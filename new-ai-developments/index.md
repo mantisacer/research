@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 54
+**Status:** Active | **Entries:** 55
 
 ---
 
@@ -1162,6 +1162,23 @@ Based on the provided search results from July 2026, there is no evidence of eme
 - [https://glass.health/](https://glass.health/)
 - [https://www.ibm.com/think/topics/ai-agents](https://www.ibm.com/think/topics/ai-agents)
 - [https://nanobrowser.ai/](https://nanobrowser.ai/)
+
+---
+
+### What new open-source foundation models were released in late July 2026?
+
+*July 30, 2026*
+
+Based on my research, Moonshot AI released the **Kimi K3** foundation model on July 27, 2026 — this appears to be the primary new open-source release from late July 2026. The model has drawn significant attention and sparked debate in Beijing, Silicon Valley, and Washington regarding whether governments should restrict access to Chinese open-source AI models. Other notable releases around that timeframe include Alibaba's Qwen3.7 Max/Plus (May 18), Krea 2 (May 12), and NVIDIA's Open Secure AI Alliance announcement — but none of those are late July foundation model launches. The Kimi K3 release specifically inflamed discussions about geopolitical tensions over Chinese AI exports.
+
+**Open question:** What is the technical architecture and licensing terms of Moonshot's Kimi K3, and how does it compare to competing open-source models in benchmark performance?
+
+**Sources:**
+- [https://en.wikipedia.org/wiki/Qwen](https://en.wikipedia.org/wiki/Qwen)
+- [https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html](https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html)
+- [https://openrouter.ai/collections/discounted-models](https://openrouter.ai/collections/discounted-models)
+- [https://blogs.nvidia.com/blog/open-secure-ai-alliance/](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)
+- [https://www.krea.ai/krea-2](https://www.krea.ai/krea-2)
 
 ---
 
