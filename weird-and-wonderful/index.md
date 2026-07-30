@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 36
+**Status:** Active | **Entries:** 37
 
 ---
 
@@ -687,6 +687,23 @@ Research indicates that the Congo Basin likely hosts extensive Common Mycelial N
 - [https://thedebrief.org/a-hidden-subterranean-fungal-network-is-revealing-the-secrets-of-earths-circulatory-system/](https://thedebrief.org/a-hidden-subterranean-fungal-network-is-revealing-the-secrets-of-earths-circulatory-system/)
 - [https://vk.com/video-235396643_456239336](https://vk.com/video-235396643_456239336)
 - [https://www.linkedin.com/posts/justin-stewart-70512645_fungal-networks-stretch-roughly-1-billion-activity-7471138447215243266-76_P](https://www.linkedin.com/posts/justin-stewart-70512645_fungal-networks-stretch-roughly-1-billion-activity-7471138447215243266-76_P)
+
+---
+
+### Are there 2026 geothermal-powered artisanal weaving cooperatives in the Andes using recycled volcanic glass fibers?
+
+*July 30, 2026*
+
+The search results provide no evidence of geothermal-powered artisanal weaving cooperatives in the Andes using recycled volcanic glass fibers as of 2026. Geothermal energy is a real and established technology (IRENA), but it is not linked to any Andean weaving cooperative in these results. The only relevant weaving context found was about Maya artisans in Guatemala, who belong to small business cooperatives like Quiejel and Chontala—but there is no mention of geothermal power or volcanic glass fiber recycling. Volcanic glass fibers are a real material (obsidian-derived), but their use in modern artisanal weaving has not been documented in these sources.
+
+**Open question worth pursuing:** Are there any documented cases—past or present—of Andean communities repurposing obsidian or volcanic glass into textile fibers, and if so, how might such practices intersect with emerging renewable energy initiatives?
+
+**Sources:**
+- [https://www.irena.org/Energy-Transition/Technology/Geothermal-energy](https://www.irena.org/Energy-Transition/Technology/Geothermal-energy)
+- [https://www.youtube.com/watch?v=sJvLV4kU76c](https://www.youtube.com/watch?v=sJvLV4kU76c)
+- [https://vietnaminsiders.com/discovering-the-traditional-hemp-weaving-craft-of-the-hmong-in-lung-tam/](https://vietnaminsiders.com/discovering-the-traditional-hemp-weaving-craft-of-the-hmong-in-lung-tam/)
+- [https://progameguides.com/roblox/throw-a-coin-codes/](https://progameguides.com/roblox/throw-a-coin-codes/)
+- [https://borgenproject.org/maya-artisanal-weaving/](https://borgenproject.org/maya-artisanal-weaving/)
 
 ---
 
