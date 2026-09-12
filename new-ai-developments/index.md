@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 57
+**Status:** Active | **Entries:** 58
 
 ---
 
@@ -1209,6 +1209,21 @@ Recent reports indicate that on-device AI is maturing into a commercial standard
 - [https://newmarketpitch.com/blogs/news/ai-chip-funding-news](https://newmarketpitch.com/blogs/news/ai-chip-funding-news)
 - [https://www.eenewseurope.com/en/ai-inference-at-the-crossroads/](https://www.eenewseurope.com/en/ai-inference-at-the-crossroads/)
 - [https://blog.mean.ceo/latest-ai-announcements-news-september-2026/](https://blog.mean.ceo/latest-ai-announcements-news-september-2026/)
+
+---
+
+### What new AI training data licensing deals were announced in the last 48 hours?
+
+*September 12, 2026*
+
+Recent search results indicate that the AI training data market has shifted significantly toward formal licensing agreements, with OpenAI leading the sector through approximately two dozen publisher deals, including a reported $250 million five-year contract with News Corp. Other major players are actively participating in this trend, such as Google paying Reddit roughly $60 million annually and Wiley securing over $40 million in combined agreements with undisclosed tech companies. The industry is also seeing a structural pivot from static "training data" purchases to "live access" and attribution-based models, with the number of such deals projected to rise from 18 in 2025 to 34 in 2026. Additionally, the music sector has transitioned from litigation to standardized licensing, as major labels converted lawsuits against Suno and Udio into formal agreements in late 2025. These developments suggest that while specific new announcements in the last 48 hours are not explicitly detailed in the provided excerpts, the broader market is characterized by high-value, multi-year contracts and a growing emphasis on real-time data grounding. A key open question worth pursuing is whether Anthropic’s decision to forgo publisher licensing in favor of a $1.5 billion copyright settlement signals a sustainable alternative business model or a temporary legal pause that will eventually force them into the licensing market.
+
+**Sources:**
+- [https://llmpulse.ai/blog/ai-content-licensing-deals/](https://llmpulse.ai/blog/ai-content-licensing-deals/)
+- [https://www.troveo.ai/resources/ai-training-data-statistics](https://www.troveo.ai/resources/ai-training-data-statistics)
+- [https://qz.com/ai-training-data-pricing-licensing-deals-market-052126](https://qz.com/ai-training-data-pricing-licensing-deals-market-052126)
+- [https://mediaandthemachine.substack.com/p/ai-content-licensing-deals-june-2026](https://mediaandthemachine.substack.com/p/ai-content-licensing-deals-june-2026)
+- [https://www.troveo.ai/resources/ai-data-licensing](https://www.troveo.ai/resources/ai-data-licensing)
 
 ---
 
