@@ -6,8 +6,3 @@ plugins:
 
 permalink: /:title/
 markdown: kramdown
-
-collections:
-  findings:
-    output: true
-    permalink: /findings/:path/

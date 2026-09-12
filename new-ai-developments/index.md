@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 55
+**Status:** Active | **Entries:** 56
 
 ---
 
@@ -1179,6 +1179,21 @@ Based on my research, Moonshot AI released the **Kimi K3** foundation model on J
 - [https://openrouter.ai/collections/discounted-models](https://openrouter.ai/collections/discounted-models)
 - [https://blogs.nvidia.com/blog/open-secure-ai-alliance/](https://blogs.nvidia.com/blog/open-secure-ai-alliance/)
 - [https://www.krea.ai/krea-2](https://www.krea.ai/krea-2)
+
+---
+
+### What new AI inference chips announced in early September 2026 reduce energy costs for autonomous edge agents?
+
+*September 12, 2026*
+
+Research into early September 2026 reveals that the **CONVOLVE project** has successfully deployed new chip-design techniques that enable powerful AI computing directly at the edge, bringing inference closer to where data is generated. This approach is specifically designed to optimize for **sustained energy-per-inference** and P95 tail latency, addressing the limitations of peak performance metrics under real-world thermal and memory constraints. While broader industry trends in 2026 show a 60% reduction in energy consumption for general AI chips like the NVIDIA Blackwell Ultra B300 and Cerebras wafer-scale engines, the CONVOLVE breakthrough is distinct in its focus on **autonomous edge agents** rather than centralized data centers. These specialized chips are critical for reducing the operational energy costs of devices that must process AI tasks locally without relying on cloud connectivity. The shift toward edge-native architectures suggests a fundamental change in how autonomous systems manage power efficiency in constrained environments. How does the specific architectural design of the CONVOLVE chips mitigate thermal throttling issues that typically degrade the performance of traditional edge inference processors?
+
+**Sources:**
+- [https://ken-saunders.com/ai-chips-energy-efficiency-2026-breakthrough](https://ken-saunders.com/ai-chips-energy-efficiency-2026-breakthrough)
+- [https://ken-saunders.com/ai-chip-power-efficiency-the-2026-breakthrough-that-changes-everything](https://ken-saunders.com/ai-chip-power-efficiency-the-2026-breakthrough-that-changes-everything)
+- [https://www.kynix.com/Blog/top-ai-inference-chips-edge-devices-2026.html](https://www.kynix.com/Blog/top-ai-inference-chips-edge-devices-2026.html)
+- [https://vfuturemedia.com/ai/openai-jalapeno-ai-chip-inference-2026/](https://vfuturemedia.com/ai/openai-jalapeno-ai-chip-inference-2026/)
+- [https://techxplore.com/news/2026-09-powerful-ai-edge.html](https://techxplore.com/news/2026-09-powerful-ai-edge.html)
 
 ---
 
