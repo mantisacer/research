@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 39
+**Status:** Active | **Entries:** 40
 
 ---
 
@@ -734,6 +734,23 @@ Research indicates that while acoustic technologies are actively used in the Mal
 - [https://www.undp.org/maldives/projects/conserving-reefs-through-adaptation-and-livelihood](https://www.undp.org/maldives/projects/conserving-reefs-through-adaptation-and-livelihood)
 - [https://www.researchgate.net/publication/369304765_The_pressures_and_opportunities_for_coral_reef_preservation_and_restoration_in_the_Maldives](https://www.researchgate.net/publication/369304765_The_pressures_and_opportunities_for_coral_reef_preservation_and_restoration_in_the_Maldives)
 - [https://heatherspence.net/2025/04/28/ocean-world-of-sound-in-maldives/](https://heatherspence.net/2025/04/28/ocean-world-of-sound-in-maldives/)
+
+---
+
+### Are there 2026 piezoelectric cobblestone networks in Kyoto harvesting pedestrian energy to power local artisan workshops?
+
+*September 12, 2026*
+
+The search results confirm that Japan is actively pioneering piezoelectric smart flooring networks in high-traffic urban areas, with specific mentions of Kyoto and Tokyo as key implementation sites. These systems are designed to capture wasted kinetic energy from pedestrian footsteps and convert it into electricity, representing a significant infrastructure solution for clean energy generation. While the technology is described as a "groundbreaking approach" in 2026, the sources focus primarily on the general concept of smart sidewalks and civil engineering integration rather than detailing specific local applications. There is no explicit evidence in the provided excerpts confirming that this energy is specifically directed to power local artisan workshops, though the technology is integrated into crowded sidewalks where such businesses might be located. The available data highlights the technical feasibility and deployment in major metropolitan walkways but lacks granular details on the end-use distribution of the harvested power.
+
+Does the harvested energy from these Kyoto pedestrian networks have a dedicated microgrid connection to nearby commercial or artisan districts, or is it primarily used for street lighting and public infrastructure?
+
+**Sources:**
+- [https://www.academicjobs.com/en-jp/research-publication-news/piezoelectric-smart-sidewalks-japan-footsteps-to-energy-academicjobs-19481](https://www.academicjobs.com/en-jp/research-publication-news/piezoelectric-smart-sidewalks-japan-footsteps-to-energy-academicjobs-19481)
+- [https://civil-eng.binus.ac.id/2026/05/29/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/](https://civil-eng.binus.ac.id/2026/05/29/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/)
+- [https://student-activity.binus.ac.id/himtes/2026/05/31/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/](https://student-activity.binus.ac.id/himtes/2026/05/31/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/)
+- [https://www.sciencedirect.com/science/article/pii/S209575642500008X](https://www.sciencedirect.com/science/article/pii/S209575642500008X)
+- [https://energy-solutions.co/articles/sub/piezoelectric-roads-harvesting-traffic-energy](https://energy-solutions.co/articles/sub/piezoelectric-roads-harvesting-traffic-energy)
 
 ---
 
