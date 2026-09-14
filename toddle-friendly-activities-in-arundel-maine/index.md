@@ -7,7 +7,7 @@ title: "Toddle-friendly Activities in Arundel, Maine"
 
 *Research age-appropriate and accessible activities for toddlers (ages 1-3) specifically available or suitable within the town of Arundel, ME. This includes parks, play areas, nature spots, interactive exhibits, family events, safe outdoor spaces with shallow water access if applicable, nearby beaches like Southport Beach that are toddler-safe, local museums open to young children, and any community programs designed for very early years.*
 
-**Status:** Active | **Entries:** 5
+**Status:** Complete | **Entries:** 5
 
 ---
 

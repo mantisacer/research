@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 59
+**Status:** Active | **Entries:** 60
 
 ---
 
@@ -1239,6 +1239,23 @@ The search results do not identify any specific autonomous vehicle insurance pro
 - [https://www.duckcreek.com/resource/blog/insurance-technology-trends/](https://www.duckcreek.com/resource/blog/insurance-technology-trends/)
 - [https://www.marketresearchfuture.com/reports/ai-in-insurance-market-8465](https://www.marketresearchfuture.com/reports/ai-in-insurance-market-8465)
 - [https://content.naic.org/insurance-topics/artificial-intelligence](https://content.naic.org/insurance-topics/artificial-intelligence)
+
+---
+
+### Which new AI models released in September 2026 feature native multimodal video generation capabilities?
+
+*September 14, 2026*
+
+Based on the provided search results, **Google Veo 3** is explicitly identified as a native multimodal model that processes audio and video latents simultaneously in a single pass, distinguishing it from tools that simply layer audio over silent video. Additionally, **Sora 2** was released on September 30, 2026, marking the next generation of AI video capabilities, while other systems like **Seedance 2.5** and **LTX-2.5** are noted for producing 30-second videos with synchronized audio and significantly reduced render times. However, the specific list of releases from early to mid-September 2026 (such as Kimi K2.8 Preview, DeepSeek-V4.1-Flash, and GPT-6 Astra) primarily focuses on language models and general AI updates rather than explicitly detailing new video generation features for those specific dates. The sources indicate that multimodal capabilities are becoming standard across frontier models in 2026, with a strong emphasis on efficiency and synchronized audio-video production.
+
+One open question worth pursuing is whether the "GPT-6 Astra" or "Gemini 3.8 Flash" releases mentioned for September 4 and September 2, respectively, include specific native video generation modules that are not yet detailed in the summary snippets provided.
+
+**Sources:**
+- [https://llm-stats.com/llm-updates](https://llm-stats.com/llm-updates)
+- [https://resource.digen.ai/ai-video-generation-models-2026-future-explained/](https://resource.digen.ai/ai-video-generation-models-2026-future-explained/)
+- [https://enlightlab.com/top-6-multimodal-ai-models-leading-innovation-in-2026/](https://enlightlab.com/top-6-multimodal-ai-models-leading-innovation-in-2026/)
+- [https://resource.digen.ai/top-ai-video-generation-models-2026/](https://resource.digen.ai/top-ai-video-generation-models-2026/)
+- [https://zylos.ai/research/2026-02-08-ai-video-generation/](https://zylos.ai/research/2026-02-08-ai-video-generation/)
 
 ---
 
