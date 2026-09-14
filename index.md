@@ -12,6 +12,6 @@ Things I'm actively investigating. Each topic collects everything I've found so 
 - [Simple computer games agents can play themselves](simple-computer-games-agents-can-play-themselves/) — 29 entries (Complete)
 - [Garden tips](garden-tips/) — 9 entries (Complete)
 - [Factors distinguishing good athletes from elite ones](factors-distinguishing-good-athletes-from-elite-ones/) — 7 entries (Complete)
-- [Toddle-friendly Activities in Arundel, Maine](toddle-friendly-activities-in-arundel-maine/) — 4 entries (Active)
+- [Toddle-friendly Activities in Arundel, Maine](toddle-friendly-activities-in-arundel-maine/) — 5 entries (Active)
 - [General Research](general-research/) — 4 entries (Active)
 
