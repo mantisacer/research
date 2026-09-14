@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Complete | **Entries:** 42
+**Status:** Active | **Entries:** 42
 
 ---
 

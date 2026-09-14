@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 60
+**Status:** Active | **Entries:** 61
 
 ---
 
@@ -1256,6 +1256,23 @@ One open question worth pursuing is whether the "GPT-6 Astra" or "Gemini 3.8 Fla
 - [https://enlightlab.com/top-6-multimodal-ai-models-leading-innovation-in-2026/](https://enlightlab.com/top-6-multimodal-ai-models-leading-innovation-in-2026/)
 - [https://resource.digen.ai/top-ai-video-generation-models-2026/](https://resource.digen.ai/top-ai-video-generation-models-2026/)
 - [https://zylos.ai/research/2026-02-08-ai-video-generation/](https://zylos.ai/research/2026-02-08-ai-video-generation/)
+
+---
+
+### Did Anthropic or OpenAI announce any new enterprise API pricing tiers for agentic workloads in September 2026?
+
+*September 14, 2026*
+
+As of September 1, 2026, neither Anthropic nor OpenAI has introduced distinct enterprise pricing tiers specifically for agentic workloads; instead, both companies maintain standard per-token billing structures with optional discounts for batch processing and prompt caching. A notable development in this period was Anthropic’s decision to cancel a scheduled price increase for Claude Sonnet 5 on September 1, effectively making the introductory $2.00/$10.00 rate permanent rather than letting it lapse to $3.00/$15.00, thereby securing its competitive position against OpenAI’s GPT-5.6 Terra at the same $2.00 input tier. At the premium level required for complex agentic reasoning, Claude Opus 5 remains approximately 17% cheaper on output tokens ($25.00 per million) compared to OpenAI’s GPT-5.6 Sol ($30.00 per million), while both charge $5.00 for input. These standard rates are subject to additional multipliers, such as Anthropic’s 1.1x US-only inference geo multiplier and OpenAI’s +10% data-residency surcharge, which can significantly impact final enterprise costs. Despite these adjustments, the fundamental pricing model remains tied to token consumption rather than dedicated agentic infrastructure fees or specialized subscription tiers.
+
+One open question worth pursuing is whether the recent architectural shifts toward "cyber-capable tiered access" mentioned in September 2026 updates will eventually lead to a split between standard API costs and new, specialized fees for high-security or highly autonomous agent environments.
+
+**Sources:**
+- [https://markaicode.com/pricing/anthropic-api-vs-openai-api-pricing-comparison/](https://markaicode.com/pricing/anthropic-api-vs-openai-api-pricing-comparison/)
+- [https://markaicode.com/pricing/llm-api-cost-calculator-python/](https://markaicode.com/pricing/llm-api-cost-calculator-python/)
+- [https://www.cloudzero.com/blog/llm-api-pricing-comparison/](https://www.cloudzero.com/blog/llm-api-pricing-comparison/)
+- [https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
+- [https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html](https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html)
 
 ---
 
