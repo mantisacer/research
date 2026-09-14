@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 58
+**Status:** Active | **Entries:** 59
 
 ---
 
@@ -1224,6 +1224,21 @@ Recent search results indicate that the AI training data market has shifted sign
 - [https://qz.com/ai-training-data-pricing-licensing-deals-market-052126](https://qz.com/ai-training-data-pricing-licensing-deals-market-052126)
 - [https://mediaandthemachine.substack.com/p/ai-content-licensing-deals-june-2026](https://mediaandthemachine.substack.com/p/ai-content-licensing-deals-june-2026)
 - [https://www.troveo.ai/resources/ai-data-licensing](https://www.troveo.ai/resources/ai-data-licensing)
+
+---
+
+### Which new AI-powered autonomous vehicle insurance products launched in September 2026 use real-time risk scoring?
+
+*September 14, 2026*
+
+The search results do not identify any specific autonomous vehicle insurance products launched in September 2026, as the provided documents primarily cover broader 2026 industry trends and earlier 2026 events. The Gallagher Re InsurTech Report 2026 Q1 serves as the final installment of an AI-focused series, while the NAIC notes that machine learning is currently used for risk scoring and rate factor relativities in general pricing models. Although Duck Creek highlights that insurance companies in 2026 are embedding real-time intelligence and scoring into workflows, this is presented as a general technology trend rather than a specific product launch. Additionally, a webinar from April 2026 discusses how telematics and AI track driving behavior for risk assessment, but this predates the specified September timeframe. Consequently, there is no direct evidence in these results confirming the existence of new AV-specific insurance products with real-time risk scoring released in that particular month. What specific regulatory frameworks or market data sources might clarify whether any niche insurers launched such specialized autonomous vehicle products during the third quarter of 2026?
+
+**Sources:**
+- [https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2026/may/global-insurtech-report-2026-q1-ai-digital-risks.pdf](https://www.ajg.com/gallagherre/-/media/files/gallagher/gallagherre/news-and-insights/2026/may/global-insurtech-report-2026-q1-ai-digital-risks.pdf)
+- [https://www.facebook.com/InternationalActuarialAssociation/posts/astin-webinar-22-april-2026join-us-for-a-webinar-on-assessing-driving-risk-throu/1273571344884683/](https://www.facebook.com/InternationalActuarialAssociation/posts/astin-webinar-22-april-2026join-us-for-a-webinar-on-assessing-driving-risk-throu/1273571344884683/)
+- [https://www.duckcreek.com/resource/blog/insurance-technology-trends/](https://www.duckcreek.com/resource/blog/insurance-technology-trends/)
+- [https://www.marketresearchfuture.com/reports/ai-in-insurance-market-8465](https://www.marketresearchfuture.com/reports/ai-in-insurance-market-8465)
+- [https://content.naic.org/insurance-topics/artificial-intelligence](https://content.naic.org/insurance-topics/artificial-intelligence)
 
 ---
 
