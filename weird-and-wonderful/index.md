@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 40
+**Status:** Active | **Entries:** 41
 
 ---
 
@@ -751,6 +751,21 @@ Does the harvested energy from these Kyoto pedestrian networks have a dedicated 
 - [https://student-activity.binus.ac.id/himtes/2026/05/31/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/](https://student-activity.binus.ac.id/himtes/2026/05/31/how-japans-footstep-energy-harvesting-infrastructure-is-turning-pedestrian-foot-traffic-into-electricity/)
 - [https://www.sciencedirect.com/science/article/pii/S209575642500008X](https://www.sciencedirect.com/science/article/pii/S209575642500008X)
 - [https://energy-solutions.co/articles/sub/piezoelectric-roads-harvesting-traffic-energy](https://energy-solutions.co/articles/sub/piezoelectric-roads-harvesting-traffic-energy)
+
+---
+
+### Are there 2026 bioluminescent fungal lighting networks in the Borneo rainforest managed by Dayak communities?
+
+*September 14, 2026*
+
+The search results confirm that bioluminescent fungi are being actively studied as indicators of ecosystem health, with researchers using time-lapse cameras and low-light drone surveys to map colonies across both temperate and tropical woodlands. While the studies mention data collection in Southeast Asia and the use of citizen scientists, there is no evidence of a specific "2026 lighting network" managed by Dayak communities in Borneo. Instead, the current focus is on scientific monitoring of natural fungal glow to track soil moisture, carbon cycling, and habitat connectivity, rather than on community-managed infrastructure. The available literature highlights the potential for biotechnology and environmental monitoring but does not support the existence of a curated, community-run lighting system in the region. Therefore, the premise of Dayak-managed bioluminescent lighting networks appears to be unsupported by the provided sources. Does the term "lighting network" in the query refer to a specific local conservation initiative that has not yet been indexed in major scientific or news databases?
+
+**Sources:**
+- [https://onestep.quest/blog/2026/07/09/glowing-forest-guardians-bioluminescent-fungi-illuminate-ecosystem-health/](https://onestep.quest/blog/2026/07/09/glowing-forest-guardians-bioluminescent-fungi-illuminate-ecosystem-health/)
+- [https://discoverwildscience.com/the-forest-that-glows-at-night-3-368837/](https://discoverwildscience.com/the-forest-that-glows-at-night-3-368837/)
+- [https://www.sciencedirect.com/science/article/pii/S0167779925004184](https://www.sciencedirect.com/science/article/pii/S0167779925004184)
+- [https://www.scribd.com/document/856522042/The-Role-of-Bioluminescent-Fungi-in-Forest-Ecosystems-Ecological-Significance-and-Potential-Applications](https://www.scribd.com/document/856522042/The-Role-of-Bioluminescent-Fungi-in-Forest-Ecosystems-Ecological-Significance-and-Potential-Applications)
+- [https://www.sciencedirect.com/science/article/pii/S2452223621001267](https://www.sciencedirect.com/science/article/pii/S2452223621001267)
 
 ---
 
