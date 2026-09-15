@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 61
+**Status:** Active | **Entries:** 62
 
 ---
 
@@ -1273,6 +1273,23 @@ One open question worth pursuing is whether the recent architectural shifts towa
 - [https://www.cloudzero.com/blog/llm-api-pricing-comparison/](https://www.cloudzero.com/blog/llm-api-pricing-comparison/)
 - [https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
 - [https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html](https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html)
+
+---
+
+### Which AI companies announced new open-weight model releases or major API feature updates in mid-September 2026?
+
+*September 15, 2026*
+
+In mid-September 2026, DeepSeek released the "DeepSeek-V4.1-Flash" on September 10, a fast, open-source model that represents a significant addition to the open-weight landscape. While other major releases during this period, such as OpenAI’s GPT-6 Astra (Sep 4), Google’s Gemini 3.8 Flash (Sep 2), and Anthropic’s Claude Fable 5.1 (Sep 1), were proprietary, DeepSeek’s launch stands out as the primary open-weight event of the month. Meta also introduced "Muse Spark 1.3" around September 2, continuing their push into specialized model variants alongside their historical commitment to open weights. These releases occurred within a week of intense activity where multiple frontier models launched in rapid succession, including tiered access versions like Gemini’s cyber-capable tier. The market dynamics showed a mix of price adjustments and architectural shifts, with DeepSeek’s entry specifically targeting efficiency and speed for the open-source community.
+
+One open question worth pursuing is whether DeepSeek-V4.1-Flash achieved benchmark parity with the newly released proprietary models like GPT-6 Astra or Gemini 3.8 Flash in specific high-performance tasks, despite its focus on speed.
+
+**Sources:**
+- [https://llm-stats.com/llm-updates](https://llm-stats.com/llm-updates)
+- [https://www.promptzone.com/ai-model-releases](https://www.promptzone.com/ai-model-releases)
+- [https://aireleasetracker.com/](https://aireleasetracker.com/)
+- [https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html](https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html)
+- [https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/](https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/)
 
 ---
 
