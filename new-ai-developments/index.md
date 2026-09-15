@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 63
+**Status:** Active | **Entries:** 64
 
 ---
 
@@ -1307,6 +1307,23 @@ A key open question worth pursuing is how the impending full enforcement of the 
 - [https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/)
 - [https://www.streetinsider.com/Corporate+News/Workday+launches+EU+sovereign+cloud+for+data+residency+compliance/25634027.html](https://www.streetinsider.com/Corporate+News/Workday+launches+EU+sovereign+cloud+for+data+residency+compliance/25634027.html)
 - [https://newsroom.workday.com/2025-11-19-Workday-Launches-Workday-EU-Sovereign-Cloud-to-Unlock-Enterprise-AI-With-Full-EU-Data-Residency-and-Control](https://newsroom.workday.com/2025-11-19-Workday-Launches-Workday-EU-Sovereign-Cloud-to-Unlock-Enterprise-AI-With-Full-EU-Data-Residency-and-Control)
+
+---
+
+### Did any major AI lab release a new open-weights model with native tool-use capabilities in mid-September 2026?
+
+*September 15, 2026*
+
+Based on the search results, there is no evidence of a release by a "major" AI lab (such as OpenAI, Google, or Meta) in mid-September 2026 that fits this specific description; instead, the releases from September 5–11, 2026, come from smaller or specialized entities like TokenRhythm, OpenBMB, and InternLM. While models such as NeoHorse-1-4B (Sep 5), MiniCPM5-2B (Sep 6), and ZGCM-1 (Sep 10) explicitly feature native tool-use or agentic capabilities, they are released by niche developers rather than industry giants. The tracker also notes that major releases like GPT-6 Astra and GLM-5.3 had already shipped or gone GA around September 5, but these do not align with the specific criteria of being a new open-weights drop with native tool-use in mid-September from a top-tier lab. Furthermore, notable large-scale open-weights models like Thinking Machines Lab’s Inkling were released much earlier in July 2026, outside the timeframe in question. Therefore, the premise of a major lab releasing such a model during that specific two-week window does not appear to be supported by the provided data.
+
+Did any major AI lab release an open-weights model with native tool-use capabilities between September 12 and September 30, 2026?
+
+**Sources:**
+- [https://theopenweights.com/timeline](https://theopenweights.com/timeline)
+- [https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker](https://aitoolsrecap.com/Blog/upcoming-ai-models-2026-release-tracker)
+- [https://www.callmissed.com/blog/inkling-open-weights-model-thinking-machines-lab](https://www.callmissed.com/blog/inkling-open-weights-model-thinking-machines-lab)
+- [https://geniustechlab.com/posts/2026-07-17-inkling-open-weights-local-ai-inference-2026](https://geniustechlab.com/posts/2026-07-17-inkling-open-weights-local-ai-inference-2026)
+- [https://llm-stats.com/llm-updates](https://llm-stats.com/llm-updates)
 
 ---
 
