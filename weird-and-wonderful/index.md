@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 42
+**Status:** Active | **Entries:** 43
 
 ---
 
@@ -783,6 +783,23 @@ Does the intersection of geo-acoustic modeling and Sahelian geological data repr
 - [https://yenra.com/ai-tech/archaeological-research/](https://yenra.com/ai-tech/archaeological-research/)
 - [https://www.sesamebytes.com/ainews/data/news-055/index.html](https://www.sesamebytes.com/ainews/data/news-055/index.html)
 - [https://www.historica.org/blog/the-latest-ai-innovations-in-archaeology](https://www.historica.org/blog/the-latest-ai-innovations-in-archaeology)
+
+---
+
+### Are there 2026 geothermal-powered vertical farms in Iceland using AI-optimized algae for carbon-negative biofuels?
+
+*September 15, 2026*
+
+Vaxa Technologies operates an indoor vertical farm near Iceland’s largest geothermal power station that cultivates microalgae, specifically *Nannochloropsis* and spirulina, primarily for human consumption and aquaculture feed rather than biofuels. The facility achieves a carbon-negative status by utilizing electricity from the geothermal plant and directly absorbing CO2 emissions from the station to convert them into biomass. While the operation employs machine learning to tightly manage the production environment 24/7, it is not explicitly described as using "AI-optimized" algae for fuel production. Current reports from late 2024 and early 2025 focus on the farm’s role in sustainable food security and its potential to produce up to 150 metric tonnes of algae annually by 2033. There is no evidence in the current search results confirming a specific shift toward carbon-negative biofuel production or distinct "2026" developments separate from this existing food-focused infrastructure.
+
+Does Vaxa Technologies have any announced plans to pivot its microalgae output toward biofuel synthesis, or are there other Icelandic initiatives specifically targeting 2026 geothermal biofuel production?
+
+**Sources:**
+- [https://theglobalherald.com/news/innovative-algae-farming-emerges-in-iceland/](https://theglobalherald.com/news/innovative-algae-farming-emerges-in-iceland/)
+- [https://mypositiveoutlooks.com/iceland-geothermal-farm-algae-sustainable-food/](https://mypositiveoutlooks.com/iceland-geothermal-farm-algae-sustainable-food/)
+- [https://www.bbc.com/news/articles/c4gjry6dv4yo](https://www.bbc.com/news/articles/c4gjry6dv4yo)
+- [https://www.fertilizerdaily.com/20250319-vaxa-technologies-uses-geothermal-energy-to-cultivate-microalgae-on-icelands-indoor-farm/](https://www.fertilizerdaily.com/20250319-vaxa-technologies-uses-geothermal-energy-to-cultivate-microalgae-on-icelands-indoor-farm/)
+- [https://www.ainvest.com/news/vaxa-technologies-cultivates-sustainable-microalgae-for-food-in-iceland-s-unique-geothermal-energy-environment-25011000db96b06762253c1e/](https://www.ainvest.com/news/vaxa-technologies-cultivates-sustainable-microalgae-for-food-in-iceland-s-unique-geothermal-energy-environment-25011000db96b06762253c1e/)
 
 ---
 
