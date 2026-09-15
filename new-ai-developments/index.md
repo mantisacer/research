@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 62
+**Status:** Active | **Entries:** 63
 
 ---
 
@@ -1290,6 +1290,23 @@ One open question worth pursuing is whether DeepSeek-V4.1-Flash achieved benchma
 - [https://aireleasetracker.com/](https://aireleasetracker.com/)
 - [https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html](https://local-ai-zone.github.io/blog/September_2026_AI_Model_Updates.html)
 - [https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/](https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/)
+
+---
+
+### Which AI companies announced new sovereign cloud data residency features for EU compliance in September 2026?
+
+*September 15, 2026*
+
+By September 2026, the European sovereign cloud market has solidified around three distinct architectural approaches: AWS launched its European Sovereign Cloud as a physically and legally separate partition operated by EU-resident staff; Microsoft offers "Cloud for Sovereignty" as a policy-based framework layered over its global infrastructure; and Google delivers "Sovereign Controls" through partner-operated environments like S3NS in France and T-Systems in Germany. These developments were driven by urgent regulatory shifts, including Germany’s mandatory C5 certification for healthcare and public administration, which transformed sovereign cloud from a compliance option into a contractual requirement for regulated industries. While Workday also entered this space with an EU Sovereign Cloud specifically for AI-powered HR and finance data residency, the major hyperscalers remain fragmented in their definitions of sovereignty, forcing enterprises to navigate complex differences in legal structure and operational control. The lack of a unified EU certification scheme has led to reliance on national standards like France’s SecNumCloud and Spain’s ENS, creating a disjointed compliance landscape that complicates cross-border deployments for multinational organizations.
+
+A key open question worth pursuing is how the impending full enforcement of the EU AI Act in August 2026 will interact with these differing sovereignty models, specifically whether regulators will accept partner-operated or policy-based clouds as sufficient for high-risk AI applications requiring strict data isolation.
+
+**Sources:**
+- [https://tech-insider.org/aws-vs-microsoft-vs-google-sovereign-cloud-2026/](https://tech-insider.org/aws-vs-microsoft-vs-google-sovereign-cloud-2026/)
+- [https://techplustrends.com/eu-sovereign-ai-infrastructure-stack-2026-guide/](https://techplustrends.com/eu-sovereign-ai-infrastructure-stack-2026-guide/)
+- [https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/](https://azure.microsoft.com/en-us/blog/microsoft-strengthens-sovereign-cloud-capabilities-with-new-services/)
+- [https://www.streetinsider.com/Corporate+News/Workday+launches+EU+sovereign+cloud+for+data+residency+compliance/25634027.html](https://www.streetinsider.com/Corporate+News/Workday+launches+EU+sovereign+cloud+for+data+residency+compliance/25634027.html)
+- [https://newsroom.workday.com/2025-11-19-Workday-Launches-Workday-EU-Sovereign-Cloud-to-Unlock-Enterprise-AI-With-Full-EU-Data-Residency-and-Control](https://newsroom.workday.com/2025-11-19-Workday-Launches-Workday-EU-Sovereign-Cloud-to-Unlock-Enterprise-AI-With-Full-EU-Data-Residency-and-Control)
 
 ---
 
