@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 65
+**Status:** Active | **Entries:** 66
 
 ---
 
@@ -1341,6 +1341,23 @@ An open question worth pursuing is whether the top-performing LLMs (e.g., GPT-5.
 - [https://www.cognee.ai/best-ai-memory-layers-for-ai-agents-in-2026-comparison](https://www.cognee.ai/best-ai-memory-layers-for-ai-agents-in-2026-comparison)
 - [https://linesncircles.com/Blog/Enterprise/Agent_memory_2026](https://linesncircles.com/Blog/Enterprise/Agent_memory_2026)
 - [https://hivra.cloud/blog/ai-agent-memory-systems](https://hivra.cloud/blog/ai-agent-memory-systems)
+
+---
+
+### Did any major AI lab announce a new multimodal reasoning model with native audio-visual processing in mid-September 2026?
+
+*September 16, 2026*
+
+Based on the provided search results, there is no evidence of a major AI lab announcing a new multimodal reasoning model with native audio-visual processing specifically in mid-September 2026. The most relevant findings include NVIDIA’s release of Nemotron 3 Nano Omni, which unifies vision, audio, and language capabilities into a single system, and Microsoft’s launch of the MAI model family featuring the MAI-Thinking-1 reasoning model. Additionally, Meta Superintelligence Labs released Muse Spark, described as a natively multimodal reasoning model with visual chain-of-thought support, though this announcement is dated April 2026. While these models represent significant advancements in multimodal and reasoning capabilities, none of the cited sources explicitly link such a release to the specific timeframe of mid-September 2026.
+
+Did NVIDIA or Microsoft hold an unannounced press event in September 2026 that details a new version of their omnimodal or thinking models?
+
+**Sources:**
+- [https://best-ai.news/ai-model-releases-2026](https://best-ai.news/ai-model-releases-2026)
+- [https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/](https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/)
+- [https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/](https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/)
+- [https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/)
+- [https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
 
 ---
 
