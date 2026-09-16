@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 43
+**Status:** Active | **Entries:** 44
 
 ---
 
@@ -800,6 +800,23 @@ Does Vaxa Technologies have any announced plans to pivot its microalgae output t
 - [https://www.bbc.com/news/articles/c4gjry6dv4yo](https://www.bbc.com/news/articles/c4gjry6dv4yo)
 - [https://www.fertilizerdaily.com/20250319-vaxa-technologies-uses-geothermal-energy-to-cultivate-microalgae-on-icelands-indoor-farm/](https://www.fertilizerdaily.com/20250319-vaxa-technologies-uses-geothermal-energy-to-cultivate-microalgae-on-icelands-indoor-farm/)
 - [https://www.ainvest.com/news/vaxa-technologies-cultivates-sustainable-microalgae-for-food-in-iceland-s-unique-geothermal-energy-environment-25011000db96b06762253c1e/](https://www.ainvest.com/news/vaxa-technologies-cultivates-sustainable-microalgae-for-food-in-iceland-s-unique-geothermal-energy-environment-25011000db96b06762253c1e/)
+
+---
+
+### Are there 2026 magnetic levitation looms in Oaxaca weaving with magnetized silver threads for haptic storytelling?
+
+*September 16, 2026*
+
+Oaxacan textile traditions remain deeply rooted in indigenous heritage, primarily utilizing backstrap looms and natural dyes like cochineal to create distinctive patterns for the Zapotec, Nahua, and Mixtec communities. While magnetic levitation weft insertion is emerging as a disruptive technology in industrial circular loom manufacturing—specifically through projects like SupraWeave scheduled for presentation in November 2026—it remains strictly confined to high-tech machinery contexts rather than artisanal settings. There is no evidence in the provided search results or general knowledge supporting the existence of "magnetic levitation looms" operating in Oaxaca, as the region’s textile production continues to rely on traditional manual and stationary loom techniques. Furthermore, the specific application of weaving with magnetized silver threads for haptic storytelling appears to be a fictional or highly speculative concept not grounded in current Oaxacan practices or established technological developments. The search results highlight a clear dichotomy between the preservation of ancient Mesoamerican weaving arts in Mexico and the advanced electromagnetic engineering being developed in industrial textile sectors elsewhere.
+
+Does any contemporary artist or technologist currently exist who is attempting to bridge the gap between traditional Oaxacan backstrap weaving and emerging haptic textile technologies?
+
+**Sources:**
+- [https://en.wikipedia.org/wiki/Textiles_of_Oaxaca](https://en.wikipedia.org/wiki/Textiles_of_Oaxaca)
+- [https://www.tex-world.cn/en/news/107140](https://www.tex-world.cn/en/news/107140)
+- [https://www.tex-world.cn/en/news/106890](https://www.tex-world.cn/en/news/106890)
+- [https://thegarmentatlas.com/americas-indigenous/oaxacan-zapotec-backstrap-weaving-guide](https://thegarmentatlas.com/americas-indigenous/oaxacan-zapotec-backstrap-weaving-guide)
+- [https://thegarmentatlas.com/americas-indigenous/oaxacan-backstrap-weaving-cochineal-dye-guide](https://thegarmentatlas.com/americas-indigenous/oaxacan-backstrap-weaving-cochineal-dye-guide)
 
 ---
 
