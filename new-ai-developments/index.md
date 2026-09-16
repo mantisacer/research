@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 66
+**Status:** Active | **Entries:** 67
 
 ---
 
@@ -1358,6 +1358,21 @@ Did NVIDIA or Microsoft hold an unannounced press event in September 2026 that d
 - [https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/](https://www.marktechpost.com/2026/04/09/meta-superintelligence-lab-releases-muse-spark-a-multimodal-reasoning-model-with-thought-compression-and-parallel-agents/)
 - [https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/](https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/)
 - [https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/](https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/)
+
+---
+
+### Which AI companies launched new synthetic data generation marketplaces for specialized domains in mid-September 2026?
+
+*September 16, 2026*
+
+The provided search results do not contain any information regarding AI companies launching new synthetic data generation marketplaces for specialized domains in mid-September 2026. Instead, the sources focus on general rankings and overviews of top synthetic data companies and platforms active throughout 2026. These lists highlight established players offering solutions for tabular data, computer vision, and LLM training, but they do not document specific product launches or marketplace introductions tied to that particular timeframe. The excerpts emphasize the growing importance of synthetic data as a primary source for AI training rather than detailing recent market expansions. Consequently, there is no evidence in these results to support the occurrence of the specific events described in your query. Why might dedicated news outlets or press releases from specific vendors be necessary to verify such granular product launch details?
+
+**Sources:**
+- [https://www.f6s.com/companies/synthetic-data/mo](https://www.f6s.com/companies/synthetic-data/mo)
+- [https://www.turingpost.com/p/synthetic-data-companies](https://www.turingpost.com/p/synthetic-data-companies)
+- [https://seedtable.com/best-synthetic-data-startups](https://seedtable.com/best-synthetic-data-startups)
+- [https://www.questionpro.com/blog/synthetic-data-companies/](https://www.questionpro.com/blog/synthetic-data-companies/)
+- [https://data-gate.ch/synthetic-data-generation-state-of-art-2026/](https://data-gate.ch/synthetic-data-generation-state-of-art-2026/)
 
 ---
 
