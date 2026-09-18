@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 69
+**Status:** Active | **Entries:** 70
 
 ---
 
@@ -1403,6 +1403,23 @@ No major AI lab announced new real-time collaborative editing features for agent
 - [https://skillgen.io/ai-agent-real-time-collaboration-2026](https://skillgen.io/ai-agent-real-time-collaboration-2026)
 - [https://toolchase.com/blog/ai-tools-news-2026/](https://toolchase.com/blog/ai-tools-news-2026/)
 - [https://blog.buildfastwithai.com/ai-news-today-september-17-2026](https://blog.buildfastwithai.com/ai-news-today-september-17-2026)
+
+---
+
+### Which AI labs announced new on-device quantization techniques for large language models in mid-September 2026?
+
+*September 18, 2026*
+
+The search results indicate that by mid-2026, edge AI inference has matured into a production-ready standard, driven by the ability of consumer NPUs to run 7B-8B parameter models at 15-40 tokens per second with sub-50ms latency. Significant advancements include "calibration-aware" quantization and group-wise scaling techniques that allow 4-bit INT4 models to retain over 95% of full-precision performance, effectively collapsing the quality gap between quantized and FP16 versions. Specific frameworks like NVFP4 are emerging to combine compact 4-bit storage with floating-point semantics, offering a balance between memory efficiency and numerical expressiveness for large language model deployment. Hardware support has broadened across Qualcomm Hexagon, Apple Neural Engine, Intel Lunar Lake successors, AMD XDNA, and NVIDIA Jetson platforms, all of which now sustain interactive inference speeds under strict thermal constraints. However, the provided sources do not explicitly identify specific AI labs announcing *new* on-device quantization techniques specifically in **mid-September 2026**, instead offering a broader overview of the state-of-the-art from early to mid-2026.
+
+One open question worth pursuing is which specific research lab or company released the novel "calibration-aware" or NVFP4 optimization algorithms that enabled this significant quality retention in 4-bit models during the second half of 2026?
+
+**Sources:**
+- [https://geniustechlab.com/posts/2026-06-23-edge-ai-inference-2026](https://geniustechlab.com/posts/2026-06-23-edge-ai-inference-2026)
+- [https://hanlab.mit.edu/techniques/quantization](https://hanlab.mit.edu/techniques/quantization)
+- [https://docs.octomil.com/blog/on-device-llm-inference-2025-2026/](https://docs.octomil.com/blog/on-device-llm-inference-2025-2026/)
+- [https://www.meta-intelligence.tech/en/insight-quantization](https://www.meta-intelligence.tech/en/insight-quantization)
+- [https://developers.redhat.com/articles/2026/02/04/accelerating-large-language-models-nvfp4-quantization](https://developers.redhat.com/articles/2026/02/04/accelerating-large-language-models-nvfp4-quantization)
 
 ---
 
