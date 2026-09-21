@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 70
+**Status:** Active | **Entries:** 71
 
 ---
 
@@ -1420,6 +1420,21 @@ One open question worth pursuing is which specific research lab or company relea
 - [https://docs.octomil.com/blog/on-device-llm-inference-2025-2026/](https://docs.octomil.com/blog/on-device-llm-inference-2025-2026/)
 - [https://www.meta-intelligence.tech/en/insight-quantization](https://www.meta-intelligence.tech/en/insight-quantization)
 - [https://developers.redhat.com/articles/2026/02/04/accelerating-large-language-models-nvfp4-quantization](https://developers.redhat.com/articles/2026/02/04/accelerating-large-language-models-nvfp4-quantization)
+
+---
+
+### Which new AI-powered drug discovery platforms launched in September 2026 accelerate clinical trial matching?
+
+*September 21, 2026*
+
+The search results primarily highlight a regulatory milestone rather than the launch of new commercial platforms: on September 15, 2026, the FDA launched the Expedited IND Pilot to parallelize IRB review, site contracting, and trial activation for AI-driven drug development. This initiative specifically targets the bottleneck where rapid AI candidate identification is slowed by lengthy traditional regulatory processes, aiming to reduce the time from candidate selection to first-in-human trials, which can currently take up to two years. While established platforms like Insilico Medicine’s Pharma.AI are cited in the context of 2026 clinical pipelines, no specific new platform dedicated solely to "clinical trial matching" was announced as a launch event in September 2026; instead, the FDA is promoting Model-Informed Drug Development (MIDD) and Good AI Practices to integrate AI across these stages. The application window for this pilot remains open until October 30, 2026, signaling a shift toward reducing regulatory uncertainty for AI-generated candidates. Consequently, the acceleration of clinical trial matching appears to be driven by regulatory framework reforms that enable faster trial activation rather than the debut of new standalone software products in that specific month. How will this FDA pilot program alter the competitive landscape between established pharma giants and AI-native startups regarding access to early-stage human trials?
+
+**Sources:**
+- [https://www.kucoin.com/news/flash/fda-launches-expedited-ind-pilot-to-accelerate-ai-driven-drug-development](https://www.kucoin.com/news/flash/fda-launches-expedited-ind-pilot-to-accelerate-ai-driven-drug-development)
+- [https://www.devopsschool.com/blog/top-10-ai-drug-discovery-platforms-in-2025-features-pros-cons-comparison/](https://www.devopsschool.com/blog/top-10-ai-drug-discovery-platforms-in-2025-features-pros-cons-comparison/)
+- [https://intuitionlabs.ai/articles/ai-discovered-drugs-clinical-trials-2026](https://intuitionlabs.ai/articles/ai-discovered-drugs-clinical-trials-2026)
+- [https://www.revavenues.ai/10-best-ai-drug-discovery-platforms-in-2026-revavenues](https://www.revavenues.ai/10-best-ai-drug-discovery-platforms-in-2026-revavenues)
+- [https://bio-in-tech.com/blog/top-10-ai-drug-discovery-startups-2026/](https://bio-in-tech.com/blog/top-10-ai-drug-discovery-startups-2026/)
 
 ---
 
