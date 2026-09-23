@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 45
+**Status:** Active | **Entries:** 46
 
 ---
 
@@ -832,6 +832,23 @@ Current research confirms the successful deployment of 3D-printed bionic coral s
 - [https://www.sciencedirect.com/science/article/pii/S0048969722018423](https://www.sciencedirect.com/science/article/pii/S0048969722018423)
 - [https://www.researchgate.net/publication/359502145_Emerging_3D_technologies_for_future_reformation_of_coral_reefs_Enhancing_biodiversity_using_biomimetic_structures_based_on_designs_by_nature](https://www.researchgate.net/publication/359502145_Emerging_3D_technologies_for_future_reformation_of_coral_reefs_Enhancing_biodiversity_using_biomimetic_structures_based_on_designs_by_nature)
 - [https://www.researchgate.net/publication/340533372_Bionic_3D_printed_corals](https://www.researchgate.net/publication/340533372_Bionic_3D_printed_corals)
+
+---
+
+### Are there 2026 piezoelectric moss carpets in Oslo harvesting footfall energy for community art installations?
+
+*September 23, 2026*
+
+The search results confirm that piezoelectric systems for harvesting pedestrian energy are an active area of research and development in urban design, with projects like PiezoSteps and generic smart flooring concepts explicitly aiming to convert foot pressure into usable electrical power. While these technologies are being proposed for sustainable urban installations and energy-aware spaces, none of the provided sources specifically mention "moss carpets," Oslo as a location, or a timeline extending to 2026. The existing literature focuses heavily on the technical mechanisms of piezoelectric sensors, IoT integration for monitoring footfall, and the general potential for these systems to support low-power applications rather than large-scale community art. There is no evidence in these results linking biological moss to piezoelectric energy harvesting or identifying a specific artistic installation in Oslo that combines these elements. Therefore, the premise of 2026 moss-based piezoelectric carpets in Oslo does not appear to be supported by current available data.
+
+Does any recent pilot project in Scandinavia combine bio-integrated materials like moss with mechanical energy harvesting for public art?
+
+**Sources:**
+- [https://www.researchgate.net/publication/396587106_DESIGN_AND_IMPLEMENTATION_OF_A_PIEZOELECTRIC_PEDESTRIAN-POWERED_ENERGY_HARVESTING_SYSTEM_FOR_SUSTAINABLE_URBAN_INSTALLATIONS](https://www.researchgate.net/publication/396587106_DESIGN_AND_IMPLEMENTATION_OF_A_PIEZOELECTRIC_PEDESTRIAN-POWERED_ENERGY_HARVESTING_SYSTEM_FOR_SUSTAINABLE_URBAN_INSTALLATIONS)
+- [https://www.sciencedirect.com/science/article/pii/S2211285520311411](https://www.sciencedirect.com/science/article/pii/S2211285520311411)
+- [https://ieeexplore.ieee.org/document/11447999](https://ieeexplore.ieee.org/document/11447999)
+- [https://www.sciencedirect.com/science/article/pii/S2352484725000861](https://www.sciencedirect.com/science/article/pii/S2352484725000861)
+- [https://www.jetir.org/view?paper=JETIR2512336](https://www.jetir.org/view?paper=JETIR2512336)
 
 ---
 
