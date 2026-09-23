@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 72
+**Status:** Active | **Entries:** 73
 
 ---
 
@@ -1450,6 +1450,21 @@ Based on the provided search results and the AI model release calendar, no major
 - [https://nat.io/blog/quantum-ai-hpc-hybrid-architecture-guide-2026](https://nat.io/blog/quantum-ai-hpc-hybrid-architecture-guide-2026)
 - [https://atap.lbl.gov/news/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/](https://atap.lbl.gov/news/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/)
 - [https://orcacomputing.com/orca-toyota-hybrid-quantum-ai-energy-reduction/](https://orcacomputing.com/orca-toyota-hybrid-quantum-ai-energy-reduction/)
+
+---
+
+### Which AI companies launched new insurance products covering autonomous agent liability in September 2026?
+
+*September 23, 2026*
+
+The 2026 AI liability insurance market has fundamentally restructured as major carriers like Lloyd’s, Munich Re, and Beazley launched purpose-built policies to cover autonomous agent errors, filling a gap created by ISO’s new blanket exclusions for generative AI harms in standard commercial lines. Concurrently, specialist InsurTech firms such as Klaimee, Testudo, and Corgi have introduced niche products, including insurance-backed warranties and hallucination-specific coverage with limits reaching up to $25 million. This shift is underpinned by the *Moffatt v. Air Canada* ruling, which established that companies cannot deflect liability for automated agents, driving insurers to focus on authority levels and oversight rather than treating AI as a separate legal actor. A key innovation in this ecosystem is the AIUC-1 standard, which bundles security and safety audits directly with Lloyd’s-backed policies to streamline underwriting for trace-level risks. As of mid-2026, the market is clearly bifurcating into traditional insurers writing exclusions and specialist carriers offering standalone coverage for agent-specific liabilities like E&O and hallucination damages. A critical open question remains regarding how these emerging certification-backed standards will be harmonized across jurisdictions to prevent fragmented compliance burdens for global enterprises deploying autonomous agents.
+
+**Sources:**
+- [https://zylos.ai/research/2026-07-10-ai-agent-liability-insurance-underwriting/](https://zylos.ai/research/2026-07-10-ai-agent-liability-insurance-underwriting/)
+- [https://agentmarketcap.ai/blog/2026/04/15/ai-agent-error-insurance-lloyds-aig-beazley-hallucination-liability](https://agentmarketcap.ai/blog/2026/04/15/ai-agent-error-insurance-lloyds-aig-beazley-hallucination-liability)
+- [https://www.financexmagazine.com/post/who-insures-the-ai-the-insurtech-week-that-answered-a-question-nobody-wanted-to-ask](https://www.financexmagazine.com/post/who-insures-the-ai-the-insurtech-week-that-answered-a-question-nobody-wanted-to-ask)
+- [https://agentmarketcap.ai/blog/2026/04/06/ai-agent-error-omission-insurance-lloyds-munich-re-beazley](https://agentmarketcap.ai/blog/2026/04/06/ai-agent-error-omission-insurance-lloyds-munich-re-beazley)
+- [https://agentinsured.eu/articles/ai-liability-insurance-market-map-2026](https://agentinsured.eu/articles/ai-liability-insurance-market-map-2026)
 
 ---
 
