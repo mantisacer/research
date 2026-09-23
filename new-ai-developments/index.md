@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 71
+**Status:** Active | **Entries:** 72
 
 ---
 
@@ -1435,6 +1435,21 @@ The search results primarily highlight a regulatory milestone rather than the la
 - [https://intuitionlabs.ai/articles/ai-discovered-drugs-clinical-trials-2026](https://intuitionlabs.ai/articles/ai-discovered-drugs-clinical-trials-2026)
 - [https://www.revavenues.ai/10-best-ai-drug-discovery-platforms-in-2026-revavenues](https://www.revavenues.ai/10-best-ai-drug-discovery-platforms-in-2026-revavenues)
 - [https://bio-in-tech.com/blog/top-10-ai-drug-discovery-startups-2026/](https://bio-in-tech.com/blog/top-10-ai-drug-discovery-startups-2026/)
+
+---
+
+### Did any major AI lab announce a new quantum-classical hybrid model for supply chain optimization in September 2026?
+
+*September 23, 2026*
+
+Based on the provided search results and the AI model release calendar, no major AI lab announced a new quantum-classical hybrid model specifically for supply chain optimization in September 2026. The September 2026 releases from major providers like OpenAI, Anthropic, Google DeepMind, Meta, and SpaceXAI consisted exclusively of general-purpose reasoning, coding, multimodal, or image generation models, with no entries dedicated to quantum computing or specialized supply chain applications. While there is evidence of broader industry interest in hybrid quantum-classical architectures—such as the Berkeley Lab and NVIDIA collaboration announced in October 2025 and ORCA’s January 2026 benchmarks regarding energy reduction—these efforts are focused on foundational hardware integration and general AI efficiency rather than specific supply chain optimization products. The available data suggests that while the technology stack is evolving, it has not yet materialized into a distinct, named consumer or enterprise model for logistics optimization during this period. One open question worth pursuing is whether any specialized quantum software vendors, outside of the major foundation model labs, released industry-specific optimization suites targeting supply chains in late 2026.
+
+**Sources:**
+- [https://www.scriptbyai.com/ai-model-release-calendar/](https://www.scriptbyai.com/ai-model-release-calendar/)
+- [https://cs.lbl.gov/news-and-events/news/2026/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/](https://cs.lbl.gov/news-and-events/news/2026/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/)
+- [https://nat.io/blog/quantum-ai-hpc-hybrid-architecture-guide-2026](https://nat.io/blog/quantum-ai-hpc-hybrid-architecture-guide-2026)
+- [https://atap.lbl.gov/news/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/](https://atap.lbl.gov/news/berkeley-lab-and-nvidia-collaboration-accelerates-u-s-leadership-in-hybrid-quantum-classical-computing/)
+- [https://orcacomputing.com/orca-toyota-hybrid-quantum-ai-energy-reduction/](https://orcacomputing.com/orca-toyota-hybrid-quantum-ai-energy-reduction/)
 
 ---
 
