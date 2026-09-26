@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 46
+**Status:** Active | **Entries:** 47
 
 ---
 
@@ -849,6 +849,21 @@ Does any recent pilot project in Scandinavia combine bio-integrated materials li
 - [https://ieeexplore.ieee.org/document/11447999](https://ieeexplore.ieee.org/document/11447999)
 - [https://www.sciencedirect.com/science/article/pii/S2352484725000861](https://www.sciencedirect.com/science/article/pii/S2352484725000861)
 - [https://www.jetir.org/view?paper=JETIR2512336](https://www.jetir.org/view?paper=JETIR2512336)
+
+---
+
+### Are there 2026 tidal-powered piezoelectric salt pans in Vietnam harvesting brine energy for community microgrids?
+
+*September 26, 2026*
+
+The provided search results do not identify any existing "2026 tidal-powered piezoelectric salt pans" in Vietnam; instead, they indicate that Vietnam’s renewable energy sector is currently dominated by hydroelectricity, wind, solar, and biomass. While a 2022 academic article notes that research on tidal energy in coastal Vietnam remains limited, it confirms the theoretical potential of exploiting tidal rise and fall for electricity generation. The general context from Wikipedia emphasizes that tidal power faces high costs and limited site availability, suggesting that niche applications like piezoelectric brine harvesting are not yet part of established community microgrid infrastructure. Therefore, there is no evidence in these sources to support the existence of such specific technology or installations by 2026. It remains unclear whether any pilot projects combining piezoelectric materials with agricultural salt pans have been proposed as a distinct energy solution in Vietnamese coastal communities.
+
+**Sources:**
+- [https://en.wikipedia.org/wiki/Tidal_power](https://en.wikipedia.org/wiki/Tidal_power)
+- [https://en.wikipedia.org/wiki/Renewable_energy_in_Vietnam](https://en.wikipedia.org/wiki/Renewable_energy_in_Vietnam)
+- [https://vietnamscience.vjst.vn/index.php/vjste/article/view/41](https://vietnamscience.vjst.vn/index.php/vjste/article/view/41)
+- [https://vietnamscience.vjst.vn/index.php/vjste/article/download/41/29/124](https://vietnamscience.vjst.vn/index.php/vjste/article/download/41/29/124)
+- [https://www.eia.gov/energyexplained/hydropower/tidal-power.php](https://www.eia.gov/energyexplained/hydropower/tidal-power.php)
 
 ---
 
