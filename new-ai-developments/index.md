@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 73
+**Status:** Active | **Entries:** 74
 
 ---
 
@@ -1465,6 +1465,23 @@ The 2026 AI liability insurance market has fundamentally restructured as major c
 - [https://www.financexmagazine.com/post/who-insures-the-ai-the-insurtech-week-that-answered-a-question-nobody-wanted-to-ask](https://www.financexmagazine.com/post/who-insures-the-ai-the-insurtech-week-that-answered-a-question-nobody-wanted-to-ask)
 - [https://agentmarketcap.ai/blog/2026/04/06/ai-agent-error-omission-insurance-lloyds-munich-re-beazley](https://agentmarketcap.ai/blog/2026/04/06/ai-agent-error-omission-insurance-lloyds-munich-re-beazley)
 - [https://agentinsured.eu/articles/ai-liability-insurance-market-map-2026](https://agentinsured.eu/articles/ai-liability-insurance-market-map-2026)
+
+---
+
+### Did any major AI lab announce a new federated learning protocol for secure multi-tenant agent collaboration in late September 2026?
+
+*September 26, 2026*
+
+Based on the search results, there is no evidence that a major AI lab announced a new federated learning protocol specifically for secure multi-tenant agent collaboration in late September 2026. Instead, the notable announcement from this period was made by Apheris and the AI Structural Biology (AISB) Network on September 22, 2026, regarding "AISB Bind," an initiative where four major pharma companies (AbbVie, AstraZeneca, Bristol Myers Squibb, and Johnson & Johnson) are using federated learning to train molecular binding prediction models. This project builds on the success of the earlier Federated OpenFold3 project, which demonstrated that private data could remain local while model weights were aggregated to improve performance over public benchmarks like Boltz-2. While other news items mention Sherpa.ai’s multi-party PSU protocol and general production-ready frameworks like Flower 1.10 and PySyft 0.8, these are described as advancements in privacy-preserving data collaboration or infrastructure rather than a specific new agent-collaboration protocol from a major AI lab. The University of Michigan also published a breakthrough on the "FedSparse" framework to reduce communication overhead, but this is an academic research contribution rather than an industry-wide protocol announcement for agents. Therefore, the premise of a major AI lab releasing such a specific protocol appears unsupported by the current data.
+
+**Open Question:** Is there any recent documentation or press release from hyperscalers (such as AWS, Azure, or GCP) or leading AI labs (like OpenAI or Anthropic) that details a proprietary "agent-to-agent" federated inference framework distinct from traditional model training?
+
+**Sources:**
+- [https://www.bio-itworld.com/news/2026/09/22/apheris-announced-the-results-of-their-federated-learning-co-folding-initiative-now-four-big-pharma-are-betting-bigger](https://www.bio-itworld.com/news/2026/09/22/apheris-announced-the-results-of-their-federated-learning-co-folding-initiative-now-four-big-pharma-are-betting-bigger)
+- [https://www.machinebrief.com/news/sherpaais-new-protocol-takes-federated-learning-to-new-heigh-avtp](https://www.machinebrief.com/news/sherpaais-new-protocol-takes-federated-learning-to-new-heigh-avtp)
+- [https://aisecurityandsafety.org/en/guides/federated-learning/](https://aisecurityandsafety.org/en/guides/federated-learning/)
+- [https://multiwaresolutions.com/blog/federated-learning-production-2026](https://multiwaresolutions.com/blog/federated-learning-production-2026)
+- [https://a2hub.tech/news/umich-ai-lab-federated-learning-breakthrough/](https://a2hub.tech/news/umich-ai-lab-federated-learning-breakthrough/)
 
 ---
 
