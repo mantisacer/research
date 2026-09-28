@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 47
+**Status:** Active | **Entries:** 48
 
 ---
 
@@ -864,6 +864,21 @@ The provided search results do not identify any existing "2026 tidal-powered pie
 - [https://vietnamscience.vjst.vn/index.php/vjste/article/view/41](https://vietnamscience.vjst.vn/index.php/vjste/article/view/41)
 - [https://vietnamscience.vjst.vn/index.php/vjste/article/download/41/29/124](https://vietnamscience.vjst.vn/index.php/vjste/article/download/41/29/124)
 - [https://www.eia.gov/energyexplained/hydropower/tidal-power.php](https://www.eia.gov/energyexplained/hydropower/tidal-power.php)
+
+---
+
+### Are there 2026 piezoelectric mycelium bricks in the Andes converting footfall into energy for high-altitude community clinics?
+
+*September 28, 2026*
+
+The search results confirm that mycelium bricks are an emerging, low-energy construction material that binds plant fibers at room temperature, but there is no evidence they possess piezoelectric properties or exist in the Andes for 2026. While kinetic pavements and piezoelectric roadways are recognized as valid technologies for converting footfall into electricity, these systems rely on specific piezoelectric sensors rather than biological fungal materials. The available data treats mycelium construction and piezoelectric energy harvesting as distinct fields, with no sources linking the two or detailing high-altitude clinic installations in South America. Consequently, the premise of "piezoelectric mycelium bricks" appears to be a conflation of separate bio-material and energy-harvesting innovations. A key open question is whether researchers are currently exploring hybrid composites that embed piezoelectric elements within biodegradable mycelium structures to create self-powered, sustainable building blocks.
+
+**Sources:**
+- [https://www.technology.org/2026/01/19/mycelium-based-blocks-could-be-the-future-of-construction/](https://www.technology.org/2026/01/19/mycelium-based-blocks-could-be-the-future-of-construction/)
+- [https://www.wtwco.com/en-us/insights/2025/07/weird-and-wonderful-the-next-wave-of-renewable-energy-innovation](https://www.wtwco.com/en-us/insights/2025/07/weird-and-wonderful-the-next-wave-of-renewable-energy-innovation)
+- [https://www.certifiedenergy.com.au/emerging-materials/emerging-materials-mycelium-brick](https://www.certifiedenergy.com.au/emerging-materials/emerging-materials-mycelium-brick)
+- [https://curious.earth/blog/theres-not-mushroom-in-our-net-zero-goals-for-concrete-revolutionising-the-construction-industry-with-mycelium-bricks/](https://curious.earth/blog/theres-not-mushroom-in-our-net-zero-goals-for-concrete-revolutionising-the-construction-industry-with-mycelium-bricks/)
+- [https://www.researchgate.net/publication/322217715_A_review_of_walking_energy_harvesting_using_piezoelectric_materials](https://www.researchgate.net/publication/322217715_A_review_of_walking_energy_harvesting_using_piezoelectric_materials)
 
 ---
 
