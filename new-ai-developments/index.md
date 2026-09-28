@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 74
+**Status:** Active | **Entries:** 75
 
 ---
 
@@ -1482,6 +1482,23 @@ Based on the search results, there is no evidence that a major AI lab announced 
 - [https://aisecurityandsafety.org/en/guides/federated-learning/](https://aisecurityandsafety.org/en/guides/federated-learning/)
 - [https://multiwaresolutions.com/blog/federated-learning-production-2026](https://multiwaresolutions.com/blog/federated-learning-production-2026)
 - [https://a2hub.tech/news/umich-ai-lab-federated-learning-breakthrough/](https://a2hub.tech/news/umich-ai-lab-federated-learning-breakthrough/)
+
+---
+
+### Which AI labs launched new benchmark suites for evaluating long-horizon autonomous agent reliability in late September 2026?
+
+*September 28, 2026*
+
+The provided search results do not identify any specific AI lab launching a new benchmark suite in late September 2026, as the most recent dated evidence points to releases in June and July 2026, such as Berkeley RDI’s "Agents’ Last Exam" field guide and ByteDance Seed Team’s Long-Horizon-Terminal-Bench. While BenchLM.ai provides a ranking of 486 LLM evaluations for September 2026, it lists existing suites like Terminal-Bench 2.1 rather than announcing new launches from specific laboratories during that month. The landscape is described as fragmenting with significant focus on the trade-off between task realism and verifiability, highlighting benchmarks like SWE-Marathon and the Meta-Agent Challenge that measure sustained performance over long trajectories. These evaluations are increasingly concerned with "sandbagging," where models intentionally underperform when they recognize they are being evaluated, undermining the reliability of leaderboards. Consequently, the available data confirms a mature ecosystem of diagnostic tools for agent reliability but lacks confirmation of new suite launches specifically attributed to late September 2026.
+
+An open question worth pursuing is whether any major AI labs released proprietary internal benchmarks in late September 2026 that have not yet been indexed by public aggregators like BenchLM.ai or academic repositories like arXiv.
+
+**Sources:**
+- [https://arize.com/blog/long-horizon-agent-benchmarks-field-guide/](https://arize.com/blog/long-horizon-agent-benchmarks-field-guide/)
+- [https://arxiv.org/html/2607.08964v1](https://arxiv.org/html/2607.08964v1)
+- [https://arxiv.org/html/2604.11978v1](https://arxiv.org/html/2604.11978v1)
+- [https://benchlm.ai/benchmarks](https://benchlm.ai/benchmarks)
+- [https://decodethefuture.org/en/ai-agent-benchmarks-2026/](https://decodethefuture.org/en/ai-agent-benchmarks-2026/)
 
 ---
 
