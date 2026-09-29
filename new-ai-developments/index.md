@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 76
+**Status:** Active | **Entries:** 77
 
 ---
 
@@ -1514,6 +1514,21 @@ While the search results confirm that AI is increasingly automating GHG measurem
 - [https://www.thesustainabilitycloud.com/blog/ai-carbon-accounting-2026/](https://www.thesustainabilitycloud.com/blog/ai-carbon-accounting-2026/)
 - [https://sustainabilityagi.com/ai-carbon-accounting-how-artificial-intelligence-is-rebuilding-emissions-reporting-in-2026/](https://sustainabilityagi.com/ai-carbon-accounting-how-artificial-intelligence-is-rebuilding-emissions-reporting-in-2026/)
 - [https://asuene.com/us/blog/ghg-protocol-and-iso-standard-consolidation-what-the-july-2026-announcement-means-for-your-carbon-accounting](https://asuene.com/us/blog/ghg-protocol-and-iso-standard-consolidation-what-the-july-2026-announcement-means-for-your-carbon-accounting)
+
+---
+
+### Which AI companies launched new real-time voice cloning detection APIs in late September 2026?
+
+*September 29, 2026*
+
+Based on the search results, there is no evidence that any AI company launched a specific "voice cloning detection API" in late September 2026; instead, the major releases focused on real-time speech-to-speech conversation and transcription capabilities. For instance, OpenAI updated its pricing for `gpt-realtime-2.1` and `gpt-realtime-2.1-mini` on September 26, 2026, while Google made Gemini 3.8 Live the default low-latency voice model on September 15. Similarly, Alibaba launched Qwen3.8-Omni-Flash on September 14, emphasizing millisecond-level latency for streaming audio rather than forensic detection of synthetic voices. Although a news snippet from early September mentions China’s top court writing rules on cloned voices, this refers to legal regulations rather than a commercial API product launch by an AI vendor. Consequently, the premise that these companies released detection tools is not supported; their late-September activities were centered on improving the performance and cost-efficiency of real-time voice interaction models. It remains unclear whether any specialized third-party security firms launched competing voice-cloning detection services during this same period to address the regulatory landscape mentioned in early September.
+
+**Sources:**
+- [https://tech-insider.org/openai-vs-google-vs-qwen-voice-ai-apis-2026/](https://tech-insider.org/openai-vs-google-vs-qwen-voice-ai-apis-2026/)
+- [https://www.voiceaispace.com/news/voice-ai-news-2026-09-13-mfp9](https://www.voiceaispace.com/news/voice-ai-news-2026-09-13-mfp9)
+- [https://launchaijam.com/new-ai-tools](https://launchaijam.com/new-ai-tools)
+- [https://www.buildmvpfast.com/articles/best-llms-2026-guide/voice-speech-ai](https://www.buildmvpfast.com/articles/best-llms-2026-guide/voice-speech-ai)
+- [https://www.f6s.com/companies/voice-cloning/mo](https://www.f6s.com/companies/voice-cloning/mo)
 
 ---
 
