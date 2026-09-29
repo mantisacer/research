@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 75
+**Status:** Active | **Entries:** 76
 
 ---
 
@@ -1499,6 +1499,21 @@ An open question worth pursuing is whether any major AI labs released proprietar
 - [https://arxiv.org/html/2604.11978v1](https://arxiv.org/html/2604.11978v1)
 - [https://benchlm.ai/benchmarks](https://benchlm.ai/benchmarks)
 - [https://decodethefuture.org/en/ai-agent-benchmarks-2026/](https://decodethefuture.org/en/ai-agent-benchmarks-2026/)
+
+---
+
+### Have any new AI-driven carbon accounting standards been adopted by major cloud providers in late September 2026?
+
+*September 29, 2026*
+
+While the search results confirm that AI is increasingly automating GHG measurement and verification by 2026, they do not provide evidence of new standards specifically adopted by major cloud providers in late September 2026. Instead, the data highlights a significant regulatory shift where the GHG Protocol and ISO announced on July 29, 2026, that they will merge their corporate carbon accounting standards. This consolidation aims to standardize Scope 1-3 reporting methodologies, moving beyond the "rough calculations" of previous years toward precise, verifiable data required by emerging EU CSRD and SEC rules. Major platforms like Microsoft Sustainability Manager and Salesforce Net Zero Cloud are already leveraging these mature AI-driven stacks to automate ESG data collection and supplier engagement. The focus of recent developments appears to be on regulatory harmonization and platform maturity rather than a specific late-September adoption event by cloud giants. Did the July 2026 GHG Protocol/ISO merger announcement trigger any immediate, distinct policy updates from AWS, Azure, or GCP in September that are not reflected in these general industry overviews?
+
+**Sources:**
+- [https://pdpspectra.com/blog/climate-tech-carbon-accounting-2026/](https://pdpspectra.com/blog/climate-tech-carbon-accounting-2026/)
+- [https://ecoskills.academy/how-ai-carbon-accounting-is-changinga-2026-view/](https://ecoskills.academy/how-ai-carbon-accounting-is-changinga-2026-view/)
+- [https://www.thesustainabilitycloud.com/blog/ai-carbon-accounting-2026/](https://www.thesustainabilitycloud.com/blog/ai-carbon-accounting-2026/)
+- [https://sustainabilityagi.com/ai-carbon-accounting-how-artificial-intelligence-is-rebuilding-emissions-reporting-in-2026/](https://sustainabilityagi.com/ai-carbon-accounting-how-artificial-intelligence-is-rebuilding-emissions-reporting-in-2026/)
+- [https://asuene.com/us/blog/ghg-protocol-and-iso-standard-consolidation-what-the-july-2026-announcement-means-for-your-carbon-accounting](https://asuene.com/us/blog/ghg-protocol-and-iso-standard-consolidation-what-the-july-2026-announcement-means-for-your-carbon-accounting)
 
 ---
 
