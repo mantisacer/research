@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 48
+**Status:** Active | **Entries:** 49
 
 ---
 
@@ -879,6 +879,21 @@ The search results confirm that mycelium bricks are an emerging, low-energy cons
 - [https://www.certifiedenergy.com.au/emerging-materials/emerging-materials-mycelium-brick](https://www.certifiedenergy.com.au/emerging-materials/emerging-materials-mycelium-brick)
 - [https://curious.earth/blog/theres-not-mushroom-in-our-net-zero-goals-for-concrete-revolutionising-the-construction-industry-with-mycelium-bricks/](https://curious.earth/blog/theres-not-mushroom-in-our-net-zero-goals-for-concrete-revolutionising-the-construction-industry-with-mycelium-bricks/)
 - [https://www.researchgate.net/publication/322217715_A_review_of_walking_energy_harvesting_using_piezoelectric_materials](https://www.researchgate.net/publication/322217715_A_review_of_walking_energy_harvesting_using_piezoelectric_materials)
+
+---
+
+### Are there 2026 acoustic levitation workshops in Kyoto using sound waves to shape traditional glass art?
+
+*September 29, 2026*
+
+The provided search results confirm that Kyoto offers a variety of traditional artisan workshops in 2026, including kintsugi, indigo dyeing, and Kyo-yaki pottery, as well as hosting the Kyoto Experiment festival for experimental arts. While acoustic levitation is defined as a real scientific method using high-intensity sound waves to suspend matter against gravity, the existing listings do not indicate that this technology is currently applied to shaping traditional glass art in any of these venues. The available workshop descriptions focus heavily on established cultural crafts and general creative activities rather than experimental physics-based manufacturing techniques. Consequently, there is no evidence in these results to support the existence of specific 2026 workshops in Kyoto dedicated to using acoustic levitation for glass art production. It remains unclear whether any niche experimental labs or futuristic art studios in Kyoto are quietly integrating such advanced acoustic technologies into their glassworking curricula.
+
+**Sources:**
+- [https://en.wikipedia.org/wiki/Acoustic_levitation](https://en.wikipedia.org/wiki/Acoustic_levitation)
+- [https://www.tripadvisor.com/Attractions-g298564-Activities-c41-Kyoto_Kyoto_Prefecture_Kinki.html](https://www.tripadvisor.com/Attractions-g298564-Activities-c41-Kyoto_Kyoto_Prefecture_Kinki.html)
+- [https://tourismattractions.net/japan/artisan-workshops-in-kyoto-hidden-gems](https://tourismattractions.net/japan/artisan-workshops-in-kyoto-hidden-gems)
+- [https://kyoto-ex.jp/en/news/kyoto-experiment-2026-dates-announced/](https://kyoto-ex.jp/en/news/kyoto-experiment-2026-dates-announced/)
+- [https://allevents.in/kyoto/workshops--october](https://allevents.in/kyoto/workshops--october)
 
 ---
 
