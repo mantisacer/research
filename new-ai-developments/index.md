@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 78
+**Status:** Active | **Entries:** 79
 
 ---
 
@@ -1546,6 +1546,21 @@ Does Nvidia’s September 2026 security platform include any components that cou
 - [https://www.breakouttools.com/cryptocurrency/ledger-bets-on-hardware-as-ai-agents-start-managing-wallets/](https://www.breakouttools.com/cryptocurrency/ledger-bets-on-hardware-as-ai-agents-start-managing-wallets/)
 - [https://www.techtimes.com/articles/320757/20260716/ledger-launches-agent-stack-ai-proposes-hardware-enforces-final-crypto-move.htm](https://www.techtimes.com/articles/320757/20260716/ledger-launches-agent-stack-ai-proposes-hardware-enforces-final-crypto-move.htm)
 - [https://www.ledger.com/blog-2026-ai-security-roadmap](https://www.ledger.com/blog-2026-ai-security-roadmap)
+
+---
+
+### Which AI labs launched new standardized interoperability protocols for cross-vendor agent skill sharing in late September 2026?
+
+*October 01, 2026*
+
+The search results identify three primary interoperability standards dominating the AI agent ecosystem in 2026: Anthropic’s Model Context Protocol (MCP) for tool access, Google’s Agent-to-Agent (A2A) protocol for task delegation, and OSI (now Apache Ossie) for shared semantic definitions. While A2A was released in April 2025 to standardize cross-vendor collaboration, the provided sources do not mention any specific new protocols launched by AI labs specifically in late September 2026. Instead, recent updates from May 2026 and a September 21, 2026 article focus on the maturation of these existing standards and the critical need for governed context layers to resolve semantic conflicts between compliant agents. The consensus indicates that protocol compliance alone is insufficient for reliable production systems, as multi-agent architectures still suffer from high failure rates due to specification and alignment issues rather than underlying model limitations. Therefore, the evidence suggests a consolidation around MCP, A2A, and OSI rather than the emergence of new standardized protocols in the specific timeframe queried. One open question worth pursuing is whether the September 21, 2026 update to the OSI/Apache Ossie standard introduced any novel mechanisms for cross-vendor skill sharing that distinguish it from its earlier iterations.
+
+**Sources:**
+- [https://atlan.com/know/agent-interoperability-protocols/](https://atlan.com/know/agent-interoperability-protocols/)
+- [https://techwithibrahim.medium.com/top-5-ai-agent-protocols-to-know-in-2026-e2148d1abf1b](https://techwithibrahim.medium.com/top-5-ai-agent-protocols-to-know-in-2026-e2148d1abf1b)
+- [https://www.salesforce.com/blog/agent-interoperability/](https://www.salesforce.com/blog/agent-interoperability/)
+- [https://www.linkedin.com/posts/rakeshgohel01_starting-2025-ai-agent-interoperability-activity-7330572530061103105-ssMh](https://www.linkedin.com/posts/rakeshgohel01_starting-2025-ai-agent-interoperability-activity-7330572530061103105-ssMh)
+- [https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026](https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026)
 
 ---
 
