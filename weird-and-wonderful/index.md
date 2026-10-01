@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 49
+**Status:** Active | **Entries:** 50
 
 ---
 
@@ -894,6 +894,23 @@ The provided search results confirm that Kyoto offers a variety of traditional a
 - [https://tourismattractions.net/japan/artisan-workshops-in-kyoto-hidden-gems](https://tourismattractions.net/japan/artisan-workshops-in-kyoto-hidden-gems)
 - [https://kyoto-ex.jp/en/news/kyoto-experiment-2026-dates-announced/](https://kyoto-ex.jp/en/news/kyoto-experiment-2026-dates-announced/)
 - [https://allevents.in/kyoto/workshops--october](https://allevents.in/kyoto/workshops--october)
+
+---
+
+### Are there 2026 piezoelectric lichen carpets in Patagonia harvesting wind energy for remote Andean observatories?
+
+*October 01, 2026*
+
+The provided search results confirm that piezoelectric wind energy harvesting is an active area of research, particularly for self-supplying micro-electromechanical systems (MEMS) and low-power applications. However, none of the sources mention "lichen carpets" as a material or mechanism for this technology, indicating that such a biological-composite system does not appear in current scientific literature. The available studies focus on standard piezoelectric materials and structural designs rather than organic or lichen-based components. There is also no evidence linking these specific harvesters to remote Andean observatories in Patagonia, nor any references to the year 2026 in this context. Consequently, the premise of using lichen-based piezoelectric carpets for this specific application appears to be unfounded or entirely fictional based on current data.
+
+A key question worth pursuing is whether there are any emerging bio-hybrid material studies that explore integrating biological organisms like lichens into flexible piezoelectric substrates for extreme environment energy harvesting?
+
+**Sources:**
+- [https://www.sciencedirect.com/science/article/pii/S2590123024000306](https://www.sciencedirect.com/science/article/pii/S2590123024000306)
+- [https://www.sciencedirect.com/science/article/pii/S0924424723000390](https://www.sciencedirect.com/science/article/pii/S0924424723000390)
+- [https://www.researchgate.net/profile/Sallam-Kouritem/publication/377346698_Advancements_in_piezoelectric_wind_energy_harvesting_A_review/links/65a41db9af617b0d8744dfa6/Advancements-in-piezoelectric-wind-energy-harvesting-A-review.pdf](https://www.researchgate.net/profile/Sallam-Kouritem/publication/377346698_Advancements_in_piezoelectric_wind_energy_harvesting_A_review/links/65a41db9af617b0d8744dfa6/Advancements-in-piezoelectric-wind-energy-harvesting-A-review.pdf)
+- [https://www.researchgate.net/publication/367319162_A_review_of_piezoelectric_energy_harvesters_for_harvesting_wind_energy](https://www.researchgate.net/publication/367319162_A_review_of_piezoelectric_energy_harvesters_for_harvesting_wind_energy)
+- [https://eureka.patsnap.com/triz-case/piezoelectric-carpet-tile-kinetic-energy-harvesting](https://eureka.patsnap.com/triz-case/piezoelectric-carpet-tile-kinetic-energy-harvesting)
 
 ---
 
