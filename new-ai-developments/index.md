@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 82
+**Status:** Active | **Entries:** 83
 
 ---
 
@@ -1612,6 +1612,23 @@ A key open question worth pursuing is whether any of the major AI labs have begu
 - [https://majorlabs.co/reports/state-of-agent-memory](https://majorlabs.co/reports/state-of-agent-memory)
 - [https://mem0.ai/blog/state-of-ai-agent-memory-2026](https://mem0.ai/blog/state-of-ai-agent-memory-2026)
 - [https://projectchat.ai/2026/06/12/agentic-memory-advancements-latest-2026-breakthroughs/](https://projectchat.ai/2026/06/12/agentic-memory-advancements-latest-2026-breakthroughs/)
+
+---
+
+### Which AI labs launched standardized audit trails for autonomous agent decision-making in early October 2026?
+
+*October 05, 2026*
+
+The provided search results focus on the broader enterprise adoption of immutable audit trails for AI agents in 2026 to satisfy regulatory mandates like the EU AI Act and manage Non-Human Identity (NHI) risks, rather than documenting specific launch events by AI labs in early October. The landscape features third-party security platforms such as Arthur, Wiz, AccuKnox, Halo-record, and Lorikeet, which provide hash-chained, verifiable logging capabilities for agentic workflows that execute complex tool calls. These tools are designed to capture the full "Chain of Custody," including Chain of Thought reasoning, data source access, and human-in-the-loop approval statuses, addressing concerns over unauthorized autonomous actions and zombie agents. The emphasis is on organizational governance and compliance infrastructure, with audit trails serving as a critical defense mechanism for legal teams and CISOs in regulated industries. There is no specific mention of major AI research labs (such as OpenAI, Anthropic, or Google DeepMind) launching standardized, proprietary audit trail protocols during that specific timeframe. Consequently, the available data highlights a market driven by external security vendors and regulatory pressure rather than internal standardization initiatives from core model developers.
+
+Does any major AI lab offer a native, built-in standardized audit protocol for autonomous agents that is distinct from these third-party enterprise governance tools?
+
+**Sources:**
+- [https://insights.terabox.com/hub/top-ai-agent-security-tools-with-audit-trails-for-2026-enterprise-governance](https://insights.terabox.com/hub/top-ai-agent-security-tools-with-audit-trails-for-2026-enterprise-governance)
+- [https://www.lorikeetcx.ai/articles/best-ai-agents-full-audit-trails-regulated-2026](https://www.lorikeetcx.ai/articles/best-ai-agents-full-audit-trails-regulated-2026)
+- [https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026/](https://zylos.ai/en/research/2026-05-01-ai-agent-governance-compliance-2026/)
+- [https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/](https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/)
+- [https://www.lorikeetcx.ai/articles/ai-agents-audit-trails-regulated-industries-2026](https://www.lorikeetcx.ai/articles/ai-agents-audit-trails-regulated-industries-2026)
 
 ---
 
