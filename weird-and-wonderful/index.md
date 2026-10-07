@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 52
+**Status:** Active | **Entries:** 53
 
 ---
 
@@ -943,6 +943,21 @@ The search results confirm that the Faroe Islands are actively developing tidal 
 - [https://www.minesto.com/faroe-islands/](https://www.minesto.com/faroe-islands/)
 - [https://www.ivl.se/english/ivl/press/news/2025-08-22-tidal-power-will-provide-stable-and-renewable-electricity-on-the-faroe-islands.html](https://www.ivl.se/english/ivl/press/news/2025-08-22-tidal-power-will-provide-stable-and-renewable-electricity-on-the-faroe-islands.html)
 - [https://www.bbc.com/news/business-59401199](https://www.bbc.com/news/business-59401199)
+
+---
+
+### Are there 2026 electro-responsive lichen murals in Iceland generating haptic feedback for visually impaired tourists?
+
+*October 07, 2026*
+
+The search results confirm that Iceland has active research into haptic and acoustic technologies for the visually impaired, such as the University of Iceland’s "Sound of Vision" project, which uses wearable hardware to generate 3D auditory and haptic representations of the environment. Additionally, an Icelandic studio named Gagarin creates interactive tactile experiences within Iceland, though these are designed for general storytelling rather than specific electro-responsive lichen art. However, none of the provided sources mention "electro-responsive lichen murals" or any 2026-specific installations that generate haptic feedback from biological materials like lichen. The existing technologies focus on scanning real-world environments with sensors or using pre-designed tactile interfaces, rather than utilizing living lichen as an electro-sensitive medium for public art. Therefore, the specific premise of 2026 electro-responsive lichen murals in Iceland appears to be unsupported by current evidence. Do any experimental bio-art projects in Iceland currently integrate living lichen with conductive materials to create interactive sensory installations?
+
+**Sources:**
+- [https://iris.hi.is/en/projects/natural-sense-of-vision-through-acoustics-and-haptics/](https://iris.hi.is/en/projects/natural-sense-of-vision-through-acoustics-and-haptics/)
+- [https://dl.acm.org/doi/full/10.1145/3711931](https://dl.acm.org/doi/full/10.1145/3711931)
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC11314945/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11314945/)
+- [https://www.xeeltech.com/customer-gagarin/](https://www.xeeltech.com/customer-gagarin/)
+- [https://english.hi.is/news/providing-visually-impaired-people-natural-sense-vision](https://english.hi.is/news/providing-visually-impaired-people-natural-sense-vision)
 
 ---
 
