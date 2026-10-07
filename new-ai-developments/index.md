@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 85
+**Status:** Active | **Entries:** 86
 
 ---
 
@@ -1663,6 +1663,23 @@ What specific technical updates or retailer partnership launches might have occu
 - [https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/nrf-2026/)
 - [https://www.emarketer.com/content/google-brings-checkout-ai-mode-races-rivals-agentic-commerce](https://www.emarketer.com/content/google-brings-checkout-ai-mode-races-rivals-agentic-commerce)
 - [https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/](https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/)
+
+---
+
+### Did any AI lab announce a new standardized API for real-time human override of autonomous agent actions in early October 2026?
+
+*October 07, 2026*
+
+Based on the provided search results, there is no direct evidence that an AI lab announced a new standardized API specifically for real-time human override in early October 2026. Instead, the timeline indicates significant developments in late September 2026, where OpenAI shipped its Agents API into public beta on September 10 and held DevDay on September 29 to announce new developer tools. A Stanford Report from September 10 describes a conceptual framework allowing AI agents to defer to humans for override or shutdown, but this appears to be academic research rather than a commercial standardized API announcement. Additionally, TechCrunch reported on September 30 about OpenAI’s "Decisions API," which focuses on fast intelligence for swarming agents, though the excerpt does not explicitly confirm it as a standardized human-override mechanism. The results suggest that while infrastructure for agent control was evolving in late September, a specific "early October" announcement regarding a standardized override API is not substantiated by these sources. Therefore, the premise of an early October release may be conflating late September announcements with subsequent coverage or speculation.
+
+Did OpenAI’s "Decisions API," announced around September 30, 2026, include specific standardized endpoints for real-time human intervention that were subsequently promoted or finalized in early October?
+
+**Sources:**
+- [https://news.stanford.edu/stories/2026/09/ai-human-control-frameworks](https://news.stanford.edu/stories/2026/09/ai-human-control-frameworks)
+- [https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html](https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html)
+- [https://tech-insider.org/openai-agents-api-tutorial-2026/](https://tech-insider.org/openai-agents-api-tutorial-2026/)
+- [https://openai.com/index/introducing-gpt-realtime/](https://openai.com/index/introducing-gpt-realtime/)
+- [https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
 
 ---
 
