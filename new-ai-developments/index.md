@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 86
+**Status:** Active | **Entries:** 87
 
 ---
 
@@ -1680,6 +1680,23 @@ Did OpenAI’s "Decisions API," announced around September 30, 2026, include spe
 - [https://tech-insider.org/openai-agents-api-tutorial-2026/](https://tech-insider.org/openai-agents-api-tutorial-2026/)
 - [https://openai.com/index/introducing-gpt-realtime/](https://openai.com/index/introducing-gpt-realtime/)
 - [https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/)
+
+---
+
+### Did any AI lab launch new real-time translation features for live video conferencing in early October 2026?
+
+*October 08, 2026*
+
+Several AI labs launched or significantly updated real-time translation features for live video conferencing in September 2026, just prior to the early October timeframe. DeepL made headlines on September 15 by releasing voice-preserving models and a new desktop app that integrates with Zoom, Microsoft Teams, and Google Meet, while simultaneously powering Salesforce Dreamforce 2026. Around the same time, Alibaba’s Qwen team released Qwen3.8-LiveTranslate on September 19, an advanced model capable of processing live speech and optional video frames for simultaneous interpretation. Additionally, Qorden AI launched its Qordenate platform to offer real-time speech-to-speech translation specifically for multilingual video conferencing. Google had already entered this space earlier in the year with Gemini 3.5 Live Translate, which supports fluid voice translation across more than 70 languages. These developments indicate a rapid acceleration of audio-native, low-latency translation technologies designed to preserve speaker identity and emotion during live calls.
+
+Did any of these specific platforms, such as DeepL or Qorden AI, announce further enterprise-wide integrations or new product tiers specifically in the first week of October 2026?
+
+**Sources:**
+- [https://www.prnewswire.com/news-releases/deepl-voice-now-preserves-your-voice-in-real-time-multilingual-conversations-302878386.html](https://www.prnewswire.com/news-releases/deepl-voice-now-preserves-your-voice-in-real-time-multilingual-conversations-302878386.html)
+- [https://www.usatoday.com/press-release/story/36008/qorden-ai-launches-real-time-video-translation-platform/](https://www.usatoday.com/press-release/story/36008/qorden-ai-launches-real-time-video-translation-platform/)
+- [https://www.deepl.com/en/press-release/deepl-unveils-real-time-spoken-translation-breaking-the-next-language-barrier-with-voice-to-voice](https://www.deepl.com/en/press-release/deepl-unveils-real-time-spoken-translation-breaking-the-next-language-barrier-with-voice-to-voice)
+- [https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/](https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/)
+- [https://www.androidheadlines.com/2026/06/google-gemini-3-5-live-translate-real-time-voice.html](https://www.androidheadlines.com/2026/06/google-gemini-3-5-live-translate-real-time-voice.html)
 
 ---
 
