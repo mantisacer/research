@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 54
+**Status:** Active | **Entries:** 55
 
 ---
 
@@ -975,6 +975,23 @@ Is there a specific upcoming installation at Þingvellir or another Icelandic si
 - [https://lifestyle.sustainability-directory.com/learn/how-can-haptic-gloves-simulate-the-fine-texture-of-a-leaf-or-moss-for-a-sustainable-wellness-experience/](https://lifestyle.sustainability-directory.com/learn/how-can-haptic-gloves-simulate-the-fine-texture-of-a-leaf-or-moss-for-a-sustainable-wellness-experience/)
 - [https://www.nature.com/articles/s44460-026-00061-z](https://www.nature.com/articles/s44460-026-00061-z)
 - [https://www.xeeltech.com/customer-gagarin/](https://www.xeeltech.com/customer-gagarin/)
+
+---
+
+### Are there 2026 magnetic-levitation pottery wheels in Kyoto using rare-earth fields for zero-friction ceramic throwing?
+
+*October 09, 2026*
+
+The provided search results contain no information regarding magnetic-levitation pottery wheels or the use of rare-earth fields for zero-friction ceramic throwing in Kyoto. Instead, the sources focus on traditional craft experiences, specifically highlighting standard electric wheels used at established studios like Zuikogama and Kashogama for Kiyomizu-yaki production. These workshops offer conventional wheel-throwing sessions ranging from ¥1,800 to over ¥6,000, emphasizing centuries-old kiln lineages rather than advanced magnetic technology. Additionally, the results detail other Kyoto crafts such as Nishijin weaving at historic sites like Tondaya and Orinasukan, as well as shopping for traditional goods like Aritsugu knives and Zohiko lacquerware. The 2026 events mentioned, such as the Kyoto Pottery Expo (KYOPO), are centered on showcasing established pottery artists and traditional techniques rather than experimental levitation machinery. Therefore, there is no evidence in these texts to support the existence of magnetic-levitation pottery wheels in the city.
+
+Do any specific technical journals or advanced engineering firms in Kyoto currently publish research on applying magnetic levitation principles to artisanal manufacturing tools?
+
+**Sources:**
+- [https://travelzpro.com/explore/guides/kyoto/kyoto-craft-workshops-guide](https://travelzpro.com/explore/guides/kyoto/kyoto-craft-workshops-guide)
+- [https://global.kyoto-nokaze.com/blogs/guide/kiyomizuyaki-sato-matsuri](https://global.kyoto-nokaze.com/blogs/guide/kiyomizuyaki-sato-matsuri)
+- [https://global.kyoto-nokaze.com/blogs/guide/tougei-experience](https://global.kyoto-nokaze.com/blogs/guide/tougei-experience)
+- [https://kyopo.jp/en/](https://kyopo.jp/en/)
+- [https://trip.iko-yo.net/events/8453](https://trip.iko-yo.net/events/8453)
 
 ---
 
