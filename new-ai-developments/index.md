@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 89
+**Status:** Active | **Entries:** 90
 
 ---
 
@@ -1731,6 +1731,21 @@ It remains unclear whether any of the six tracked labs quietly launched a distin
 - [https://www.scriptbyai.com/ai-model-release-calendar/](https://www.scriptbyai.com/ai-model-release-calendar/)
 - [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/)
 - [https://opendatascience.com/google-launches-weathernext-3-with-real-time-satellite-data-and-hourly-ai-forecasts/](https://opendatascience.com/google-launches-weathernext-3-with-real-time-satellite-data-and-hourly-ai-forecasts/)
+
+---
+
+### Did any major AI lab release a new foundation model specifically optimized for robotic manipulation in early October 2026?
+
+*October 09, 2026*
+
+Based on the search results, no major AI lab released a new foundation model specifically optimized for robotic manipulation in early October 2026, as the most recent significant releases occurred in mid-to-late August and late July. Generalist AI launched GEN-1.5 on August 19, 2026, highlighting its ability to learn new physical tasks from single examples without gradient updates. Shortly before that, Xiaomi open-sourced its embodied AI foundation model on August 5, 2026, challenging proprietary systems by providing post-training and deployment code. Additionally, Google DeepMind released Gemini Robotics 2 on July 30, 2026, which focuses on whole-body control, advanced dexterity, and multi-robot collaboration rather than just manipulation. While these models represent significant advancements in embodied intelligence, their release dates precede the specified early October timeframe. It remains unclear whether any of these labs planned or executed a follow-up release specifically targeted at enhancing manipulation capabilities during the requested period.
+
+**Sources:**
+- [https://generalistai.com/blog/gen-1.5](https://generalistai.com/blog/gen-1.5)
+- [https://insideai.news/news/robotics/xiaomi-open-sources-embodied-ai-foundation-model-xiaomi-robotics-1/7082/](https://insideai.news/news/robotics/xiaomi-open-sources-embodied-ai-foundation-model-xiaomi-robotics-1/7082/)
+- [https://opper.ai/model-releases](https://opper.ai/model-releases)
+- [https://humanoid-world.com/en/foundation-models/](https://humanoid-world.com/en/foundation-models/)
+- [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 
 ---
 
