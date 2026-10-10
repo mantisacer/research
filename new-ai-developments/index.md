@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 91
+**Status:** Active | **Entries:** 92
 
 ---
 
@@ -1763,6 +1763,21 @@ Did any other major AI labs announce similar enterprise agentic products or asso
 - [https://labs.cloudsecurityalliance.org/research/csa-whitepaper-five-eyes-agentic-ai-guidance-analysis-202605/](https://labs.cloudsecurityalliance.org/research/csa-whitepaper-five-eyes-agentic-ai-guidance-analysis-202605/)
 - [https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026](https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026)
 - [https://aigovernance.com/news](https://aigovernance.com/news)
+
+---
+
+### Did any major AI lab release a new model with native real-time video understanding in mid-October 2026?
+
+*October 10, 2026*
+
+Based on the search results, there is no evidence that a major frontier AI lab such as OpenAI, Anthropic, or Google DeepMind released a model with native real-time video understanding in mid-October 2026. The only specific release from that timeframe mentioned is Pegasus 1.6 by TwelveLabs, announced on October 6, 2026, which focuses on video intelligence for physical AI but comes from a specialized video intelligence company rather than a general frontier lab. While several trackers aggregate releases from major labs like Meta and Mistral, the provided excerpts do not list any new model launches from these entities during the specified mid-October period. The available data suggests that significant native real-time video capabilities may still be emerging through specialized firms or have not yet been announced by the primary frontier players in this specific window. It remains unclear whether a major lab released such a technology slightly earlier or later than mid-October, as the provided logs do not contain a detailed daily breakdown for late October 2026.
+
+**Sources:**
+- [https://news.tunx.ai/ai-lab-model-releases-frontier-company-news-live-tracker-2026/](https://news.tunx.ai/ai-lab-model-releases-frontier-company-news-live-tracker-2026/)
+- [https://www.scriptbyai.com/ai-model-release-calendar/](https://www.scriptbyai.com/ai-model-release-calendar/)
+- [https://techpp.com/roundup/ai-model-launch-timeline/](https://techpp.com/roundup/ai-model-launch-timeline/)
+- [https://markets.businessinsider.com/news/stocks/twelvelabs-brings-video-understanding-to-physical-ai-with-latest-launch-1036600998](https://markets.businessinsider.com/news/stocks/twelvelabs-brings-video-understanding-to-physical-ai-with-latest-launch-1036600998)
+- [https://opper.ai/model-releases](https://opper.ai/model-releases)
 
 ---
 
