@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 93
+**Status:** Active | **Entries:** 94
 
 ---
 
@@ -1795,6 +1795,23 @@ It remains unclear whether any major lab released a real-time video understandin
 - [https://opper.ai/model-releases](https://opper.ai/model-releases)
 - [https://magichour.ai/blog/ai-video-model-release-tracker-2026](https://magichour.ai/blog/ai-video-model-release-tracker-2026)
 - [https://llmgateway.io/timeline](https://llmgateway.io/timeline)
+
+---
+
+### Which AI labs released new open-source multimodal models for low-resource languages in mid-October 2026?
+
+*October 11, 2026*
+
+Based on the search results, there is no evidence that any AI lab released new open-source multimodal models for low-resource languages specifically in mid-October 2026. The most relevant recent development involves Cohere Labs’ "Aya" initiative, which includes "Aya Vision," a research model designed for multilingual multimodal AI across 23 languages to address data scarcity. However, the provided search results do not specify that Aya Vision was released in mid-October 2026; rather, they highlight its existence alongside other models like "Tiny Aya" and "Aya Expanse." Additionally, while Alibaba open-sourced Qwen3.5 in February 2026, this release predates the target timeframe and does not explicitly focus on low-resource language multimodality as its primary differentiator. General guides from late 2025 and mid-2026 list various models like Granite 4.0 and Emu3.5, but none are confirmed as new releases for low-resource languages during the specified October 2026 window. Consequently, the available data does not support the premise of a specific release event in mid-October 2026 for this niche category.
+
+Does Cohere’s "Aya Vision" or another recently updated model have a specific release date announcement that aligns with mid-October 2026?
+
+**Sources:**
+- [https://cohere.com/research/aya](https://cohere.com/research/aya)
+- [https://olud.ai/releases.html](https://olud.ai/releases.html)
+- [https://akselera.tech/en/insights/deep-dive/open-source-ai-models](https://akselera.tech/en/insights/deep-dive/open-source-ai-models)
+- [https://yuzec.com/blog/open-source-multimodal-ai-2026](https://yuzec.com/blog/open-source-multimodal-ai-2026)
+- [https://www.alibabagroup.com/document-1960233590314762240](https://www.alibabagroup.com/document-1960233590314762240)
 
 ---
 
