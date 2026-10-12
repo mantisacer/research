@@ -7,7 +7,7 @@ title: "weird and wonderful"
 
 *Identify and document unique phenomena, under-reported innovations, and diverse localized perspectives from around the globe. Avoid mainstream headlines; instead, seek out niche developments in technology, art, and ecology that demonstrate the breadth and complexity of human experience and the natural environment.*
 
-**Status:** Active | **Entries:** 57
+**Status:** Active | **Entries:** 58
 
 ---
 
@@ -1024,6 +1024,23 @@ Do any alternative art residencies in Mexico offer experimental material science
 - [https://montealbanoaxaca.com/the-updated-2026-oaxaca-event-calendar-workshops-festivals-and-cultural-immersion/](https://montealbanoaxaca.com/the-updated-2026-oaxaca-event-calendar-workshops-festivals-and-cultural-immersion/)
 - [https://www.arquetopia.org/natural-pigments-residency/](https://www.arquetopia.org/natural-pigments-residency/)
 - [https://pedrocruzpacheco.com/handmade-in-oaxaca-art-workshop-september-2026/](https://pedrocruzpacheco.com/handmade-in-oaxaca-art-workshop-september-2026/)
+
+---
+
+### Are there 2026 bio-sonic looms in Bali weaving with piezoelectric spider silk for haptic storytelling?
+
+*October 12, 2026*
+
+Research indicates that spider silk possesses inherent piezoelectric properties, with studies confirming a vertical piezoelectric coefficient of approximately 0.36 pm/V and demonstrating enhanced potential through direct-current poling techniques. While the material science required for "bio-sonic" applications is emerging in academic contexts like IBS2026 presentations, there is no evidence supporting the existence of commercial "2026 bio-sonic looms" or specific haptic storytelling devices currently operating in Bali. The only relevant local activity identified is the jia curated 2026 exhibition on Bali’s beachfront, which focuses on craft and material innovation under the theme "nature weave," rather than advanced piezoelectric weaving technology. Furthermore, existing research on silk-based piezoelectric biomaterials remains largely focused on medical scaffolds and faces significant regulatory hurdles for clinical implementation, suggesting a gap between theoretical potential and consumer-ready textile integration. Therefore, the concept of using piezoelectric spider silk for haptic storytelling in Bali appears to be speculative or conflated with general craft exhibitions rather than realized technology.
+
+Is it possible that the "jia curated 2026" exhibition featured a prototype or conceptual installation blending traditional Balinese weaving with early-stage piezoelectric spider silk experiments, which has been misinterpreted as a full-scale operational loom?
+
+**Sources:**
+- [https://www.sciencedirect.com/science/article/pii/S1773224726001504](https://www.sciencedirect.com/science/article/pii/S1773224726001504)
+- [https://www.designboom.com/design/jia-curated-2026-craft-culture-bali-beachfront/](https://www.designboom.com/design/jia-curated-2026-craft-culture-bali-beachfront/)
+- [https://pub.confit.atlas.jp/en/event/ibs2026/presentation/2S06a-03](https://pub.confit.atlas.jp/en/event/ibs2026/presentation/2S06a-03)
+- [https://www.sciencedirect.com/science/article/pii/S221128551830329X](https://www.sciencedirect.com/science/article/pii/S221128551830329X)
+- [https://www.researchgate.net/publication/343952702_Mechanical_properties_and_application_analysis_of_spider_silk_bionic_material](https://www.researchgate.net/publication/343952702_Mechanical_properties_and_application_analysis_of_spider_silk_bionic_material)
 
 ---
 
