@@ -7,7 +7,7 @@ title: "New AI developments"
 
 *New AI news over the last few days. This could be new models that were released, new features, or company news.*
 
-**Status:** Active | **Entries:** 94
+**Status:** Active | **Entries:** 95
 
 ---
 
@@ -1812,6 +1812,23 @@ Does Cohere’s "Aya Vision" or another recently updated model have a specific r
 - [https://akselera.tech/en/insights/deep-dive/open-source-ai-models](https://akselera.tech/en/insights/deep-dive/open-source-ai-models)
 - [https://yuzec.com/blog/open-source-multimodal-ai-2026](https://yuzec.com/blog/open-source-multimodal-ai-2026)
 - [https://www.alibabagroup.com/document-1960233590314762240](https://www.alibabagroup.com/document-1960233590314762240)
+
+---
+
+### Did any major AI lab announce new standardized protocols for autonomous agent-to-agent dispute resolution in mid-October 2026?
+
+*October 12, 2026*
+
+The search results do not support the premise that a major AI lab announced new standardized protocols specifically for autonomous agent-to-agent dispute resolution in mid-October 2026. Instead, the data highlights the **Agent-to-Agent (A2A) Protocol**, an open standard hosted by the Linux Foundation, which reached its one-year milestone on April 9, 2026, with over 150 supporting organizations including Google, Microsoft, and AWS. The A2A protocol focuses on enabling agents to discover, communicate, transact, and delegate tasks across different frameworks, rather than resolving disputes, and has been integrated into major cloud platforms like Azure AI Foundry and Amazon Bedrock AgentCore Runtime. While the protocol includes features for secure transactions via the Agent Payments Protocol (AP2) and cryptographic identity verification through Signed Agent Cards, these mechanisms address interoperability and transactional integrity rather than conflict resolution or arbitration. The timeline of these announcements and adoptions clusters around April and May 2026, with no evidence of specific mid-October releases regarding dispute resolution protocols from major labs. Consequently, the available information suggests that while agent coordination is becoming standardized, the specific domain of autonomous dispute resolution remains distinct from the current A2A standardization efforts.
+
+Does the A2A protocol’s "transact" capability include any emerging sub-protocols for handling failed transactions or conflicting instructions between agents?
+
+**Sources:**
+- [https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year](https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year)
+- [https://www.programming-helper.com/tech/agent-to-agent-protocol-2026-google-a2a-standard](https://www.programming-helper.com/tech/agent-to-agent-protocol-2026-google-a2a-standard)
+- [https://www.prnewswire.com/news-releases/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year-302737641.html](https://www.prnewswire.com/news-releases/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year-302737641.html)
+- [https://skillgen.io/mcp-a2a-protocols-standardization-2026](https://skillgen.io/mcp-a2a-protocols-standardization-2026)
+- [https://www.gopher.security/news/nist-ai-agent-standards-2026-mcp-security](https://www.gopher.security/news/nist-ai-agent-standards-2026-mcp-security)
 
 ---
 
